@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Toby Jia-Jun Li"
-  avatar           : "profile.png"
+  avatar           : "toby_profile.png"
   bio              : "Ph.D. Student in Human-Computer Interaction"
   location         : "Carnegie Mellon University"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"academicpages"
+  github           : "https://github.com/tobyli"
   google_plus      :
   keybase          :
   instagram        :
