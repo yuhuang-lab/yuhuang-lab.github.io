@@ -22,6 +22,6 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 Publications
 ======
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
+{% include news.md %}
+
