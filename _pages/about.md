@@ -28,7 +28,20 @@ Our paper “[PUMICE: A Multi-Modal Agent that Learns Concepts and Conditionals 
 
 Travel
 ======
-
+* **2020-10-17 – 2020-10-23**<br>
+<s>Minneapolis, MN for CSCW 2020 and UIST 2020</s> (Cancelled due to COVID-19)
+* **2020-07-05 – 2020-07-10**<br>
+<s>Seattle, WA for ACL 2020</s> (Cancelled due to COVID-19)
+* **2020-04-25 – 2020-04-30**<br>
+<s>Honolulu, HI for CHI 2020</s> (Cancelled due to COVID-19)
+<span style="color:gray">
+* **2020-02-06 – 2020-02-09**<br>
+New York, NY for AAAI 2020
+* **2019-10-20 – 2019-10-23**<br>
+New Orleans, LA for UIST 2019
+* **2019-05-23 – 2019-05-24**<br>
+New York, NY for giving a talk at J.P. Morgan
+</span>
 
 Publications
 ======
