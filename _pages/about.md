@@ -41,6 +41,8 @@ New York, NY for AAAI 2020
 New Orleans, LA for UIST 2019
 * **2019-05-23 – 2019-05-24**<br>
 New York, NY for giving a talk at J.P. Morgan
+* **2019-05-04 – 2019-05-09**<br>
+Glasgow, Scotland for CHI 2019
 </span>
 
 Publications
