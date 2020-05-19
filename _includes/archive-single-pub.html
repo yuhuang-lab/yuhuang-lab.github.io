@@ -1,0 +1,139 @@
+{% include base_path %}
+
+{% if post.teaser %}
+{% assign teaser = post.teaser %}
+{% else %}
+{% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+{% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+{% assign title = post.title %}
+{% endif %}
+
+<style>
+    * {
+        box-sizing: border-box;
+    }
+
+    /* Create two unequal columns that floats next to each other */
+    .publication_column {
+        float: left;
+        padding: 10px;
+    }
+
+    .left {
+        margin-top: 10px;
+        width: 20%;
+    }
+
+    .right {
+        width: 80%;
+    }
+
+    /* Clear floats after the columns */
+    .publication_row:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+</style>
+
+
+<div class="{{ include.type | default: " list" }}__item">
+<article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="publication_row">
+        {% if teaser %}
+        <div class="publication_column left">
+            <img src="{{ teaser }}" alt="">
+        </div>
+        {% endif %}
+
+
+
+        {% if teaser %}
+            <div class="publication_column right">
+        {% else %}
+            <div class="publication_column">
+        {% endif %}
+            {% comment %}
+                showing the paper title
+            {% endcomment %}
+
+            {% if post.titleurl %}
+                <a href=" {{ post.titleurl }} "><b>{{ title }}</b></a><br>
+            {% elsif post.paperurl %}
+                <a href=" {{ post.paperurl }} "><b>{{ title }}</b></a><br>
+            {% else %}
+                <b>{{ title }}</b><br>
+            {% endif %}
+
+            {{ post.authors }}<br>
+            {{ post.venue }}<br>
+
+
+            {% if post.bestpaper %}
+            <b>{{ post.bestpaper }}</b><br>
+            {% endif %}
+
+            {% comment %}
+            {% if post.excerpt and site.read_more != 'enabled' %}
+            <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+            {% elsif post.excerpt and site.read_more == 'enabled' %}
+            <p class="archive__item-excerpt" itemprop="description">
+            <p>{{ post.excerpt | markdownify | remove: '
+            <p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read
+            more</a></strong></p></p>
+            {% endif %}
+            {% endcomment %}
+
+            {% comment %}
+            showing the download link
+            {% endcomment %}
+
+
+            {% if post.paperurl %}
+            [<a href=" {{ post.paperurl }} ">Paper PDF</a>]
+            {% endif %}
+
+            {% if post.acmdl %}
+            [<a href=" {{ post.acmdl }} ">ACM DL</a>]
+            {% endif %}
+
+            {% if post.springer %}
+            [<a href=" {{ post.springer }} ">SpringerLink</a>]
+            {% endif %}
+
+            {% if post.ieee %}
+            [<a href=" {{ post.ieee }} ">IEEE Xplore</a>]
+            {% endif %}
+
+            {% if post.googlepatents %}
+            [<a href=" {{ post.googlepatents }} ">Google Patents</a>]
+            {% endif %}
+
+            {% if post.demovideo %}
+            [<a href=" {{ post.demovideo }} ">Demo Video</a>]
+            {% endif %}
+
+            {% if post.talkvideo %}
+            [<a href=" {{ post.talkvideo }} ">Talk Video</a>]
+            {% endif %}
+
+            {% if post.website %}
+            [<a href=" {{ post.website }} ">Website</a>]
+            {% endif %}
+
+            {% if post.github %}
+            [<a href=" {{ post.github }} ">GitHub</a>]
+            {% endif %}
+
+            {% if post.googleplay %}
+            [<a href=" {{ post.googleplay }} ">Google Play</a>]
+            {% endif %}
+
+            </div>
+        </div>
+</article>
+</div>

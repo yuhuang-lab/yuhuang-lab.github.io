@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Toby Jia-Jun Li"
   avatar           : "toby_profile.jpg"
-  bio              : "Ph.D. Candidate<br>HCI Institute<br>Carnegie Mellon University"
+  bio              : "Ph.D. Candidate<br>HCI Institute<br>Carnegie Mellon University<br><br>tobyli@cs.cmu.edu"
   location         : "Pittsburgh, PA"
   employer         :
   pubmed           :
@@ -127,6 +127,7 @@ exclude:
   - "*.sublime-workspace"
   - .asset-cache
   - .bundle
+  - .idea
   - .jekyll-assets-cache
   - .sass-cache
   - CHANGELOG
@@ -181,10 +182,16 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  talks:
     output: true
     permalink: /:collection/:path/
-  talks:
+  minor_pubs:
+    output: true
+    permalink: /:collection/:path/
+  book_secs:
+    output: true
+    permalink: /:collection/:path/
+  patents:
     output: true
     permalink: /:collection/:path/
 
