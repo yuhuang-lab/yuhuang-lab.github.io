@@ -17,11 +17,16 @@ Toby has published in premier academic venues across HCI, NLP, systems, and soft
 News
 ======
 * **2020-04-07**<br>
-Our paper “[Privacy-Preserving Script Sharing in GUI-based Programming-by-Demonstration Systems](/files/TobyLi_CV_202005.pdf)” has been accepted to the [CSCW 2020](https://cscw.acm.org/2020/)! This work is done with my wonderful interns [Jingya Chen](https://www.jingyachen.net/resume) and [Brandon Canfield](http://brandoncanfield.coffee/).
+Our paper “[Privacy-Preserving Script Sharing in GUI-based Programming-by-Demonstration Systems](/files/li-privacy-cscw2020.pdf)” has been accepted to the [CSCW 2020](https://cscw.acm.org/2020/)! This work is done with my wonderful interns [Jingya Chen](https://www.jingyachen.net/resume) and [Brandon Canfield](http://brandoncanfield.coffee/).
 * **2020-02-27**<br>
-Our position paper “Towards Effective Human-AI Collaboration in GUI-Based Interactive Task Learning Agents” has been accepted to the CHI 2020 Workshop on Artificial Intelligence for HCI: A Modern Approach!
+Our position paper “[Towards Effective Human-AI Collaboration in GUI-Based Interactive Task Learning Agents](/files/2003.02622.pdf)” has been accepted to the [CHI 2020 Workshop on Artificial Intelligence for HCI: A Modern Approach](https://sites.google.com/view/ai4hci/)!
 * **2019-12-13**<br>
-I’m giving an invited talk at The AAAI-20 Workshop on Intelligent Process Automation (IPA 20). I hope you can come if you’ll be at AAAI 2020!
+I’m giving an invited talk at The [AAAI-20 Workshop on Intelligent Process Automation (IPA 20)](https://ipa-20.blueprismlabs.com/). I hope you can come if you’ll be at [AAAI 2020](https://aaai.org/Conferences/AAAI-20/)!
+* **2019-11-26**<br>
+My [thesis proposal document](/files/TobyLi_Thesis_Proposal.pdf) is available online, and the [video of my talk](https://www.youtube.com/watch?v=4qtOwQWIWPk) is available too!
+* **2019-08-01**<br>
+Our paper “[PUMICE: A Multi-Modal Agent that Learns Concepts and Conditionals from Natural Language and Demonstrations](/files/Li_Pumice_UIST19.pdf)” has been accepted to [UIST 2019](https://uist.acm.org/uist2019/)!
+
 
 Publications
 ======
