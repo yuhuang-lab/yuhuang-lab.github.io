@@ -22,6 +22,12 @@ Our position paper “[Towards Effective Human-AI Collaboration in GUI-Based Int
 * **2019-12-13**<br>
 I’m giving an invited talk at The [AAAI-20 Workshop on Intelligent Process Automation (IPA 20)](https://ipa-20.blueprismlabs.com/). I hope you can come if you’ll be at [AAAI 2020](https://aaai.org/Conferences/AAAI-20/)!
 
+<details><summary>CLICK ME</summary>
+<p>
+#### yes, even hidden code blocks!
+</p>
+</details>
+
 [expand]
 * **2019-11-26**<br>
 My [thesis proposal document](/files/TobyLi_Thesis_Proposal.pdf) is available online, and the [video of my talk](https://www.youtube.com/watch?v=4qtOwQWIWPk) is available too!
