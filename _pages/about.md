@@ -16,11 +16,11 @@ Toby has published in premier academic venues across HCI, NLP, systems, and soft
 
 News
 ======
-* **2020-04-07**\
-Our paper “Privacy-Preserving Script Sharing in GUI-based Programming-by-Demonstration Systems” has been accepted to the CSCW 2020! This work is done with my wonderful interns Jingya Chen and Brandon Canfield.
-* **2020-02-27**\
+* **2020-04-07**<br>
+Our paper “[Privacy-Preserving Script Sharing in GUI-based Programming-by-Demonstration Systems](/files/TobyLi_CV_202005.pdf)” has been accepted to the [CSCW 2020](https://cscw.acm.org/2020/)! This work is done with my wonderful interns [Jingya Chen](https://www.jingyachen.net/resume) and [Brandon Canfield](http://brandoncanfield.coffee/).
+* **2020-02-27**<br>
 Our position paper “Towards Effective Human-AI Collaboration in GUI-Based Interactive Task Learning Agents” has been accepted to the CHI 2020 Workshop on Artificial Intelligence for HCI: A Modern Approach!
-* **2019-12-13**\
+* **2019-12-13**<br>
 I’m giving an invited talk at The AAAI-20 Workshop on Intelligent Process Automation (IPA 20). I hope you can come if you’ll be at AAAI 2020!
 
 Publications
