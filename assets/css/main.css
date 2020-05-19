@@ -1,21 +1,21 @@
 /*
-Error: Invalid CSS after "...int/breakpoint"": expected "{", was "; // media quer..."
-        on line 14 of main.scss
+Error: Invalid CSS after "...int/breakpoint"": expected "{", was ";"
+        on line 13 of main.scss
 
+8:  *  - mademistakes.com
 9:  *  - https://twitter.com/mmistakes
 10:  *
 11: *\/
 12: 
-13: 
-14: @import "vendor/breakpoint/breakpoint"; // media query mixins
-15: @import "variables";
+13: @import "vendor/breakpoint/breakpoint";
+14: @import "variables";
+15: 
 16: @import "mixins";
 17: @import "vendor/susy/susy";
 18: 
-19: @import "reset";
 
 Backtrace:
-main.scss:14
+main.scss:13
 /Library/Ruby/Gems/2.3.0/gems/sass-3.7.4/lib/sass/scss/parser.rb:1308:in `expected'
 /Library/Ruby/Gems/2.3.0/gems/sass-3.7.4/lib/sass/scss/parser.rb:1238:in `expected'
 /Library/Ruby/Gems/2.3.0/gems/sass-3.7.4/lib/sass/scss/parser.rb:1233:in `tok!'
@@ -39,4 +39,4 @@ main.scss:14
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Invalid CSS after \"...int/breakpoint\"\": expected \"{\", was \"; // media quer...\"\A         on line 14 of main.scss\A \A 9:  *  - https://twitter.com/mmistakes\A 10:  *\A 11: */\A 12: \A 13: \A 14: @import \"vendor/breakpoint/breakpoint\"; // media query mixins\A 15: @import \"variables\";\A 16: @import \"mixins\";\A 17: @import \"vendor/susy/susy\";\A 18: \A 19: @import \"reset\";"; }
+  content: "Error: Invalid CSS after \"...int/breakpoint\"\": expected \"{\", was \";\"\A         on line 13 of main.scss\A \A 8:  *  - mademistakes.com\A 9:  *  - https://twitter.com/mmistakes\A 10:  *\A 11: */\A 12: \A 13: @import \"vendor/breakpoint/breakpoint\";\A 14: @import \"variables\";\A 15: \A 16: @import \"mixins\";\A 17: @import \"vendor/susy/susy\";\A 18: "; }
