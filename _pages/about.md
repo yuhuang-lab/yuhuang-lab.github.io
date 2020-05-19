@@ -1,15 +1,13 @@
 ---
 permalink: /
-title: ""
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Toby Jia-Jun Li is a Ph.D. Student in Human-Computer Interaction at Carnegie Mellon University
-
-Toby has research interests in human-computer interaction, intelligent user interface, end-user programming, conversational machine learning, and multi-modal mixed-initiative interfaces. His advisor is [Brad A. Myers](http://www.cs.cmu.edu/~bam/). He also works closely with [Tom M. Mitchell](http://www.cs.cmu.edu/~tom/). His research focuses on designing, implementing, and studying new interaction techniques, multi-modal interfaces, dialog systems, and the underlying AI techniques to empower intelligent agents to interactively learn new tasks and concepts from end users.
+Toby Jia-Jun Li is a Ph.D. Student in Human-Computer Interaction at Carnegie Mellon University. Toby has research interests in human-computer interaction, intelligent user interface, end-user programming, conversational machine learning, and multi-modal mixed-initiative interfaces. His advisor is [Brad A. Myers](http://www.cs.cmu.edu/~bam/). He also works closely with [Tom M. Mitchell](http://www.cs.cmu.edu/~tom/). His research focuses on designing, implementing, and studying new interaction techniques, multi-modal interfaces, dialog systems, and the underlying AI techniques to empower intelligent agents to interactively learn new tasks and concepts from end users.
 
 Toby has published in premier academic venues across HCI, NLP, systems, and software engineering (e.g., CHI, UIST, CSCW, ACL, MobiSys, VL/HCC), including two award-winning papers. Toby’s work is supported by a Yahoo! Fellowship through the [InMind project](http://www.cmu.edu/homepage/computing/2014/winter/project-inmind.shtml), by [J.P. Morgan](https://www.jpmorgan.com/global/technology/artificial-intelligence/awards), and by [NSF](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1814472&HistoricalAwards=false).
 
