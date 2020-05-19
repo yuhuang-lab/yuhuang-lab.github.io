@@ -34,7 +34,7 @@ author_profile: true
   {% include archive-single-pub.html %}
 {% endfor %}
 
-## Minor Lightly-Reviewed Posters, Extended Abstracts and Workshop Papers
+## Minor Lightly-Reviewed Posters, Extended Abstracts, and Workshop Papers
 
 {% assign sorted = site.minor_pubs | sort: 'date' %}
 
