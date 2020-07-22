@@ -7,14 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Toby Jia-Jun Li is a Ph.D. candidate in the [Human-Computer Interaction Institute](https://hcii.cmu.edu/) at Carnegie Mellon University. Toby has research interests in human-computer interaction, intelligent user interface, end-user programming, conversational machine learning, and multi-modal mixed-initiative interfaces. His advisor is [Brad A. Myers](http://www.cs.cmu.edu/~bam/). He also works closely with [Tom M. Mitchell](http://www.cs.cmu.edu/~tom/). His research focuses on designing, implementing, and studying new interaction techniques, multi-modal interfaces, dialog systems, and the underlying AI techniques to empower intelligent agents to interactively learn new tasks and concepts from end users.
+Toby Jia-Jun Li is a final year Ph.D. candidate in the [Human-Computer Interaction Institute](https://hcii.cmu.edu/) at Carnegie Mellon University, advised by [Brad A. Myers](http://www.cs.cmu.edu/~bam/). He also works closely with [Tom M. Mitchell](http://www.cs.cmu.edu/~tom/). Toby works at the intersection of HCI, AI, and end-user software engineering, where he uses human-centered methods to design, implement, and study interactive systems to empower end-users and novice programmers to create, configure, and extend AI-powered systems. His recent research focuses on combining conversational natural language instructions and programming by demonstration techniques to empower intelligent agents to interactively learn new tasks and concepts from end users.
 
-Toby has published in premier academic venues across HCI, NLP, systems, and software engineering (e.g., CHI, UIST, CSCW, ACL, MobiSys, VL/HCC), including two award-winning papers. Toby’s work is supported by a Yahoo! Fellowship through the [InMind project](http://www.cmu.edu/homepage/computing/2014/winter/project-inmind.shtml), by [J.P. Morgan](https://www.jpmorgan.com/global/technology/artificial-intelligence/awards), and by [NSF](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1814472&HistoricalAwards=false).
+Toby has authored more than 15 publications in premier academic venues across HCI, NLP, and systems (e.g., CHI, UIST, CSCW, ACL, MobiSys, VL/HCC), including two award-winning papers. Toby’s work is supported by a Yahoo! Fellowship through the [InMind project](http://www.cmu.edu/homepage/computing/2014/winter/project-inmind.shtml), by [J.P. Morgan](https://www.jpmorgan.com/global/technology/artificial-intelligence/awards), and by [NSF](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1814472&HistoricalAwards=false).
 
 
 
 News
 ======
+* **2020-07-21**<br>
+Two papers accepted at UIST 2020! The paper “[Multi-Modal Repairs of Conversational Breakdowns in Task-Oriented Dialogs](files/Li_Sovite_Error_Handling_UIST2020.pdf)” introduces a new multi-modal interface for users to discover and repair conversational breakdowns in task-oriented dialogs. The other paper "[Geno: A Developer Tool for Authoring Multimodal Interaction on Existing Web Applications](files/Sarmah_Geno_UIST2020.pdf)" is a collaboration with [Xiang 'Anthony' Chen's group](https://hci.ucla.edu) at UCLA on a new developer tool for authoring multi-modal interfaces for web applications! 
 * **2020-04-07**<br>
 Our paper “[Privacy-Preserving Script Sharing in GUI-based Programming-by-Demonstration Systems](/files/li-privacy-cscw2020.pdf)” has been accepted to the [CSCW 2020](https://cscw.acm.org/2020/)! This work is done with my wonderful interns [Jingya Chen](https://www.jingyachen.net/resume) and [Brandon Canfield](http://brandoncanfield.coffee/).
 * **2020-02-27**<br>
