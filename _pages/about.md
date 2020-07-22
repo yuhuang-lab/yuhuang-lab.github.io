@@ -16,7 +16,7 @@ Toby has authored more than 15 publications in premier academic venues across HC
 News
 ======
 * **2020-07-21**<br>
-Two papers accepted at UIST 2020! The paper “[Multi-Modal Repairs of Conversational Breakdowns in Task-Oriented Dialogs](files/Li_Sovite_Error_Handling_UIST2020.pdf)” introduces a new multi-modal interface for users to discover and repair conversational breakdowns in task-oriented dialogs. The other paper "[Geno: A Developer Tool for Authoring Multimodal Interaction on Existing Web Applications](files/Sarmah_Geno_UIST2020.pdf)" is a collaboration with [Xiang 'Anthony' Chen's group](https://hci.ucla.edu) at UCLA on a new developer tool for authoring multi-modal interfaces for web applications! 
+Two papers accepted at [UIST 2020](https://uist.acm.org/uist2020/)! The paper “[Multi-Modal Repairs of Conversational Breakdowns in Task-Oriented Dialogs](files/Li_Sovite_Error_Handling_UIST2020.pdf)” introduces a new multi-modal interface for users to discover and repair conversational breakdowns in task-oriented dialogs. The other paper "[Geno: A Developer Tool for Authoring Multimodal Interaction on Existing Web Applications](files/Sarmah_Geno_UIST2020.pdf)" is a collaboration with [Xiang 'Anthony' Chen's group](https://hci.ucla.edu) at UCLA on a new developer tool for authoring multi-modal interfaces for web applications! 
 * **2020-04-07**<br>
 Our paper “[Privacy-Preserving Script Sharing in GUI-based Programming-by-Demonstration Systems](/files/li-privacy-cscw2020.pdf)” has been accepted to the [CSCW 2020](https://cscw.acm.org/2020/)! This work is done with my wonderful interns [Jingya Chen](https://www.jingyachen.net/resume) and [Brandon Canfield](http://brandoncanfield.coffee/).
 * **2020-02-27**<br>
