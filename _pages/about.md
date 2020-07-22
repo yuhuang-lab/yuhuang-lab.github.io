@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Toby Jia-Jun Li is a final year Ph.D. candidate in the [Human-Computer Interaction Institute](https://hcii.cmu.edu/) at Carnegie Mellon University, advised by [Brad A. Myers](http://www.cs.cmu.edu/~bam/). He also works closely with [Tom M. Mitchell](http://www.cs.cmu.edu/~tom/). Toby works at the intersection of HCI, AI, and end-user software engineering, where he uses human-centered methods to design, implement, and study interactive systems to empower end-users and novice programmers to create, configure, and extend AI-powered systems. His recent research focuses on the multi-modal approach that combines conversational natural language instructions and programming by demonstration techniques to empower intelligent agents to interactively learn new tasks and concepts from end users.
+Toby Jia-Jun Li is a final year Ph.D. candidate in the [Human-Computer Interaction Institute](https://hcii.cmu.edu/) at Carnegie Mellon University, advised by [Brad A. Myers](http://www.cs.cmu.edu/~bam/). He also works closely with [Tom M. Mitchell](http://www.cs.cmu.edu/~tom/). Toby works at the intersection of HCI, AI, and end-user software engineering, where he uses human-centered methods to design, build, and study interactive systems to empower end-users and novice programmers to create, configure, and extend AI-powered computing systems. 
+
+His thesis focuses on a multi-modal approach that combines conversational natural language instructions and programming by demonstration techniques to enable intelligent agents to interactively learn new tasks and concepts from end users.
 
 Toby has authored more than 15 publications in premier academic venues across HCI, NLP, and systems (e.g., CHI, UIST, CSCW, ACL, MobiSys, VL/HCC), including two award-winning papers. Toby’s work is supported by a Yahoo! Fellowship through the [InMind project](http://www.cmu.edu/homepage/computing/2014/winter/project-inmind.shtml), by [J.P. Morgan](https://www.jpmorgan.com/global/technology/artificial-intelligence/awards), and by [NSF](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1814472&HistoricalAwards=false).
 
