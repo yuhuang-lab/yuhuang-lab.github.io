@@ -18,47 +18,47 @@ Toby has authored more than 15 publications in premier academic venues across HC
 News
 ======
 * **2020-08-28**<br>
-Our paper “[Multi-Modal Repairs of Conversational Breakdowns in Task-Oriented Dialogs](files/Li_Sovite_Error_Handling_UIST2020.pdf)” won the 🏆 Best Paper Award at [UIST 2020](https://uist.acm.org/uist2020/)! 
+🏆 Our paper “[Multi-Modal Repairs of Conversational Breakdowns in Task-Oriented Dialogs](files/Li_Sovite_Error_Handling_UIST2020.pdf)” won the Best Paper Award at [UIST 2020](https://uist.acm.org/uist2020/)! 
 * **2020-07-21**<br>
-Two papers accepted at [UIST 2020](https://uist.acm.org/uist2020/)! The paper “[Multi-Modal Repairs of Conversational Breakdowns in Task-Oriented Dialogs](files/Li_Sovite_Error_Handling_UIST2020.pdf)” introduces a new multi-modal interface for users to discover and repair conversational breakdowns in task-oriented dialogs. The other paper "[Geno: A Developer Tool for Authoring Multimodal Interaction on Existing Web Applications](files/Sarmah_Geno_UIST2020.pdf)" is a collaboration with [Xiang 'Anthony' Chen's group](https://hci.ucla.edu) at UCLA on a new developer tool for authoring multi-modal interfaces for web applications! 
+📃 Two papers accepted at [UIST 2020](https://uist.acm.org/uist2020/)! The paper “[Multi-Modal Repairs of Conversational Breakdowns in Task-Oriented Dialogs](files/Li_Sovite_Error_Handling_UIST2020.pdf)” introduces a new multi-modal interface for users to discover and repair conversational breakdowns in task-oriented dialogs. The other paper "[Geno: A Developer Tool for Authoring Multimodal Interaction on Existing Web Applications](files/Sarmah_Geno_UIST2020.pdf)" is a collaboration with [Xiang 'Anthony' Chen's group](https://hci.ucla.edu) at UCLA on a new developer tool for authoring multi-modal interfaces for web applications! 
 * **2020-04-07**<br>
-Our paper “[Privacy-Preserving Script Sharing in GUI-based Programming-by-Demonstration Systems](/files/li-privacy-cscw2020.pdf)” has been accepted to the [CSCW 2020](https://cscw.acm.org/2020/)! This work is done with my wonderful interns [Jingya Chen](https://www.jingyachen.net/resume) and [Brandon Canfield](http://brandoncanfield.coffee/).
+📃 Our paper “[Privacy-Preserving Script Sharing in GUI-based Programming-by-Demonstration Systems](/files/li-privacy-cscw2020.pdf)” has been accepted to the [CSCW 2020](https://cscw.acm.org/2020/)! This work is done with my wonderful interns [Jingya Chen](https://www.jingyachen.net/resume) and [Brandon Canfield](http://brandoncanfield.coffee/).
 * **2020-02-27**<br>
-Our position paper “[Towards Effective Human-AI Collaboration in GUI-Based Interactive Task Learning Agents](/files/2003.02622.pdf)” has been accepted to the [CHI 2020 Workshop on Artificial Intelligence for HCI: A Modern Approach](https://sites.google.com/view/ai4hci/)!
+📃 Our position paper “[Towards Effective Human-AI Collaboration in GUI-Based Interactive Task Learning Agents](/files/2003.02622.pdf)” has been accepted to the [CHI 2020 Workshop on Artificial Intelligence for HCI: A Modern Approach](https://sites.google.com/view/ai4hci/)!
 * **2019-12-13**<br>
-I’m giving an invited talk at The [AAAI-20 Workshop on Intelligent Process Automation (IPA 20)](https://ipa-20.blueprismlabs.com/). I hope you can come if you’ll be at [AAAI 2020](https://aaai.org/Conferences/AAAI-20/)!
+💬 I’m giving an invited talk at The [AAAI-20 Workshop on Intelligent Process Automation (IPA 20)](https://ipa-20.blueprismlabs.com/). I hope you can come if you’ll be at [AAAI 2020](https://aaai.org/Conferences/AAAI-20/)!
 
 
 <details><summary>MORE...</summary>
 <div markdown="1">
 * **2019-11-26**<br>
-My [thesis proposal document](/files/TobyLi_Thesis_Proposal.pdf) is available online, and the [video of my talk](https://www.youtube.com/watch?v=4qtOwQWIWPk) is available too!
+📃 My [thesis proposal document](/files/TobyLi_Thesis_Proposal.pdf) is available online, and the [video of my talk](https://www.youtube.com/watch?v=4qtOwQWIWPk) is available too!
 * **2019-08-01**<br>
-Our paper “[PUMICE: A Multi-Modal Agent that Learns Concepts and Conditionals from Natural Language and Demonstrations](/files/Li_Pumice_UIST19.pdf)” has been accepted to [UIST 2019](https://uist.acm.org/uist2019/)!
+📃 Our paper “[PUMICE: A Multi-Modal Agent that Learns Concepts and Conditionals from Natural Language and Demonstrations](/files/Li_Pumice_UIST19.pdf)” has been accepted to [UIST 2019](https://uist.acm.org/uist2019/)!
 * **2018-10-02**<br>
-My awesome summer intern Marissa Radensky will present our study [How End Users Express Conditionals in Programming by Demonstration for Mobile Apps](/files/p311-radensky.pdf) at [VL/HCC 2018](https://vlhcc18.github.io/)!
+💬 My awesome summer intern Marissa Radensky will present our study [How End Users Express Conditionals in Programming by Demonstration for Mobile Apps](/files/p311-radensky.pdf) at [VL/HCC 2018](https://vlhcc18.github.io/)!
 * **2018-07-31**<br>
-Our paper “[APPINITE: A Multi-Modal Interface for Specifying Data Descriptions in Programming by Demonstration Using Natural Language Instructions](/files/TobyLi-VLHCC18-APPINITE.pdf)” has been accepted to [VL/HCC 2018](https://vlhcc18.github.io/)!
+📃 Our paper “[APPINITE: A Multi-Modal Interface for Specifying Data Descriptions in Programming by Demonstration Using Natural Language Instructions](/files/TobyLi-VLHCC18-APPINITE.pdf)” has been accepted to [VL/HCC 2018](https://vlhcc18.github.io/)!
 * **2018-04-22**<br>
-I will talk about our position paper “[Supporting Co-adaptive Human-Agent Relationship through Programming by Demonstration using Existing GUIs](/files/Li_SupportingCoAaptiveHumanAgentRelationship.pdf)” at [CHI 2018 Workshop on Rethinking Interaction](https://ex-situ.lri.fr/workshops/rethinkinginteraction-18).
+💬 I will talk about our position paper “[Supporting Co-adaptive Human-Agent Relationship through Programming by Demonstration using Existing GUIs](/files/Li_SupportingCoAaptiveHumanAgentRelationship.pdf)” at [CHI 2018 Workshop on Rethinking Interaction](https://ex-situ.lri.fr/workshops/rethinkinginteraction-18).
 * **2018-02-28**<br>
-Our paper “[KITE: Building conversational bots from mobile apps](/files/TobyLi-MobiSys18-KITE.pdf)” has been accepted to [MobiSys 2018](https://www.sigmobile.org/mobisys/2018/)!
+📃 Our paper “[KITE: Building conversational bots from mobile apps](/files/TobyLi-MobiSys18-KITE.pdf)” has been accepted to [MobiSys 2018](https://www.sigmobile.org/mobisys/2018/)!
 * **2017-06-15**<br>
-We have received a Best Paper award at IS-EUD 2017 for our paper “[Programming IoT Devices by Demonstration Using Mobile Apps](/files/TobyLi-ISEUD2017-ProgrammingIoTDevicesByDemonstration.pdf)”.
+🏆 We have received a Best Paper award at IS-EUD 2017 for our paper “[Programming IoT Devices by Demonstration Using Mobile Apps](/files/TobyLi-ISEUD2017-ProgrammingIoTDevicesByDemonstration.pdf)”.
 * **2017-03-22**<br>
-Our paper “[Programming IoT Devices by Demonstration Using Mobile Apps](/files/TobyLi-ISEUD2017-ProgrammingIoTDevicesByDemonstration.pdf)” has been accepted to [The 6th International Symposium on End User Development (IS-EUD 2017)](http://iseud2017.tue.nl/).
+📃 Our paper “[Programming IoT Devices by Demonstration Using Mobile Apps](/files/TobyLi-ISEUD2017-ProgrammingIoTDevicesByDemonstration.pdf)” has been accepted to [The 6th International Symposium on End User Development (IS-EUD 2017)](http://iseud2017.tue.nl/).
 * **2017-02-24**<br>
-I will present our work on [Designing a Conversational Interface for a Multimodal Smartphone Programming-by-Demonstration Agent](/files/TobyLi_CoversationalUXForPBDAgent_CameraReady.pdf) at the [Conversational UX Design CHI 2017 Workshop](http://researcher.watson.ibm.com/researcher/view_group_subpage.php?id=7572).
+💬 I will present our work on [Designing a Conversational Interface for a Multimodal Smartphone Programming-by-Demonstration Agent](/files/TobyLi_CoversationalUXForPBDAgent_CameraReady.pdf) at the [Conversational UX Design CHI 2017 Workshop](http://researcher.watson.ibm.com/researcher/view_group_subpage.php?id=7572).
 * **2017-02-17**<br>
-We have received a Best Paper Honorable Mention award at CHI 2017 for our paper “[SUGILITE: Creating Multimodal Smartphone Automation by Demonstration](/files/TobyLi-CHI2017-Sugilite.pdf)”.
+🏅 We have received a Best Paper Honorable Mention award at CHI 2017 for our paper “[SUGILITE: Creating Multimodal Smartphone Automation by Demonstration](/files/TobyLi-CHI2017-Sugilite.pdf)”.
 * **2017-01-06**<br>
-Our paper “[SUGILITE: Creating Multimodal Smartphone Automation by Demonstration](/files/TobyLi-CHI2017-Sugilite.pdf)” has been accepted to CHI ’17! A [Video DEMO](https://www.youtube.com/watch?v=KMx7Ea6W6AQ) is also available.
+📃 Our paper “[SUGILITE: Creating Multimodal Smartphone Automation by Demonstration](/files/TobyLi-CHI2017-Sugilite.pdf)” has been accepted to CHI ’17! A [Video DEMO](https://www.youtube.com/watch?v=KMx7Ea6W6AQ) is also available.
 * **2016-03-10**<br>
-I’m honored to receive the Yahoo! Fellowship ($100,000/year worth) to support my research in automating cross-application tasks on smartphone.
+🏅 I’m honored to receive the Yahoo! Fellowship ($100,000/year worth) to support my research in automating cross-application tasks on smartphone.
 * **2016-02-16**<br>
-I will present our ongoing work “[Smartphone Text Entry in Cross-Application Tasks](/files/SmartphoneTextEntryinCrossApplicationTasks_150125.pdf)” on [CHI 2016 Workshop on Inviscid Text Entry and Beyond](http://www.textentry.org/chi2016/) at San Jose, CA on May 8, 2016
+💬 I will present our ongoing work “[Smartphone Text Entry in Cross-Application Tasks](/files/SmartphoneTextEntryinCrossApplicationTasks_150125.pdf)” on [CHI 2016 Workshop on Inviscid Text Entry and Beyond](http://www.textentry.org/chi2016/) at San Jose, CA on May 8, 2016
 * **2015-04-15**<br>
-Happy to announce that I’ll be joining HCII @ CMU as a PhD student in HCI starting next fall!
+🏫 Happy to announce that I’ll be joining HCII @ CMU as a PhD student in HCI starting next fall!
 </div>
 </details>
 <br>
