@@ -17,6 +17,8 @@ Toby has authored more than 15 publications in premier academic venues across HC
 
 News
 ======
+* **2020-08-28**<br>
+Our paper “[Multi-Modal Repairs of Conversational Breakdowns in Task-Oriented Dialogs](files/Li_Sovite_Error_Handling_UIST2020.pdf)” won the 🏆 Best Paper Award at [UIST 2020](https://uist.acm.org/uist2020/)! 
 * **2020-07-21**<br>
 Two papers accepted at [UIST 2020](https://uist.acm.org/uist2020/)! The paper “[Multi-Modal Repairs of Conversational Breakdowns in Task-Oriented Dialogs](files/Li_Sovite_Error_Handling_UIST2020.pdf)” introduces a new multi-modal interface for users to discover and repair conversational breakdowns in task-oriented dialogs. The other paper "[Geno: A Developer Tool for Authoring Multimodal Interaction on Existing Web Applications](files/Sarmah_Geno_UIST2020.pdf)" is a collaboration with [Xiang 'Anthony' Chen's group](https://hci.ucla.edu) at UCLA on a new developer tool for authoring multi-modal interfaces for web applications! 
 * **2020-04-07**<br>
