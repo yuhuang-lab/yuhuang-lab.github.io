@@ -11,7 +11,7 @@ Toby Jia-Jun Li is a final year Ph.D. candidate in the [Human-Computer Interacti
 
 Toby's thesis focuses on a multi-modal approach that combines conversational natural language instructions and programming by demonstration techniques to enable intelligent agents to interactively learn new tasks and concepts from end users.
 
-Toby has authored more than 15 publications in premier academic venues across HCI, NLP, and systems (e.g., CHI, UIST, CSCW, ACL, MobiSys, VL/HCC), including two award-winning papers. Toby’s work is supported by a Yahoo! Fellowship through the [InMind project](http://www.cmu.edu/homepage/computing/2014/winter/project-inmind.shtml), by [J.P. Morgan](https://www.jpmorgan.com/global/technology/artificial-intelligence/awards), and by [NSF](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1814472&HistoricalAwards=false).
+Toby has authored more than 15 publications in premier academic venues across HCI, NLP, and systems (e.g., CHI, UIST, CSCW, ACL, MobiSys, VL/HCC), including a best paper at UIST '20, a best paper at IS-EUD '17, and a best paper honorable mention paper at CHI '17. Toby’s work is supported by a Yahoo! Fellowship through the [InMind project](http://www.cmu.edu/homepage/computing/2014/winter/project-inmind.shtml), by [J.P. Morgan](https://www.jpmorgan.com/global/technology/artificial-intelligence/awards), and by [NSF](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1814472&HistoricalAwards=false).
 
 
 
