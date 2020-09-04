@@ -13,8 +13,7 @@ Toby's thesis focuses on a multi-modal approach that combines conversational nat
 
 Toby has authored more than 15 publications in premier academic venues across HCI, NLP, and systems (e.g., CHI, UIST, CSCW, ACL, MobiSys, VL/HCC), including a best paper at UIST '20, a best paper at IS-EUD '17, and a best paper honorable mention paper at CHI '17. Toby’s work is supported by a Yahoo! Fellowship through the [InMind project](http://www.cmu.edu/homepage/computing/2014/winter/project-inmind.shtml), by [J.P. Morgan](https://www.jpmorgan.com/global/technology/artificial-intelligence/awards), and by [NSF](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1814472&HistoricalAwards=false).
 
-<div style="width:500px;height:100px;border:1px solid #000;">This is a rectangle!</div>
-
+<p style="border:2px; border-style:solid; border-color:#000000; padding: 1em;">I'm on the job market this year, open to both academic and industry positions!</p>
 News
 ======
 * **2020-08-28**<br>
