@@ -26,6 +26,7 @@
     .left {
         margin-top: 10px;
         width: 20%;
+        text-align: center;
     }
 
     .right {
@@ -48,7 +49,7 @@
         <div class="publication_column left">
             <img src="{{ teaser }}" alt="">
             {% if post.venue_short %}
-               <br><b>{{ post.venue_short }}</b>
+               <br><br><b>{{ post.venue_short }}</b>
             {% endif %}
         </div>
         {% endif %}
