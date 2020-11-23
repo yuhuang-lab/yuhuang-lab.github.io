@@ -47,6 +47,9 @@
         {% if teaser %}
         <div class="publication_column left">
             <img src="{{ teaser }}" alt="">
+            {% if post.venue_short %}
+               <br><b>{{ post.venue_short }}</b>
+            {% endif %}
         </div>
         {% endif %}
 
