@@ -17,6 +17,8 @@ Toby has authored more than 15 publications in premier academic venues across HC
 
 News
 ======
+* **2020-12-12**<br>
+📃 Our paper “Screen2Vec: Semantic Embedding of GUI Screens and GUI Components” has been accepted to [CHI 2021](https://chi2021.acm.org/)! Stay tuned for the preprint and the open-sourced codebase.
 * **2020-08-28**<br>
 🏆 Our paper “[Multi-Modal Repairs of Conversational Breakdowns in Task-Oriented Dialogs](files/Li_Sovite_Error_Handling_UIST2020.pdf)” won the Best Paper Award at [UIST 2020](https://uist.acm.org/uist2020/)! 
 * **2020-07-21**<br>
