@@ -67,6 +67,8 @@ News
 
 Travel
 ======
+* **2021-05-08 – 2021-05-13**<br>
+~~Yokohama, Japan for CHI 2021~~ (Cancelled due to COVID-19)
 * **2020-10-17 – 2020-10-23**<br>
 ~~Minneapolis, MN for CSCW 2020 and UIST 2020~~ (Cancelled due to COVID-19)
 * **2020-07-05 – 2020-07-10**<br>
