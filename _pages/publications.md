@@ -42,10 +42,5 @@ author_profile: true
   {% include archive-single-pub.html %}
 {% endfor %}
 
-## Invited Talks and Presentation
 
-{% assign sorted = site.talks | sort: 'date' %}
 
-{% for post in sorted reversed %}
-  {% include archive-single-pub.html %}
-{% endfor %}
