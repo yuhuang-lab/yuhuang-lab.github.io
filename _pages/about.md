@@ -20,7 +20,7 @@ News
 * **2020-12-19**<br>
 🏆 My wonderful summer REU student Lindsay Popowski won CRA's  [2021 Outstanding Undergraduate Researcher Award](https://cra.org/2021-outstanding-undergraduate-researcher-award-recipients/)! 
 * **2020-12-12**<br>
-📃 Our paper “Screen2Vec: Semantic Embedding of GUI Screens and GUI Components” has been accepted to [CHI 2021](https://chi2021.acm.org/)! Stay tuned for the preprint and the open-sourced codebase.
+📃 Our paper “[Screen2Vec: Semantic Embedding of GUI Screens and GUI Components](https://arxiv.org/abs/2101.11103)” has been accepted to [CHI 2021](https://chi2021.acm.org/)! The code is also open-sourced [here](https://github.com/tobyli/screen2vec).
 * **2020-08-28**<br>
 🏆 Our paper “[Multi-Modal Repairs of Conversational Breakdowns in Task-Oriented Dialogs](files/Li_Sovite_Error_Handling_UIST2020.pdf)” won the Best Paper Award at [UIST 2020](https://uist.acm.org/uist2020/)! 
 * **2020-07-21**<br>
