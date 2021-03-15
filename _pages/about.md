@@ -17,6 +17,8 @@ Toby has authored more than 15 publications in premier academic venues across HC
 
 News
 ======
+* **2021-03-14**<br>
+🏆 Our paper “[Screen2Vec: Semantic Embedding of GUI Screens and GUI Components](https://arxiv.org/abs/2101.11103)” won a Best Paper Honorable Mention Award at [CHI 2021](https://chi2021.acm.org/)!
 * **2020-12-19**<br>
 🏆 My wonderful summer REU student Lindsay Popowski won CRA's  [2021 Outstanding Undergraduate Researcher Award](https://cra.org/2021-outstanding-undergraduate-researcher-award-recipients/)! 
 * **2020-12-12**<br>
