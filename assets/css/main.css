@@ -53,7 +53,7 @@ audio:not([controls]) {
 }
 
 a {
-    color: navy
+    color: #b37f20;
 }
 
 a:hover, a:active {
@@ -3212,10 +3212,17 @@ input[type="file"]:focus, input[type="radio"]:focus, input[type="checkbox"]:focu
     font-size: 1em
 }
 
-.sidebar p, .sidebar li {
+.sidebar li {
     font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
     font-size: .75em;
-    line-height: 1.5
+    line-height: 1.5;
+}
+
+.sidebar p {
+    font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+    font-size: .75em;
+    line-height: 1.5;
+    margin-bottom: 0.1em;
 }
 
 .sidebar img {
@@ -3304,6 +3311,8 @@ input[type="file"]:focus, input[type="radio"]:focus, input[type="checkbox"]:focu
 .author__bio {
     margin: 0
 }
+
+
 
 @media (min-width: 57.8125em) {
     .author__bio {
