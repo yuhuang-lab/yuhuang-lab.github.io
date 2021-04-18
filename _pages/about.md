@@ -1,19 +1,23 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Toby Jia-Jun Li is a final year Ph.D. candidate in the [Human-Computer Interaction Institute](https://hcii.cmu.edu/) at Carnegie Mellon University, advised by [Brad A. Myers](http://www.cs.cmu.edu/~bam/). He also works closely with [Tom M. Mitchell](http://www.cs.cmu.edu/~tom/). Toby works at the intersection of HCI, AI, and end-user software engineering, where he uses human-centered methods to design, build, and study interactive systems to empower end-users and novice programmers to create, configure, and extend AI-powered computing systems. 
+<img src="images/notre_dame_logo.png" alt="Logo of the University of Notre Dame" width="200">
 
-Toby's thesis focuses on a multi-modal approach that combines conversational natural language instructions and programming by demonstration techniques to enable intelligent agents to interactively learn new tasks and concepts from end users.
+About me
+=====
+Toby Jia-Jun Li is an Assistant Professor (starting in Fall 2021) in the [Department of Computer Science and Engineering](https://cse.nd.edu/) at the [University of Notre Dame](https://www.nd.edu/). Toby received a Ph.D. degree in [Human-Computer Interaction](https://hcii.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), where he was advised by [Brad A. Myers](http://www.cs.cmu.edu/~bam/). Toby also worked closely with [Tom M. Mitchell](http://www.cs.cmu.edu/~tom/). Prior to Ph.D., Toby received his Bachelor's degree in [Computer Science](https://www.cs.umn.edu/) from the [University of Minnesota](https://twin-cities.umn.edu/) where he worked with [Brent Hecht](https://brenthecht.com/) as a member of [GroupLens Research](https://grouplens.org/).
 
-Toby has authored more than 15 publications in premier academic venues across HCI, NLP, and systems (e.g., CHI, UIST, CSCW, ACL, MobiSys, VL/HCC), including a best paper honorable mention paper at CHI '21, a best paper at UIST '20, a best paper at IS-EUD '17, and a best paper honorable mention paper at CHI '17. Toby’s work is supported by a Yahoo! Fellowship through the [InMind project](http://www.cmu.edu/homepage/computing/2014/winter/project-inmind.shtml), by [J.P. Morgan](https://www.jpmorgan.com/global/technology/artificial-intelligence/awards), and by [NSF](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1814472&HistoricalAwards=false).
+Toby works at the intersection of **Human-Computer Interaction (HCI)**, **End-User Software Engineering**, **Machine Learning (ML)**, and **Natural Language Processing (NLP)** applications, where he uses human-centered methods to design, build, and study interactive systems to empower individuals to create, configure, and extend AI-powered computing systems. His recent work seeks to address the **societal challenges in the future of work** through a bottom-up **human-AI collaborative** approach that helps individual workers automate and augment their tasks with AI systems.
 
-<p style="border:2px; border-style:solid; border-color:#000000; padding: 1em;">I'm on the academic job market this year! Here are my <a href="https://toby.li/files/TobyLi_CV.pdf">curriculum vitae</a>, <a href="https://toby.li/files/Research%20Statement_Toby%20Li.pdf">research statement</a>, <a href="https://toby.li/files/Teaching%20Statement_Toby%20Li.pdf">teaching statement</a>, and <a href="https://toby.li/files/Diversity%20Statement_Toby%20Li.pdf">diversity statement</a>.</p>
+Toby often publishes in premier academic venues across HCI, NLP, and systems (e.g., CHI, UIST, CSCW, ACL, MobiSys, VL/HCC), **including 4 award-winning papers**: a best paper honorable mention paper at CHI '21, a best paper at UIST '20, a best paper at IS-EUD '17, and a best paper honorable mention paper at CHI '17. Toby has collaborated with Microsoft Research, IBM Research, Verizon, and J.P. Morgan. His work has been supported by Yahoo! through the [InMind project](http://www.cmu.edu/homepage/computing/2014/winter/project-inmind.shtml), by [J.P. Morgan](https://www.jpmorgan.com/global/technology/artificial-intelligence/awards), and by [NSF](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1814472&HistoricalAwards=false).
+
+<p style="border:2px; border-style:solid; border-color:#000000; padding: 1em;">I am recruiting Ph.D. students, undergraduate researchers, and visiting researchers. Send me an <a href="mailto:tobyli@cs.cmu.edu">email</a> with you CV and a brief introduction of your research interests if you are interested! You may find more about my research in my <a href="https://toby.li/files/Research%20Statement_Toby%20Li.pdf" target="_blank">research statement</a>.</p>
 
 News
 ======
@@ -51,7 +55,7 @@ News
 📃 Our paper “[KITE: Building conversational bots from mobile apps](/files/TobyLi-MobiSys18-KITE.pdf)” has been accepted to [MobiSys 2018](https://www.sigmobile.org/mobisys/2018/)!
 * **2017-06-15**<br>
 🏆 We have received a Best Paper award at IS-EUD 2017 for our paper “[Programming IoT Devices by Demonstration Using Mobile Apps](/files/TobyLi-ISEUD2017-ProgrammingIoTDevicesByDemonstration.pdf)”.
-* **2017-03-22**<br>
+https://www.nd.edu/* **2017-03-22**<br>
 📃 Our paper “[Programming IoT Devices by Demonstration Using Mobile Apps](/files/TobyLi-ISEUD2017-ProgrammingIoTDevicesByDemonstration.pdf)” has been accepted to [The 6th International Symposium on End User Development (IS-EUD 2017)](http://iseud2017.tue.nl/).
 * **2017-02-24**<br>
 💬 I will present our work on [Designing a Conversational Interface for a Multimodal Smartphone Programming-by-Demonstration Agent](/files/TobyLi_CoversationalUXForPBDAgent_CameraReady.pdf) at the [Conversational UX Design CHI 2017 Workshop](http://researcher.watson.ibm.com/researcher/view_group_subpage.php?id=7572).
