@@ -118,7 +118,7 @@ I am excited to work with undergraduate students who are interested in my resear
 Interested individuals may [contact me](mailto: tobyli@cs.cmu.edu) with the following information: (1) your CV; (2) a copy of your transcripts; (3) a brief description of your background and research interests. **The subject of the email should start with "[PROSPECTIVE-NDUG]".** We can then find a time to meet to discuss potential projects.
 
 ## Visiting Students and Scholars
-I might be able to host visiting students (undergraduate or graduate) and scholars at times depending on research interests, projects needs, and funding situations. 
+I might be able to host visiting students (undergraduate or graduate) and scholars at times depending on research interests, project needs, and funding situations. 
 
 Interested individuals may [contact me](mailto: tobyli@cs.cmu.edu) with the following information: (1) your CV; (2) a copy of your transcripts (if student); (3) a brief description of your background and research interests; and (4) representative publications or writing samples (course papers are okay) if available. **The subject of the email should start with "[PROSPECTIVE-VISITOR]".** I will reach out if your background seems like a potential good fit.
 
