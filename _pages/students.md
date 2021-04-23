@@ -6,7 +6,7 @@ author_profile: true
 ---
 Past Students
 =====
-## Graduate Students Mentored prior to Notre Dame
+## Graduate Students Mentored Prior to Notre Dame
 <table style="border-collapse: collapse; table-layout: fixed; vertical-align: top;">
  <tr>
     <td>
@@ -24,7 +24,8 @@ Past Students
     </td>
  </tr>
 </table>
-## Undergraduate Students Mentored prior to Notre Dame
+
+## Undergraduate Students Mentored Prior to Notre Dame
 <table style="border-collapse: collapse; table-layout: fixed; vertical-align: top;">
  <tr>
     <td> 
