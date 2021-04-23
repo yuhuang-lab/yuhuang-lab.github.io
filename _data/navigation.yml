@@ -5,7 +5,10 @@ main:
 
   - title: "Teaching"
     url: /teaching/
-    
+
+  - title: "Students"
+    url: /students/
+
   - title: "CV"
     url: /files/TobyLi_CV.pdf
 
