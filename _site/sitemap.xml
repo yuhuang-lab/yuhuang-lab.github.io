@@ -203,6 +203,9 @@
 <loc>http://localhost:4000/markdown/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/misc/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/non-menu-page/</loc>
 </url>
 <url>
@@ -310,7 +313,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/files/TobyLi_CV.pdf</loc>
-<lastmod>2021-04-17T10:54:02-04:00</lastmod>
+<lastmod>2021-04-23T15:39:03-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/files/TobyLi_CV_202005.pdf</loc>
@@ -327,6 +330,10 @@
 <url>
 <loc>http://localhost:4000/files/TobyLi_CoversationalUXForPBDAgent_CameraReady.pdf</loc>
 <lastmod>2020-05-19T13:18:41-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/files/TobyLi_Thesis.pdf</loc>
+<lastmod>2021-04-23T14:41:15-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/files/TobyLi_Thesis_Proposal.pdf</loc>
