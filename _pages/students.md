@@ -124,7 +124,9 @@ I might be able to host visiting students (undergraduate or graduate) and schola
 Interested individuals may [contact me](mailto: tobyli@cs.cmu.edu) with the following information: (1) your CV; (2) a copy of your transcripts (if student); (3) a brief description of your background and research interests; and (4) representative publications or writing samples (course papers are okay) if available. **The subject of the email should start with "[PROSPECTIVE-VISITOR]".** I will reach out if your background seems like a potential good fit.
 
 ## About Notre Dame
+<img src="/images/notre%20dame%20campus.png" alt="University of Notre Dame Campus" width="100%"><br><br>
 <img src="/images/notre_dame_logo.png" alt="Logo of the University of Notre Dame" width="200">
+
 
 The University of Notre Dame, founded in 1842, is a premier private research university located in Notre Dame, Indiana. Notre Dame has been consistently recognized as one of the top universities in the United States (Ranked [#19 in the 2021 US News ranking](https://www.usnews.com/best-colleges/university-of-notre-dame-1840), [#18 in the 2019 Forbes ranking](https://www.forbes.com/colleges/university-of-notre-dame/?list=top-colleges/)). As of 2019, its $13.8 billion endowment is [one of the largest of any U.S. university](https://en.wikipedia.org/wiki/List_of_colleges_and_universities_in_the_United_States_by_endowment). The university's approximately 134,000 alumni constitute one of the strongest college alumni networks in the country. The university's athletic teams are members of the NCAA Division I and are known collectively as the Fighting Irish. Notre Dame is known for its [football team](https://und.com/sports/football/), which contributed to its rise to prominence on the national stage in the early 20th century.
 
