@@ -111,17 +111,17 @@ I have several Ph.D. positions in [Computer Science](https://cse.nd.edu/) at the
  
 Candidates with ANY of the following qualifications would be particularly encouraged: (1) prior experience in designing, implementing, and studying interactive systems; (2) knowledge in machine learning and natural language processing; (3) skills in developing AR/VR applications; (3) prior experience in software engineering (SE) or programming language (PL) research; (4) interdisciplinary research backgrounds (design, psychology, social science etc.)   
    
-Interested individuals may [contact me](mailto: tobyli@cs.cmu.edu) with the following information: (1) your CV; (2) a copy of your transcripts; (3) a brief description of your background and research interests; and (4) representative publications or writing samples (course papers are okay) if available. **The subject of the email should start with "[PROSPECTIVE-PHD]".** I will reach out if your background seems like a potential good fit.
+Interested individuals may [contact me](mailto: toby.j.li@nd.edu) with the following information: (1) your CV; (2) a copy of your transcripts; (3) a brief description of your background and research interests; and (4) representative publications or writing samples (course papers are okay) if available. **The subject of the email should start with "[PROSPECTIVE-PHD]".** I will reach out if your background seems like a potential good fit.
  
 ## Undergraduate Students at Notre Dame
 I am excited to work with undergraduate students who are interested in my research. Many undergraduate researchers who worked with me became co-authors on my papers, and a lot of them are now at top graduate schools (e.g., Stanford, University of Washington, CMU, Cambridge) and industry companies (e.g., Google, Facebook, Microsoft). Projects are often available for students with backgrounds or interests in software development, machine learning, natural language processing, data science, UX research, OR UX design. 
 
-Interested individuals may [contact me](mailto: tobyli@cs.cmu.edu) with the following information: (1) your CV; (2) a copy of your transcripts; (3) a brief description of your background and research interests. **The subject of the email should start with "[PROSPECTIVE-NDUG]".** We can then find a time to meet to discuss potential projects.
+Interested individuals may [contact me](mailto: toby.j.li@nd.edu) with the following information: (1) your CV; (2) a copy of your transcripts; (3) a brief description of your background and research interests. **The subject of the email should start with "[PROSPECTIVE-NDUG]".** We can then find a time to meet to discuss potential projects.
 
 ## Visiting Students and Scholars
 I might be able to host visiting students (undergraduate or graduate) and scholars at times depending on research interests, project needs, and funding situations. 
 
-Interested individuals may [contact me](mailto: tobyli@cs.cmu.edu) with the following information: (1) your CV; (2) a copy of your transcripts (if student); (3) a brief description of your background and research interests; and (4) representative publications or writing samples (course papers are okay) if available. **The subject of the email should start with "[PROSPECTIVE-VISITOR]".** I will reach out if your background seems like a potential good fit.
+Interested individuals may [contact me](mailto: toby.j.li@nd.edu) with the following information: (1) your CV; (2) a copy of your transcripts (if student); (3) a brief description of your background and research interests; and (4) representative publications or writing samples (course papers are okay) if available. **The subject of the email should start with "[PROSPECTIVE-VISITOR]".** I will reach out if your background seems like a potential good fit.
 
 ## About Notre Dame
 <img src="/images/notre%20dame%20campus.png" alt="University of Notre Dame Campus" width="100%"><br><br>
