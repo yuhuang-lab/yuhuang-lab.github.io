@@ -82,8 +82,9 @@ analytics:
 author:
   name             : "Toby Jia-Jun Li"
   avatar           : "toby_profile.jpg"
-  bio              : "Pronoun: he/him<br><br>Assistant Professor <p><a href='https://cse.nd.edu/' target='_blank'>Department of Computer Science and Engineering</a></p> <p><a href='https://www.nd.edu/' target='_blank'>University of Notre Dame</a></p>"
-  location         : "Notre Dame, IN"
+  bio              : "Pronoun: he/him<br><br>Assistant Professor <p><a href='https://cse.nd.edu/' target='_blank'>Department of Computer Science and Engineering</a></p> <p><a href='https://www.nd.edu/' target='_blank'>University of 
+  Dame</a></p>"
+  location         : "214B Cushing Hall, University of Notre Dame"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=-qCUO0kAAAAJ&hl=en"
