@@ -61,7 +61,7 @@ Past Students
             <img src="/images/students/jingya.jpeg" class="student-profile-pic">
         </div>
         <b><a href="https://www.linkedin.com/in/jingya-chen-61745b154/" target="_blank">Jingya Chen</a></b> (Summer 2019 - Fall 2020) <br>
-        CMU ETC Master's Student <br>
+        Master Student at CMU ETC <br>
         First job, UX Designer at MIT <br>
         Now UX Designer at Microsoft Research
     </td>
