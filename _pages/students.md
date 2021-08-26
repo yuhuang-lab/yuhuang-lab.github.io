@@ -30,6 +30,25 @@ Current Students
         Undergraduate Researcher at Notre Dame 
     </td>
  </tr>
+  <tr>
+   <td>
+        <div style="text-align: center">
+            <img src="/images/students/zheng_zhang.png" class="student-profile-pic">
+        </div>
+        <b><a href="https://www.cs.rochester.edu/u/zzhang95/" target="_blank">Zheng Zhang</a></b> (Fall 2021 - Present) <br>
+        Visiting Ph.D. Student at Notre Dame 
+    </td>
+    <td>
+        <div style="text-align: center">
+            <img src="/images/students/simret.png" class="student-profile-pic">
+        </div>
+        <b><a href="https://www.linkedin.com/in/simret-araya/?originalSubdomain=et" target="_blank">Simret Araya</a></b> (Spring 2022 - Present) <br>
+        Ph.D. Student at Notre Dame 
+    </td>
+    <td>
+        
+    </td>
+ </tr>
 </table>
 
 Past Students
