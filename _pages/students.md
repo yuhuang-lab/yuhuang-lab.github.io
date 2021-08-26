@@ -6,7 +6,6 @@ author_profile: true
 ---
 Current Students
 =====
-## Graduate Students
 <table style="border-collapse: collapse; table-layout: fixed; vertical-align: top;">
  <tr>
     <td>
@@ -17,8 +16,18 @@ Current Students
         Ph.D. Student at Notre Dame 
     </td>
     <td>
+        <div style="text-align: center">
+            <img src="/images/students/zheng_ning.png" class="student-profile-pic">
+        </div>
+        <b><a href="https://www.linkedin.com/in/realningzheng/?locale=en_US" target="_blank">Zheng Ning</a></b> (Fall 2021 - Present) <br>
+        Ph.D. Student at Notre Dame 
     </td>
     <td>
+        <div style="text-align: center">
+            <img src="/images/students/tor_cox.png" class="student-profile-pic">
+        </div>
+        <b><a href="https://www.linkedin.com/in/victor-cox-iv/" target="_blank">Victor Cox</a></b> (Fall 2021 - Present) <br>
+        Undergraduate Researcher at Notre Dame 
     </td>
  </tr>
 </table>
