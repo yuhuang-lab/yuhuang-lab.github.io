@@ -11,7 +11,7 @@ redirect_from:
 
 About me
 =====
-Toby Jia-Jun Li is an Assistant Professor in the [Department of Computer Science and Engineering](https://cse.nd.edu/) at the [University of Notre Dame](https://www.nd.edu/). Toby received a Ph.D. degree in [Human-Computer Interaction](https://hcii.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), where he was advised by [Brad A. Myers](http://www.cs.cmu.edu/~bam/). Toby also worked closely with [Tom M. Mitchell](http://www.cs.cmu.edu/~tom/). Prior to Ph.D., Toby received his Bachelor's degree in [Computer Science](https://www.cs.umn.edu/) from the [University of Minnesota](https://twin-cities.umn.edu/) where he worked with [Brent Hecht](https://brenthecht.com/) as a member of [GroupLens Research](https://grouplens.org/).
+Toby Jia-Jun Li is an Assistant Professor in the [Department of Computer Science and Engineering](https://cse.nd.edu/) at the [University of Notre Dame](https://www.nd.edu/) where he directs the SaNDwich Lab. Toby received a Ph.D. degree in [Human-Computer Interaction](https://hcii.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), where he was advised by [Brad A. Myers](http://www.cs.cmu.edu/~bam/). Toby also worked closely with [Tom M. Mitchell](http://www.cs.cmu.edu/~tom/). Prior to Ph.D., Toby received his Bachelor's degree in [Computer Science](https://www.cs.umn.edu/) from the [University of Minnesota](https://twin-cities.umn.edu/) where he worked with [Brent Hecht](https://brenthecht.com/) as a member of [GroupLens Research](https://grouplens.org/).
 
 Toby works at the intersection of **Human-Computer Interaction (HCI)**, **End-User Software Engineering**, **Machine Learning (ML)**, and **Natural Language Processing (NLP)** applications, where he uses human-centered methods to design, build, and study interactive systems to empower individuals to create, configure, and extend AI-powered computing systems. His recent work seeks to address the **societal challenges in the future of work** through a bottom-up **human-AI collaborative** approach that helps individual workers automate and augment their tasks with AI systems.
 
@@ -75,6 +75,8 @@ https://www.nd.edu/* **2017-03-22**<br>
 
 Travel
 ======
+* **2021-11-08 – 2020-11-10**<br>
+Pittsburgh, PA for PLATEAU 2021
 * **2021-05-08 – 2021-05-13**<br>
 ~~Yokohama, Japan for CHI 2021~~ (Cancelled due to COVID-19)
 * **2020-10-17 – 2020-10-23**<br>
