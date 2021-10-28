@@ -21,8 +21,12 @@ Toby publishes at premier academic venues across HCI, NLP, and systems (e.g., CH
 
 News
 ======
+* **2021-10-28**<br>
+🏅 My Ph.D. disseration “[A Multi-Modal Intelligent Agent that Learns from Demonstrations and Natural Language Instructions](/files/TobyLi_Thesis.pdf)” won an honorable mention award for CMU School of Computer Science Dissertation Award!
+* **2021-10-16**<br>
+📃 My Ph.D. student [Zheng Zhang](http://zhengzhang.me/) presented our paper "[Building an Interactive Storytelling Conversational Agent through Parent-AI Collaboration](https://www.conversationaluserinterfaces.org/workshops/CSCW2021/pdfs/5-Zhang.pdf)" at [CSCW 2021 Workshop on Inclusive and Collaborative Child-facing Voice Technologies (CUI@CSCW)](https://www.conversationaluserinterfaces.org/workshops/CSCW2021/).
 * **2021-03-14**<br>
-🏆 Our paper “[Screen2Vec: Semantic Embedding of GUI Screens and GUI Components](https://arxiv.org/abs/2101.11103)” won a Best Paper Honorable Mention Award at [CHI 2021](https://chi2021.acm.org/)!
+🏅 Our paper “[Screen2Vec: Semantic Embedding of GUI Screens and GUI Components](https://arxiv.org/abs/2101.11103)” won a Best Paper Honorable Mention Award at [CHI 2021](https://chi2021.acm.org/)!
 * **2020-12-19**<br>
 🏆 My wonderful summer REU student Lindsay Popowski won CRA's  [2021 Outstanding Undergraduate Researcher Award](https://cra.org/2021-outstanding-undergraduate-researcher-award-recipients/)! 
 * **2020-12-12**<br>
