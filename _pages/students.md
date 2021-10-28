@@ -35,8 +35,8 @@ Current Students
         <div style="text-align: center">
             <img src="/images/students/zheng_zhang.png" class="student-profile-pic">
         </div>
-        <b><a href="https://www.cs.rochester.edu/u/zzhang95/" target="_blank">Zheng Zhang</a></b> (Fall 2021 - Present) <br>
-        Visiting Ph.D. Student at Notre Dame 
+        <b><a href="http://zhengzhang.me/" target="_blank">Zheng Zhang</a></b> (Fall 2021 - Present) <br>
+        Ph.D. Student at Notre Dame 
     </td>
     <td>
         <div style="text-align: center">
