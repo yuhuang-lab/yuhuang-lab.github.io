@@ -22,7 +22,7 @@ Toby publishes at premier academic venues across HCI, NLP, and systems (e.g., CH
 News
 ======
 * **2021-10-28**<br>
-🏅 My Ph.D. disseration “[A Multi-Modal Intelligent Agent that Learns from Demonstrations and Natural Language Instructions](/files/TobyLi_Thesis.pdf)” won an honorable mention award for CMU School of Computer Science Dissertation Award!
+🏅 My Ph.D. disseration “[A Multi-Modal Intelligent Agent that Learns from Demonstrations and Natural Language Instructions](/files/TobyLi_Thesis.pdf)” won an honorable mention for CMU School of Computer Science Dissertation Award!
 * **2021-10-16**<br>
 📃 My Ph.D. student [Zheng Zhang](http://zhengzhang.me/) presented our paper "[Building an Interactive Storytelling Conversational Agent through Parent-AI Collaboration](https://www.conversationaluserinterfaces.org/workshops/CSCW2021/pdfs/5-Zhang.pdf)" at [CSCW 2021 Workshop on Inclusive and Collaborative Child-facing Voice Technologies (CUI@CSCW)](https://www.conversationaluserinterfaces.org/workshops/CSCW2021/).
 * **2021-03-14**<br>
