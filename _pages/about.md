@@ -21,6 +21,8 @@ Toby publishes at premier academic venues across HCI, NLP, and systems (e.g., CH
 
 News
 ======
+* **2021-12-16**<br>
+📢 We are organizing a workshop on [Computational Approaches for Understanding, Generating, and Adapting User Interfaces](https://sites.google.com/nd.edu/computational-uichi22) at [CHI 2022](https://chi2022.acm.org/)!
 * **2021-10-28**<br>
 🏅 My Ph.D. disseration “[A Multi-Modal Intelligent Agent that Learns from Demonstrations and Natural Language Instructions](/files/TobyLi_Thesis.pdf)” won an honorable mention for CMU School of Computer Science Dissertation Award!
 * **2021-10-16**<br>
