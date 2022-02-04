@@ -12,7 +12,7 @@ Current Students
         <div style="text-align: center">
             <img src="/images/students/yuwen.jpeg" class="student-profile-pic">
         </div>
-        <b><a href="https://yuwen-lu.me/" target="_blank">Yuwen Lu</a></b> (Fall 2021 - Present) <br>
+        <b><a href="http://yuwen.io/" target="_blank">Yuwen Lu</a></b> (Fall 2021 - Present) <br>
         Ph.D. Student at Notre Dame 
     </td>
     <td>
