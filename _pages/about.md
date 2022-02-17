@@ -81,6 +81,10 @@ https://www.nd.edu/* **2017-03-22**<br>
 
 Travel
 ======
+* **2022-04-30 – 2022-05-06**<br>
+New Orleans, LA for CHI 2022
+* **2022-02-23 – 2022-02-25**<br>
+Washington, DC for CRA Career Mentoring Workshop
 * **2021-11-08 – 2020-11-10**<br>
 Pittsburgh, PA for PLATEAU 2021
 * **2021-05-08 – 2021-05-13**<br>
