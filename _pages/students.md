@@ -130,6 +130,7 @@ Past Students
      <td>
         <b>William Timkey</b> (Summer 2019) <br>
         Cornell University, Summer REU Intern at CMU <br>
+        Now Ph.D. Student at New York University <br>
     </td>
      <td>
         <b>Lindsay Popowski</b> (Summer 2020) <br>
