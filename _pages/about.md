@@ -85,6 +85,8 @@ https://www.nd.edu/* **2017-03-22**<br>
 
 Travel
 ======
+* **2022-06-08 – 2022-06-09**<br>
+Durham, NH for CHIWORK 2022
 * **2022-04-30 – 2022-05-06**<br>
 New Orleans, LA for CHI 2022
 * **2022-02-23 – 2022-02-25**<br>
