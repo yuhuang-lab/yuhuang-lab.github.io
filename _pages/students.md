@@ -87,7 +87,7 @@ Past Students
          <div style="text-align: center">
             <img src="/images/students/gray_user.png" class="student-profile-pic">
         </div>
-        <b>Christine Kwon</b> (Summer 2019 - Fall 2020) <br>
+        <b>Christine Kwon</b> (Fall 2021) <br>
         Now Ph.D. Student at CMU
     </td>
     <td>
