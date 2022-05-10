@@ -56,21 +56,21 @@ Current Students
   <tr>
    <td>
         <div style="text-align: center">
-            <img src="/images/students/meng_chen.png" class="student-profile-pic">
+            <img src="/images/students/meng_chen.jpeg" class="student-profile-pic">
         </div>
         <b>Meng Chen</b> (Fall 2021 - Present) <br>
         Undergraduate Researcher at Notre Dame  
     </td>
     <td>
         <div style="text-align: center">
-            <img src="/images/students/gray_user.png" class="student-profile-pic">
+            <img src="/images/students/ziang_tong.jpeg" class="student-profile-pic">
         </div>
         <b><a href="https://www.linkedin.com/in/ziangtong/" target="_blank">Ziang Tong</a></b> (Spring 2022 - Present) <br>
         Undergraduate Researcher at Notre Dame  
     </td>
     <td>
         <div style="text-align: center">
-            <img src="/images/students/chaoran_chen.png" class="student-profile-pic">
+            <img src="/images/students/chaoran_chen.jpeg" class="student-profile-pic">
         </div>
         <b><a href="https://scholar.google.com/citations?user=-SO-GtcAAAAJ&hl=en" target="_blank">Chaoran Chen</a></b> (Fall 2022 - Present) <br>
         Ph.D. Student at Notre Dame 
