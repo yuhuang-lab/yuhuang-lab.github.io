@@ -90,6 +90,10 @@ Past Students
         <b>Christine Kwon</b> (Summer 2019 - Fall 2020) <br>
         Now Ph.D. Student at CMU
     </td>
+    <td>
+    </td>
+    <td>
+    </td>
  </tr>
 </table>
 ## Graduate Students Mentored Prior to Notre Dame
