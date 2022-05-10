@@ -88,7 +88,7 @@ Past Students
             <img src="/images/students/gray_user.png" class="student-profile-pic">
         </div>
         <b>Christine Kwon</b> (Fall 2021) <br>
-        Now Ph.D. Student at CMU
+        Now Ph.D. Student at Carnegie Mellon University
     </td>
     <td>
     </td>
