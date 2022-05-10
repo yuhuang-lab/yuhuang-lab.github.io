@@ -30,7 +30,7 @@ Current Students
         Undergraduate Researcher at Notre Dame 
     </td>
  </tr>
-  <tr>
+ <tr>
    <td>
         <div style="text-align: center">
             <img src="/images/students/zheng_zhang.png" class="student-profile-pic">
@@ -46,13 +46,52 @@ Current Students
         Ph.D. Student at Notre Dame 
     </td>
     <td>
-        
+        <div style="text-align: center">
+            <img src="/images/students/gray_user.png" class="student-profile-pic">
+        </div>
+        <b><a href="https://www.linkedin.com/in/jerrickban/" target="_blank">Jerrick Ban</a></b> (Spring 2022 - Present) <br>
+        Undergraduate Researcher at Notre Dame  
+    </td>
+ </tr>
+  <tr>
+   <td>
+        <div style="text-align: center">
+            <img src="/images/students/meng_chen.png" class="student-profile-pic">
+        </div>
+        <b>Meng Chen</b> (Fall 2021 - Present) <br>
+        Undergraduate Researcher at Notre Dame  
+    </td>
+    <td>
+        <div style="text-align: center">
+            <img src="/images/students/gray_user.png" class="student-profile-pic">
+        </div>
+        <b><a href="https://www.linkedin.com/in/ziangtong/" target="_blank">Ziang Tong</a></b> (Spring 2022 - Present) <br>
+        Undergraduate Researcher at Notre Dame  
+    </td>
+    <td>
+        <div style="text-align: center">
+            <img src="/images/students/chaoran_chen.png" class="student-profile-pic">
+        </div>
+        <b><a href="https://scholar.google.com/citations?user=-SO-GtcAAAAJ&hl=en" target="_blank">Chaoran Chen</a></b> (Fall 2022 - Present) <br>
+        Ph.D. Student at Notre Dame 
     </td>
  </tr>
 </table>
 
 Past Students
 =====
+## Undergraduate Students Mentored at Notre Dame
+<table style="border-collapse: collapse; table-layout: fixed; vertical-align: top;">
+  <tr>
+    <td> 
+         <div style="text-align: center">
+            <img src="/images/students/gray_user.png" class="student-profile-pic">
+        </div>
+        <b>Christine Kwon</b> (Summer 2019 - Fall 2020) <br>
+        Now Ph.D. Student at CMU
+    </td>
+ </tr>
+</table>
 ## Graduate Students Mentored Prior to Notre Dame
 <table style="border-collapse: collapse; table-layout: fixed; vertical-align: top;">
  <tr>
