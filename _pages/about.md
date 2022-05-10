@@ -21,6 +21,10 @@ Toby publishes at premier academic venues across HCI, NLP, and systems (e.g., CH
 
 News
 ======
+* **2022-05-22**<br>
+📢 Check out our [ACL 2022](https://www.2022.aclweb.org/) papers! We have two papers in collaboraiton with researchers at UC Irvine, RPI, IBM Research, and other institutions on new NLP techinques and datasets for assisting and augmenting children's interactive storyreading.
+* **2022-04-29**<br>
+🥪 SaNDwich Lab is at [CHI 2022](https://chi2022.acm.org/)! Check out [Zheng Zhang](http://zhengzhang.me/)'s presentation of our paper [StoryBuddy: A Human-AI Collaborative Agent for Parent-Child Interactive Storytelling with Flexible Parent Involvement](https://arxiv.org/pdf/2202.06205.pdf), [Yuwen Lu](https://yuwen.io/)'s poster presentation on [Bridging the Gap Between UX Practitioners’ Work Practices and AI-Enabled Design Support Tools](https://dl.acm.org/doi/10.1145/3491101.3519809), and the workshop we organize on [Computational Approaches for Understanding, Generating, and Adapting User Interfaces](https://sites.google.com/nd.edu/computational-uichi22)!
 * **2021-12-16**<br>
 📢 We are organizing a workshop on [Computational Approaches for Understanding, Generating, and Adapting User Interfaces](https://sites.google.com/nd.edu/computational-uichi22) at [CHI 2022](https://chi2022.acm.org/)!
 * **2021-10-28**<br>
