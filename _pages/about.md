@@ -21,6 +21,10 @@ Toby publishes at premier academic venues across HCI, NLP, and systems (e.g., CH
 
 News
 ======
+* **2022-06-21**<br>
+💰 Happy to share that we, in collaboration with the groups of [Collin McMillan](https://www3.nd.edu/~cmc/) at [Notre Dame](https://cse.nd.edu/) and [Yu Huang](https://yuhuang-lab.github.io/) at [Vanderbilt University](https://engineering.vanderbilt.edu/cs/), have received a 4-year NSF grant to study [human-like AI models of source code](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2211428&HistoricalAwards=false) that power AI-enabled developer tools for e.g., code summarization, code completion.
+* **2022-06-01**<br>
+🏆 Honored to receive a [Google Research Scholar Award](https://research.google/outreach/research-scholar-program/recipients/) to support our work on human-AI collab in UX design! Thanks Google Research for the generous support!
 * **2022-05-22**<br>
 📢 Check out our [ACL 2022](https://www.2022.aclweb.org/) papers! We have two papers in collaboraiton with researchers at UC Irvine, RPI, IBM Research, and other institutions on new NLP techinques and datasets for assisting and augmenting children's interactive storyreading.
 * **2022-04-29**<br>
