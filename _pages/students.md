@@ -19,7 +19,7 @@ Current Students
         <div style="text-align: center">
             <img src="/images/students/zheng_ning.png" class="student-profile-pic">
         </div>
-        <b><a href="https://www.linkedin.com/in/realningzheng/?locale=en_US" target="_blank">Zheng Ning</a></b> (Fall 2021 - Present) <br>
+        <b><a href="https://zning.co/" target="_blank">Zheng Ning</a></b> (Fall 2021 - Present) <br>
         Ph.D. Student at Notre Dame 
     </td>
     <td>
