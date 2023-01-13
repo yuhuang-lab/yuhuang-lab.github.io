@@ -43,6 +43,9 @@ News
 📃 Our paper “[Screen2Vec: Semantic Embedding of GUI Screens and GUI Components](https://arxiv.org/abs/2101.11103)” has been accepted to [CHI 2021](https://chi2021.acm.org/)! The code is also open-sourced [here](https://github.com/tobyli/screen2vec).
 * **2020-08-28**<br>
 🏆 Our paper “[Multi-Modal Repairs of Conversational Breakdowns in Task-Oriented Dialogs](files/Li_Sovite_Error_Handling_UIST2020.pdf)” won the Best Paper Award at [UIST 2020](https://uist.acm.org/uist2020/)! 
+
+<details><summary>MORE...</summary>
+<div markdown="1">
 * **2020-07-21**<br>
 📃 Two papers accepted at [UIST 2020](https://uist.acm.org/uist2020/)! The paper “[Multi-Modal Repairs of Conversational Breakdowns in Task-Oriented Dialogs](files/Li_Sovite_Error_Handling_UIST2020.pdf)” introduces a new multi-modal interface for users to discover and repair conversational breakdowns in task-oriented dialogs. The other paper "[Geno: A Developer Tool for Authoring Multimodal Interaction on Existing Web Applications](files/Sarmah_Geno_UIST2020.pdf)" is a collaboration with [Xiang 'Anthony' Chen's group](https://hci.ucla.edu) at UCLA on a new developer tool for authoring multi-modal interfaces for web applications! 
 * **2020-04-07**<br>
@@ -51,10 +54,6 @@ News
 📃 Our position paper “[Towards Effective Human-AI Collaboration in GUI-Based Interactive Task Learning Agents](/files/2003.02622.pdf)” has been accepted to the [CHI 2020 Workshop on Artificial Intelligence for HCI: A Modern Approach](https://sites.google.com/view/ai4hci/)!
 * **2019-12-13**<br>
 💬 I’m giving an invited talk at The [AAAI-20 Workshop on Intelligent Process Automation (IPA 20)](https://ipa-20.blueprismlabs.com/). I hope you can come if you’ll be at [AAAI 2020](https://aaai.org/Conferences/AAAI-20/)!
-
-
-<details><summary>MORE...</summary>
-<div markdown="1">
 * **2019-11-26**<br>
 📃 My [thesis proposal document](/files/TobyLi_Thesis_Proposal.pdf) is available online, and the [video of my talk](https://www.youtube.com/watch?v=4qtOwQWIWPk) is available too!
 * **2019-08-01**<br>
@@ -101,6 +100,9 @@ Pittsburgh, PA for PLATEAU 2023
 Durham, NH for CHIWORK 2022
 * **2022-04-30 – 2022-05-06**<br>
 New Orleans, LA for CHI 2022
+
+<details><summary>MORE...</summary>
+<div markdown="1">
 * **2022-02-23 – 2022-02-25**<br>
 Washington, DC for CRA Career Mentoring Workshop
 * **2021-11-08 – 2020-11-10**<br>
@@ -115,9 +117,6 @@ Pittsburgh, PA for PLATEAU 2021
 ~~Honolulu, HI for CHI 2020~~ (Cancelled due to COVID-19)
 * **2020-02-06 – 2020-02-09**<br>
 New York, NY for AAAI 2020
-
-<details><summary>MORE...</summary>
-<div markdown="1">
 * **2019-10-20 – 2019-10-23**<br>
 New Orleans, LA for UIST 2019
 * **2019-05-23 – 2019-05-24**<br>
