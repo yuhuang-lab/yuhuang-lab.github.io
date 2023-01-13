@@ -42,7 +42,7 @@ Current Students
         <div style="text-align: center">
             <img src="/images/students/simret.png" class="student-profile-pic">
         </div>
-        <b><a href="[https://www.linkedin.com/in/simret-araya/?originalSubdomain=et](https://simreta.github.io/)" target="_blank">Simret Araya Gebreegziabher</a></b> (Spring 2022 - Present) <br>
+        <b><a href="https://simreta.github.io/" target="_blank">Simret Araya Gebreegziabher</a></b> (Spring 2022 - Present) <br>
         Ph.D. Student at Notre Dame 
     </td>
     <td>
