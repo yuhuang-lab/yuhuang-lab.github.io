@@ -58,7 +58,7 @@ Current Students
         <div style="text-align: center">
             <img src="/images/students/meng_chen.jpeg" class="student-profile-pic">
         </div>
-        <b>Meng Chen</b> (Fall 2021 - Present) <br>
+        <b><a href="https://www.linkedin.com/in/meng-c-1138ba18b/" target="_blank">Meng Chen</a></b> (Fall 2021 - Present) <br>
         Undergraduate Researcher at Notre Dame  
     </td>
     <td>
