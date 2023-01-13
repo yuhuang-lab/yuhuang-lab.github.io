@@ -89,6 +89,14 @@ https://www.nd.edu/* **2017-03-22**<br>
 
 Travel
 ======
+* **2023-10-13 – 2023-10-18**<br>
+Minneapolis, MN for CSCW 2023
+* **2023-04-23 – 2023-04-28**<br>
+Hamburg, Germany for CHI 2023
+* **2023-03-27 – 2023-03-31**<br>
+Sydney, Australia for IUI 2023
+* **2023-02-13 – 2023-02-14**<br>
+Pittsburgh, PA for PLATEAU 2023
 * **2022-06-08 – 2022-06-09**<br>
 Durham, NH for CHIWORK 2022
 * **2022-04-30 – 2022-05-06**<br>
