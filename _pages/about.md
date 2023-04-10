@@ -21,6 +21,10 @@ Toby publishes at premier academic venues across HCI, NLP, and systems (e.g., CH
 
 News
 ======
+* **2023-01-17**<br>
+📃 Happy to share that my Ph.D. student [Simret Gebreegziabher](https://simreta.github.io/) will present a paper [PaTAT: Human-AI Collaborative Qualitative Coding with Explainable Interactive Rule Synthesis](http://toby.li/files/chi23b-gebreegziabher-patat.pdf) at [CHI 2023](https://chi2023.acm.org/)! Congrats to Simret for her first CHI paper. My PhD student Yuwen Lu and I are also organizers (along with several other leaders in this filed) to the 2nd iterations of the [Computational UI Workshop](https://sites.google.com/nd.edu/computational-uichi23/) at [CHI 2023](https://chi2023.acm.org/).
+* **2023-01-03**<br>
+📃 If you are going to [IUI 2023](https://iui.acm.org/2023/), make sure to check out [Zheng Ning](https://zning.co/)'s presentation of our paper [An Empirical Study of Model Errors and User Error Discovery and Repair Strategies in Natural Language Database Queries](http://toby.li/files/iui23-ning-nl2sql.pdf)! I also look forward to seeing you at the [SHAI 2023 Workshop on Designing for Safety in Human-AI Interactions](Workshop on Designing for Safety in Human-AI Interactions). 
 * **2022-06-21**<br>
 💰 Happy to share that we, in collaboration with the groups of [Collin McMillan](https://www3.nd.edu/~cmc/) at [Notre Dame](https://cse.nd.edu/) and [Yu Huang](https://yuhuang-lab.github.io/) at [Vanderbilt University](https://engineering.vanderbilt.edu/cs/), have received a 4-year NSF grant to study [human-like AI models of source code](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2211428&HistoricalAwards=false) that power AI-enabled developer tools for e.g., code summarization, code completion.
 * **2022-06-01**<br>
@@ -90,6 +94,8 @@ Travel
 ======
 * **2023-10-13 – 2023-10-18**<br>
 Minneapolis, MN for CSCW 2023
+* **2023-07-25 – 2023-07-29**<br>
+Honolulu, HI for ICML 2023
 * **2023-04-23 – 2023-04-28**<br>
 Hamburg, Germany for CHI 2023
 * **2023-03-27 – 2023-03-31**<br>
