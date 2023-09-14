@@ -21,6 +21,8 @@ Toby publishes at premier academic venues across HCI, NLP, and systems (e.g., CH
 
 News
 ======
+* **2023-09-13**<br>
+💰 Glad to share that our interdisciplinary team across Computer Science, Computational Social Science, Business, and Labor Sociology have received a 4-year $1 million NSF grant to develop a new bottom-up method aiming to [bridge AI inequality in digitally mediated gig work]([https://www.nsf.gov/awardsearch/showAward?AWD_ID=2211428&HistoricalAwards=false](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2326378)).
 * **2023-08-21**<br>
 🥪 SaNDwich Lab at [UIST 2023](https://uist.acm.org/uist2023/)! The paper “[VISAR: A Human-AI Argumentative Writing Assistant with Visual Programming and Rapid Draft Prototyping](files/uist23-zhang-visar.pdf)”, led by [Zheng Zhang](http://zhengzhang.me/), introduces a new AI-enabled writing assistant system for argumentative writing. The other paper "[PEANUT: A Human-AI Collaborative Tool for Annotating Audio-Visual Data](files/uist23-zhang-peanut.pdf)", also led by [Zheng Zhang](http://zhengzhang.me/), presents a data annotation tool that significantly accelerates the audio-visual data annotation process while maintaining high annotation accuracy. 
 * **2023-01-17**<br>
@@ -28,7 +30,7 @@ News
 * **2023-01-03**<br>
 📃 If you are going to [IUI 2023](https://iui.acm.org/2023/), make sure to check out [Zheng Ning](https://zning.co/)'s presentation of our paper [An Empirical Study of Model Errors and User Error Discovery and Repair Strategies in Natural Language Database Queries](http://toby.li/files/iui23-ning-nl2sql.pdf)! I also look forward to seeing you at the [SHAI 2023 Workshop on Designing for Safety in Human-AI Interactions](Workshop on Designing for Safety in Human-AI Interactions). 
 * **2022-06-21**<br>
-💰 Happy to share that we, in collaboration with the groups of [Collin McMillan](https://www3.nd.edu/~cmc/) at [Notre Dame](https://cse.nd.edu/) and [Yu Huang](https://yuhuang-lab.github.io/) at [Vanderbilt University](https://engineering.vanderbilt.edu/cs/), have received a 4-year NSF grant to study [human-like AI models of source code](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2211428&HistoricalAwards=false) that power AI-enabled developer tools for e.g., code summarization, code completion.
+💰 Happy to share that we, in collaboration with the groups of [Collin McMillan](https://www3.nd.edu/~cmc/) at [Notre Dame](https://cse.nd.edu/) and [Yu Huang](https://yuhuang-lab.github.io/) at [Vanderbilt University](https://engineering.vanderbilt.edu/cs/), have received a 4-year $1.3m NSF grant to study [human-like AI models of source code](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2211428&HistoricalAwards=false) that power AI-enabled developer tools for e.g., code summarization, code completion.
 * **2022-06-01**<br>
 🏆 Honored to receive a [Google Research Scholar Award](https://research.google/outreach/research-scholar-program/recipients/) to support our work on human-AI collab in UX design! Thanks Google Research for the generous support!
 * **2022-05-22**<br>
