@@ -72,7 +72,7 @@ Current Students
         <div style="text-align: center">
             <img src="/images/students/chaoran_chen.jpeg" class="student-profile-pic">
         </div>
-        <b><a href="https://scholar.google.com/citations?user=-SO-GtcAAAAJ&hl=en" target="_blank">Chaoran Chen</a></b> (Fall 2022 - Present) <br>
+        <b><a href="https://www.chaoranchen.com/" target="_blank">Chaoran Chen</a></b> (Fall 2022 - Present) <br>
         Ph.D. Student at Notre Dame 
     </td>
  </tr>
