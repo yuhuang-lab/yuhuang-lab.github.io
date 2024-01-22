@@ -96,6 +96,14 @@ https://www.nd.edu/* **2017-03-22**<br>
 
 Travel
 ======
+* **2024-11-09 – 2023-11-13**<br>
+San José, Costa Rica for CSCW 2024
+* **2024-10-13 – 2024-10-16**<br>
+Pittsburgh, PA for UIST 2024
+* **2024-05-11 – 2024-05-16**<br>
+San Francisco, CA for CHI 2024
+* **2023-12-06 – 2023-12-10**<br>
+Singapore for EMNLP 2023
 * **2023-10-29 – 2023-11-01**<br>
 San Francisco, CA for UIST 2023
 * **2023-10-13 – 2023-10-18**<br>
