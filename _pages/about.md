@@ -101,7 +101,7 @@ San José, Costa Rica for CSCW 2024
 * **2024-10-13 – 2024-10-16**<br>
 Pittsburgh, PA for UIST 2024
 * **2024-05-11 – 2024-05-16**<br>
-San Francisco, CA for CHI 2024
+Hawaii, HI for CHI 2024
 * **2023-12-06 – 2023-12-10**<br>
 Singapore for EMNLP 2023
 * **2023-10-29 – 2023-11-01**<br>
