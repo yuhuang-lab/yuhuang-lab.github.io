@@ -1224,7 +1224,7 @@ tr, td, th {
     -webkit-animation-delay: 0.15s;
     animation-delay: 0.15s;
     z-index: 20;
-    background-color: #0C2340;
+    background-color: #002C5A;
 }
 
 .masthead__inner-wrap {
@@ -1469,7 +1469,7 @@ tr, td, th {
 .greedy-nav {
     position: relative;
     min-width: 250px;
-    background: #0C2340;
+    background: #002C5A;
 }
 
 .greedy-nav a {
