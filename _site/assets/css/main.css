@@ -53,7 +53,7 @@ audio:not([controls]) {
 }
 
 a {
-    color: #b37f20;
+    color: #946e24;
 }
 
 a:hover, a:active {
@@ -1224,7 +1224,7 @@ tr, td, th {
     -webkit-animation-delay: 0.15s;
     animation-delay: 0.15s;
     z-index: 20;
-    background-color: #002C5A;
+    background-color: #1C1C1C;
 }
 
 .masthead__inner-wrap {
@@ -1469,14 +1469,14 @@ tr, td, th {
 .greedy-nav {
     position: relative;
     min-width: 250px;
-    background: #002C5A;
+    background: #1C1C1C;
 }
 
 .greedy-nav a {
     display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
-    color: #7a8288;
+    color: #ECB748;
     text-decoration: none
 }
 
@@ -1519,7 +1519,7 @@ tr, td, th {
 
 .greedy-nav .visible-links a {
     position: relative;
-    color: #f6c200;
+    color: #ECB748;
 }
 
 .greedy-nav .visible-links a:before {
