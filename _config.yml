@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Toby Jia-Jun Li"
+title                    : "Yu Huang"
 title_separator          : "-"
-name                     : &name "Toby Jia-Jun Li"
+name                     : &name "Yu Huang"
 description              : &description "personal description"
-url                      : https://toby.li # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "http://127.0.0.1:4000" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tobyli/tobyli.github.io"
+repository               : "yuhuang-lab/yuhuang-lab.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -73,22 +73,22 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google" # false (default), "google", "google-universal", "custom"
+  provider               :  #"google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :  "UA-15154905-5"
+    tracking_id          :  #"UA-15154905-5"
 
 
 # Site Author
 author:
-  name             : "Toby Jia-Jun Li"
-  avatar           : "toby_profile.jpg"
-  bio              : "Pronoun: he/him<br><br>Assistant Professor <p><a href='https://cse.nd.edu/' target='_blank'>Department of Computer Science and Engineering</a></p> <p><a href='https://www.nd.edu/' target='_blank'>University of 
-  Notre Dame</a></p>"
-  location         : "214B Cushing Hall"
+  name             : "Yu Huang"
+  avatar           : "yu_profile.jpg"
+
+  bio              : "Pronoun: she/her/hers<br><br>Assistant Professor <p><a href='https://engineering.vanderbilt.edu/departments/computer-science/' target='_blank'>Department of Computer Science</a></p> <p><a href='https://www.isis.vanderbilt.edu' target='_blank'>Institute for Software Integrated Systems</a></p> <p><a href='https://www.vanderbilt.edu/' target='_blank'>Vanderbilt University </a></p>"
+  location         : "Sony 4108"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=-qCUO0kAAAAJ&hl=en"
-  email            : "toby.j.li@nd.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=ngLMhbIAAAAJ&hl=en"
+  email            : "yu.huang@vanderbilt.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : tobyli"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "TobyJLi"
+  twitter          : "yuhuang_yh"
   vine             :
   weibo            :
   xing             :
