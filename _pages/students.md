@@ -25,7 +25,7 @@ Current Students
     </td>
     <td>
         <div style="text-align: center">
-            <img src="/images/students/zihan.jpg/" class="student-profile-pic" >
+            <img src="/images/students/zihan.png/" class="student-profile-pic" >
         </div>
         <b><a href="https://www.linkedin.com/in/zihan-fang-51a9571a7" target="_blank">Zihan Fang</a></b> (Fall 2023 - Present) <br>
         Ph.D. Student at Vanderbilt 
