@@ -25,7 +25,7 @@ Current Students
     </td>
     <td>
         <div style="text-align: center">
-            <img src="/images/students/zihan.png/" class="student-profile-pic" >
+            <img src="/images/students/zihan.png" class="student-profile-pic" >
         </div>
         <b><a href="https://www.linkedin.com/in/zihan-fang-51a9571a7" target="_blank">Zihan Fang</a></b> (Fall 2023 - Present) <br>
         Ph.D. Student at Vanderbilt 
@@ -62,7 +62,7 @@ Current Students
     </td>
     <td>
         <div style="text-align: center">
-            <img src="/images/students/haonan.jpg/" class="student-profile-pic">
+            <img src="/images/students/haonan.jpg" class="student-profile-pic">
         </div>
         <b>Haonan Hou</b> (Summer 2022 - Present) <br>
         Undergraduate Researcher at Vanderbilt
@@ -86,7 +86,7 @@ Current Students
     </td>
     <td>
         <div style="text-align: center">
-            <img src="/images/students/ellie.jpg/" class="student-profile-pic">
+            <img src="/images/students/ellie.jpg" class="student-profile-pic">
         </div>
         <b>Ellie Li</b> (Summer 2023 - Present) <br>
         Undergraduate Researcher at Vanderbilt
@@ -110,7 +110,7 @@ Current Students
     </td>
     <td>
         <div style="text-align: center">
-            <img src="/images/students/suad.jpeg/" class="student-profile-pic">
+            <img src="/images/students/suad.jpeg" class="student-profile-pic">
         </div>
         <b>Suad Hassan Mohamed</b> (Spring 24 - Present) <br>
         Undergraduate Researcher at Belmont University
