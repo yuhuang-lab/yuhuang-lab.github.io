@@ -35,8 +35,8 @@ My group focuses on **human aspects in software
 engineering** and **human-centered AI for software engineering**, including
 user cognition, sustainability for open source software, AI for software engineering, and computer
 science education. 
-Our work aims to link between human intelligence and machine
-intelligence in the programming domain.
+Our work aims to understand human cognition in programming and leverage it
+to empower automated models for programming.
 Our work spans software,
 hardware, AI, medical imaging (fMRI and fNIRS), eye tracking, and mobile sensing, collaborating with researchers from Security, Education, Psychology and Neuroscience.
 We also work on social aspects in the software engineering community.

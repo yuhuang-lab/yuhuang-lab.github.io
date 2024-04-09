@@ -144,11 +144,11 @@ Emeritus Members
 =====
  <!-- <p> <img src="index_files/people/danielle.png" height="60"/>
             Danielle Page </p>-->
-<b>Eamon (Yimeng) Ma</b>: undergraduate researcher, moved on to Duke University 
+<b>Eamon (Yimeng) Ma</b>: Undergraduate researcher, moved on to Duke University 
 
-<b>Garrett (Yuankai) Xue</b>: undergraduate researcher, moved on to Vanderbilt University, Master in Data Science
+<b>Garrett (Yuankai) Xue</b>: Undergraduate researcher, moved on to Vanderbilt University, Master in Data Science
 
-<b>Hanlin Chen</b>: graduate researcher, moved on to Vanderbilt University, Master in Data Science
+<b>Hanlin Chen</b>: Graduate researcher, moved on to Vanderbilt University, Master in Data Science
                
         
 

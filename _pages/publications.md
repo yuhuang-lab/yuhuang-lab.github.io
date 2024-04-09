@@ -12,7 +12,7 @@ pdfs from my Google Scholar. If you cannot find any, please feel free to
 email me.
 
 I am also working on a Dataset page - we
-always support data sharing and are happy to share our datasets.
+always support data sharing in out community.
 <!-- ## Major Peer-reviewed Conference and Journal Papers-->
 ## 2024
 
