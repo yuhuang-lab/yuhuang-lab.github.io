@@ -153,7 +153,7 @@ probably find an answer really fast):</p>
 
     <li><strong>Where can I find the form to (1) apply for a
     major/minor (2) audit a class (3) waive prerequisite and 
-    (4) basically anything about your undergrad education?</strong> </li>
+    (4) basically anything about undergrad education?</strong> </li>
     <p>All the forms are listed here: <a target="_blank"
     href="https://engineering.vanderbilt.edu/academic-services/AcademicAdvising/Forms.php">
     Forms for Students</a>.</p>
