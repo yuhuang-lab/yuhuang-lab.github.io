@@ -1,0 +1,22 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  #- title: "CV"
+  #  url: /files/TobyLi_CV.pdf
+
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Students"
+    url: /students/
+
+  - title: "Advising & Research Opportunities"
+    url: /advising/
+
+  - title: "Service"
+    url: /service/
+
+

@@ -1,0 +1,19 @@
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+---
+
+{% include base_path %}
+
+<p>I am passionate about teaching! At Notre Dame, I mainly teach Human-Computer Interaction (HCI) courses in the <a href="https://cse.nd.edu/" target="_blank">Department of Computer Science and Engineering</a> at both graduate and undergraduate levels.</p>
+
+<p>At Carnegie Mellon, I TA’d for two core HCI courses: 05-410/610: User-Centered Research and Evaluation and 05-391/891: Designing Human-Centered Software. I have received formal training in creating inclusive classroom environments, delivering constructive feedbacks, delivering effective lectures, and syllabus design through <a href="https://www.cmu.edu/teaching/" target="_blank">CMU Eberly Center for Teaching Excellence and Educational Innovation</a>. I also worked in teaching roles at the University of Minnesota for two years as a teaching assistant for CSCI 2011: Discrete Structures of Computer Science and as a teaching staff for the Coursera online MOOC “From GPS and Google Maps to Spatial Computing”.</p>
+
+
+{% assign sorted = site.teaching | sort: 'date' %}
+
+{% for post in sorted reversed %}
+  {% include archive-single-pub.html %}
+{% endfor %}
