@@ -7,7 +7,7 @@ author_profile: true
 
 <!-- ## Major Peer-reviewed Conference and Journal Papers-->
 ## 2025
-**Program Cimmittee:** ICSE
+**Program Committee:** ICSE
 
 ## 2024
 
