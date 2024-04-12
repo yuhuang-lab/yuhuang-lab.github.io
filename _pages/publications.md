@@ -20,7 +20,7 @@ always support data sharing in our community.
 - ChatGPT Giving Relationship Advice - How Reliable Is It? <br>
   Haonan Hou, Kevin Leach, **Yu Huang** <br>
   *AAAI - ICWSM 2024*: The 18th International AAAI Conference On Web and
-  Social Media
+  Social Media <br>
 [[Paper PDF]](/paper/AAAI-ICWSM2024.pdf)
 
 
@@ -28,7 +28,7 @@ always support data sharing in our community.
 Summarization<br>
 Yifan Zhang, Eric Jiliang Li, Zachary Karas, Aakash Bansal, Toby
 Jia-Jun Li, Collin McMillan, Kevin Leach, **Yu Huang** <br>
-*FSE 2024*
+*FSE 2024* <br>
 [[Paper PDF]](/paper/FSE24_EyeTrans.pdf)
 
 
@@ -36,7 +36,7 @@ Jia-Jun Li, Collin McMillan, Kevin Leach, **Yu Huang** <br>
 Explainability of LLMs in Code Summarization<br>
 Eric Jiliang Li, Yifan Zhang, Zachary Karas, Collin McMillan, Kevin
 Leach , <strong> Yu Huang</strong> <br>
-<em>ICPC RENE Track 2024.</em>
+<em>ICPC RENE Track 2024.</em> <br>
 [[Paper PDF]](/paper/ICPC24_RENE.pdf)
 
 
@@ -55,7 +55,7 @@ Yimeng Ma, <strong> Yu Huang</strong>, Kevin Leach <br>
 Tracking in IDE<br>
 Ningzhi Tang, Junwen An, Meng Chen, Aakash Bansal, <strong> Yu
 Huang</strong>, Collin McMillan, Toby Jia-jun Li  <br>
-<em> ICSE Demo Track 2024.</em>
+<em> ICSE Demo Track 2024.</em> <br>
 [[Paper PDF]](/paper/ICSE24_Demo.pdf)
 
 
@@ -63,7 +63,7 @@ Huang</strong>, Collin McMillan, Toby Jia-jun Li  <br>
 Students Using ChatGPT in CS1<br>
 Garrett Xue, Hanlin Chen, Robert Tairas, Gina Bai, <strong> Yu
 Huang</strong><br>
-<em> ICSE-SEET 2024.</em>
+<em> ICSE-SEET 2024.</em> <br>
 [[Paper PDF]](/paper/ICSE-SEET2024.pdf)
 
 
@@ -224,7 +224,7 @@ Ryan Krueger, <strong>Yu Huang</strong>, Xinyu Liu, Tyler Santander, Westley Wei
 - [Selective Symbolic Type-Guided Checkpointing and Restoration for Autonomous Vehicle Repair](/paper/scr-apr-2020.pdf)<br>
 <strong> Yu Huang </strong>, Kevin Angstadt, Kevin Leach, and Westley Weimer <br>
 *APR 2020*: In Proceedings of the 1st International Workshop on Automated
-Program Repair (co-located with ICSE 2020), Seoul, South Korea, 2020.
+Program Repair (co-located with ICSE 2020), Seoul, South Korea, 2020.<br>
 [[Paper PDF]](paper/huang-apr2020.pdf) 
 
 
