@@ -16,7 +16,6 @@ always support data sharing in our community.
 <!-- ## Major Peer-reviewed Conference and Journal Papers-->
 ## 2024
 
-
 - ChatGPT Giving Relationship Advice - How Reliable Is It? <br>
   Haonan Hou, Kevin Leach, **Yu Huang** <br>
   *AAAI - ICWSM 2024*: The 18th International AAAI Conference On Web and
@@ -66,7 +65,10 @@ Huang</strong><br>
 <em> ICSE-SEET 2024.</em> <br>
 [[Paper PDF]](/paper/ICSE-SEET2024.pdf)
 
-
+- Genetic Improvement for DNN Security<br>
+Hunter Baxter, <strong> Yu Huang</strong>, Kevin Leach<br>
+<strong><FONT COLOR=red> Best Presentation Award</FONT> </strong> <br>		
+*GI2024*: 2024 IEEE/ACM International Workshop on Genetic Improvement <br> 
 
 ## 2023
 
