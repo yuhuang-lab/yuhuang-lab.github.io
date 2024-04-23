@@ -16,6 +16,13 @@ always support data sharing in our community.
 <!-- ## Major Peer-reviewed Conference and Journal Papers-->
 ## 2024
 
+- A Tale of Two Comprehensions? Studying Human Attention During Code
+  Summarization <br>
+  Zachary Karas, Aakash Bansal, Yifan Zhang, Toby Li, Collin McMillan, **Yu Huang** <br>
+ *TOSEM 2024*: ACM Transactions on Software Engineering and Methodology<br>
+
+
+
 - ChatGPT Giving Relationship Advice - How Reliable Is It? <br>
   Haonan Hou, Kevin Leach, **Yu Huang** <br>
   *AAAI - ICWSM 2024*: The 18th International AAAI Conference On Web and
@@ -95,7 +102,7 @@ Huang</strong>, Collin McMillan  <br>
 
 - [Leveraging Evidence Theory to Improve Fault Localization: An
 Exploratory Study](/paper/fuzzy-esem23.pdfb)<br>
-Yueke Zhang, Kevin Leach,  <strong> Yu Huang</strong>.
+Yueke Zhang, Kevin Leach,  <strong> Yu Huang</strong> <br>
 <em>ESEM 2023.</em><br>
 [[Paper PDF]](/paper/fuzzy-esem23.pdf)
 

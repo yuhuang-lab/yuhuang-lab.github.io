@@ -31,7 +31,7 @@ Technology in China in 2011.
 
 Research 
 ======
-My group focuses on **human aspects in software
+My group focuses on **human factors in software
 engineering** and **human-centered AI for software engineering**, including
 user cognition, sustainability for open source software, AI for software engineering, and computer
 science education. 
@@ -57,13 +57,18 @@ If you are interested in joining my lab, please check the information on
 
 News
 ======
+* **Apr 2024** 
+We got the best presentation award for our paper at GI2024, co-located
+with ICSE!
+ 
+
 * **Mar 2024** 
 Our work is featured on [Vanderbilt School of Engineering news](https://engineering.vanderbilt.edu/2024/03/21/computer-science-professors-students-receive-prestigious-software-engineering-research-awards/)!
 
 * **Feb 2024** 
 Congratulations to Yimeng for her paper receiving the ACM
          SIGSOFT Distinguished Paper Award at ICSE 24!
-       
+      
 * **Dec 2023** 
 Congratulations to Yifan for his paper accepted to
          FSE 2024!
