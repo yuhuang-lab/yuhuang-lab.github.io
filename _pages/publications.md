@@ -23,23 +23,23 @@ always support data sharing in our community.
 
 
 
-- ChatGPT Giving Relationship Advice - How Reliable Is It? <br>
+- [ChatGPT Giving Relationship Advice - How Reliable Is It?](/paper/AAAI-ICWSM2024.pdf) <br>
   Haonan Hou, Kevin Leach, **Yu Huang** <br>
   *AAAI - ICWSM 2024*: The 18th International AAAI Conference On Web and
   Social Media <br>
 [[Paper PDF]](/paper/AAAI-ICWSM2024.pdf)
 
 
-- EyeTrans: Merging Human and Machine Attention for Neural Code
-Summarization<br>
+- [EyeTrans: Merging Human and Machine Attention for Neural Code
+Summarization](/paper/FSE24_EyeTrans.pdf)<br>
 Yifan Zhang, Eric Jiliang Li, Zachary Karas, Aakash Bansal, Toby
 Jia-Jun Li, Collin McMillan, Kevin Leach, **Yu Huang** <br>
 *FSE 2024* <br>
 [[Paper PDF]](/paper/FSE24_EyeTrans.pdf)
 
 
-- Do Machines and Humans Focus on Similar Code? Exploring
-Explainability of LLMs in Code Summarization<br>
+- [Do Machines and Humans Focus on Similar Code? Exploring
+Explainability of LLMs in Code Summarization](/paper/ICPC24_RENE.pdf)<br>
 Eric Jiliang Li, Yifan Zhang, Zachary Karas, Collin McMillan, Kevin
 Leach , <strong> Yu Huang</strong> <br>
 <em>ICPC RENE Track 2024.</em> <br>
@@ -57,25 +57,27 @@ Yimeng Ma, <strong> Yu Huang</strong>, Kevin Leach <br>
 
 
 
-- CodeGRITS: A Research Toolkit for Developer Behavior and Eye
-Tracking in IDE<br>
+- [CodeGRITS: A Research Toolkit for Developer Behavior and Eye
+Tracking in IDE](/paper/ICSE24_Demo.pdf)<br>
 Ningzhi Tang, Junwen An, Meng Chen, Aakash Bansal, <strong> Yu
 Huang</strong>, Collin McMillan, Toby Jia-jun Li  <br>
 <em> ICSE Demo Track 2024.</em> <br>
 [[Paper PDF]](/paper/ICSE24_Demo.pdf)
 
 
-- Does ChatGPT Help With Introductory Programming? An Experiment of
-Students Using ChatGPT in CS1<br>
+- [Does ChatGPT Help With Introductory Programming? An Experiment of
+Students Using ChatGPT in CS1](/paper/ICSE-SEET2024.pdf)  <br>
 Garrett Xue, Hanlin Chen, Robert Tairas, Gina Bai, <strong> Yu
 Huang</strong><br>
 <em> ICSE-SEET 2024.</em> <br>
 [[Paper PDF]](/paper/ICSE-SEET2024.pdf)
 
-- Genetic Improvement for DNN Security<br>
+- [Genetic Improvement for DNN Security](/paper/GI2024.pdf)<br>
 Hunter Baxter, <strong> Yu Huang</strong>, Kevin Leach<br>
 <strong><FONT COLOR=red> Best Presentation Award</FONT> </strong> <br>		
 *GI2024*: 2024 IEEE/ACM International Workshop on Genetic Improvement <br> 
+[[Paper PDF]](/paper/GI2024.pdf)
+
 
 ## 2023
 
