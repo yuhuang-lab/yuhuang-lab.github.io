@@ -108,10 +108,12 @@ Yueke Zhang, Kevin Leach,  <strong> Yu Huang</strong> <br>
 <em>ESEM 2023.</em><br>
 [[Paper PDF]](/paper/fuzzy-esem23.pdf)
 
-- Modeling Programmer Attention as Scanpath Prediction<br>
+- [Modeling Programmer Attention as Scanpath
+  Prediction](/paper/ASE-NIER2023.pdf)<br>
 Aakash Bansal, Chia-Yi Su, Zachary Karas, Yifan Zhang, <strong> Yu
 Huang</strong>, Toby Jia-Jun Li, Collin McMillan <br>
-<em>ASE-NIER 2023</em>
+<em>ASE-NIER 2023</em><br>
+[[Paper PDF]](/paper/ASE-NIER2023.pdf)
 
 
 
