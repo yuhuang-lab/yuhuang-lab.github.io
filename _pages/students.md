@@ -126,14 +126,6 @@ Current Students
     </td>
  
 
-    <td>
-        <div style="text-align: center">
-            <img src="/images/students/austin.png" class="student-profile-pic">
-        </div>
-        <b>Austin Anderson</b> (Spring 24 - Present) <br>
-        Gatton Acacdemy (high school) Researcher at Western Kentucky
-        University 
-    </td>
  </tr>
 
 
