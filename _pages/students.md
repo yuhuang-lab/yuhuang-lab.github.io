@@ -133,6 +133,14 @@ Current Students
         Undergraduate Researcher at Vanderbilt University 
     </td>
  
+  <td>
+        <div style="text-align: center">
+            <img src="/images/students/manish.jpeg" class="student-profile-pic">
+        </div>
+        <b>Manish Acharya</b> (Summer 2024 - Present) <br>
+        Undergraduate Researcher at Vanderbilt University 
+    </td>
+ 
 
  </tr>
 
