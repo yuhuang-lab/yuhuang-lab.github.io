@@ -156,9 +156,13 @@ Emeritus Members
  <!-- <p> <img src="index_files/people/danielle.png" height="60"/>
             Danielle Page </p>-->
 <b>Haonan Hou</b>: Undergraduate researcher, moved on to UC Berkeley 
+
 <b>Eamon (Yimeng) Ma</b>: Undergraduate researcher, moved on to Duke University 
+
 <b>Danielle Page</b>: Undergraduate researcher 
+
 <b>Garrett (Yuankai) Xue</b>: Undergraduate researcher, moved on to Vanderbilt University, Master in Data Science
+
 <b>Hanlin Chen</b>: Graduate researcher, moved on to Vanderbilt University, Master in Data Science
                
         
