@@ -136,7 +136,7 @@ Current Students
             <img src="/images/students/janice.jpg" class="student-profile-pic">
         </div>
         <b>Janice Chung</b> (Spring 24 - Present) <br>
-        Undergraduate Researcher at Vanderbilt University 
+        Undergraduate Researcher at Vanderbilt 
     </td>
  
   <td>
@@ -144,7 +144,7 @@ Current Students
             <img src="/images/students/manish.jpeg" class="student-profile-pic">
         </div>
         <b>Manish Acharya</b> (Summer 2024 - Present) <br>
-        Undergraduate Researcher at Vanderbilt University 
+        Undergraduate Researcher at Vanderbilt 
     </td>
  
 
