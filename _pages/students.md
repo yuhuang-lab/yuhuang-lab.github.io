@@ -46,7 +46,13 @@ Current Students
         <b>Jiahao Zhang</b> (Starting Fall 2024) <br>
         Ph.D. Student at Vanderbilt 
     </td>
-
+    <td>
+        <div style="text-align: center">
+            <img src="/images/students/jieyu.jpg" class="student-profile-pic">
+        </div>
+        <b>Jieyu Li</b> (Fall 2023) <br>
+        Master Student at Vanderbilt (ECE) 
+    </td>
  </tr>
 </table>
 
