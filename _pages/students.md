@@ -39,6 +39,14 @@ Current Students
         <b>Yueke Zhang</b> (Fall 2023 - Present) <br>
         Ph.D. Student at Vanderbilt 
     </td>
+    <td>
+        <div style="text-align: center">
+            <img src="/images/students/Jiahao.jpg" class="student-profile-pic">
+        </div>
+        <b>Jiahao Zhang</b> (Starting Fall 2024) <br>
+        Ph.D. Student at Vanderbilt 
+    </td>
+
  </tr>
 </table>
 
