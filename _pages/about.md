@@ -17,9 +17,14 @@ around me may also call me "HuangYu" together :)
 
 I am an assistant professor of Computer Science at Vanderbilt
 University. I am also affliated with the Institute for Software
-Integrate Systems, the Frist Austism Center, and the LIVE Initiative at Vanderbilt. 
-My research mainly focuses on understanding and leveraging developers'
-cognition and behaviors to improve the effectiveness and efficiency in
+Integrated Systems, the Frist Austism Center, and the LIVE Initiative at Vanderbilt.
+
+I am leading the research of the **MIND Lab** -- the **M**ixed **IN**telligence
+**D**evelopment for programming lab (ask us how long it took us to find a
+name for our lab finally!). 
+Our research focuses on understanding and combining developer and
+machine
+intelligence to improve the effectiveness and efficiency in
 the software development process. 
 Occasionaly I also work on other fun projects with my students.
 
@@ -31,8 +36,7 @@ Technology in China in 2011.
 
 Research 
 ======
-My group focuses on **human factors in software
-engineering** and **human-centered AI for software engineering**, including
+My group focuses on **human factors and human-centered AI for software engineering**, including
 user cognition, sustainability for open source software, AI for software engineering, and computer
 science education. 
 Our work aims to bridge the divide between human cognition and automated models for programming.
@@ -57,16 +61,23 @@ If you are interested in joining my lab, please check the information on
 
 News
 ======
+* **May 2024** 
+Congratulations to Zihan receiving the C. F. Chen Best Paper award in
+Department of Computer Science! 
+
 * **Apr 2024** 
 We got the best presentation award for our paper at GI2024, co-located
 with ICSE!
  
-
+* **Mar 2024** 
+Congratulations to our undergrad researcher, Haonan, for his paper
+being accepted to AAAI-ICWSM!
+ 
 * **Mar 2024** 
 Our work is featured on [Vanderbilt School of Engineering news](https://engineering.vanderbilt.edu/2024/03/21/computer-science-professors-students-receive-prestigious-software-engineering-research-awards/)!
 
 * **Feb 2024** 
-Congratulations to Yimeng for her paper receiving the ACM
+Congratulations to our undergrad researcher, Yimeng, for her paper receiving the ACM
          SIGSOFT Distinguished Paper Award at ICSE 24!
       
 * **Dec 2023** 

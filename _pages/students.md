@@ -50,7 +50,7 @@ Current Students
         <div style="text-align: center">
             <img src="/images/students/jieyu.jpg" class="student-profile-pic">
         </div>
-        <b>Jieyu Li</b> (Fall 2023) <br>
+        <b>Jieyu Li</b> (Fall 2023 - Present) <br>
         Master Student at Vanderbilt (ECE) 
     </td>
  </tr>
@@ -74,23 +74,8 @@ Current Students
         <b>Eric Li</b> (Summer 22 - Present) <br>
         Undergraduate Researcher at Vanderbilt
     </td>
-    <td>
-        <div style="text-align: center">
-            <img src="/images/students/haonan.jpg" class="student-profile-pic">
-        </div>
-        <b>Haonan Hou</b> (Summer 22 - Present) <br>
-        Undergraduate Researcher at Vanderbilt
-    </td>
- </tr>
 
-<tr>
-    <td>
-        <div style="text-align: center">
-            <img src="/images/students/danielle.png" class="student-profile-pic">
-        </div>
-        <b>Danielle Page</b> (Fall 22 - Fall 23) <br>
-        Undergraduate Researcher at Vanderbilt
-    </td>
+
     <td>
         <div style="text-align: center">
             <img src="/images/students/yuwei.jpeg" class="student-profile-pic">
@@ -98,6 +83,8 @@ Current Students
         <b>Yuwei Yang</b> (Summer 23 - Present) <br>
         Undergraduate Researcher at Vanderbilt
     </td>
+</tr>
+<tr>
     <td>
         <div style="text-align: center">
             <img src="/images/students/ellie.jpg" class="student-profile-pic">
@@ -105,9 +92,6 @@ Current Students
         <b>Ellie Li</b> (Summer 23 - Present) <br>
         Undergraduate Researcher at Vanderbilt
     </td>
- </tr>
-
-<tr>
     <td>
         <div style="text-align: center">
             <img src="/images/students/amanda.jpg" class="student-profile-pic">
@@ -122,6 +106,10 @@ Current Students
         <b>Weizhe Jiao</b> (Fall 23 - Present) <br>
         Undergraduate Researcher at Vanderbilt
     </td>
+</tr>
+<tr>
+ 
+
     <td>
         <div style="text-align: center">
             <img src="/images/students/suad.jpeg" class="student-profile-pic">
@@ -129,8 +117,6 @@ Current Students
         <b>Suad Hassan Mohamed</b> (Spring 24 - Present) <br>
         Undergraduate Researcher at Belmont University
     </td>
- </tr>
-<tr>
     <td>
         <div style="text-align: center">
             <img src="/images/students/janice.jpg" class="student-profile-pic">
@@ -139,11 +125,22 @@ Current Students
         Undergraduate Researcher at Vanderbilt 
     </td>
  
-  <td>
+    <td>
         <div style="text-align: center">
             <img src="/images/students/manish.jpeg" class="student-profile-pic">
         </div>
         <b>Manish Acharya</b> (Summer 2024 - Present) <br>
+        Undergraduate Researcher at Vanderbilt 
+    </td>
+
+</tr>
+<tr>
+ 
+    <td>
+        <div style="text-align: center">
+            <img src="/images/students/yehan.png" class="student-profile-pic">
+        </div>
+        <b>Yehan Subasinghe</b> (Summer 2024) <br>
         Undergraduate Researcher at Vanderbilt 
     </td>
  
@@ -158,10 +155,10 @@ Emeritus Members
 =====
  <!-- <p> <img src="index_files/people/danielle.png" height="60"/>
             Danielle Page </p>-->
+<b>Haonan Hou</b>: Undergraduate researcher, moved on to UC Berkeley 
 <b>Eamon (Yimeng) Ma</b>: Undergraduate researcher, moved on to Duke University 
-
+<b>Danielle Page</b>: Undergraduate researcher 
 <b>Garrett (Yuankai) Xue</b>: Undergraduate researcher, moved on to Vanderbilt University, Master in Data Science
-
 <b>Hanlin Chen</b>: Graduate researcher, moved on to Vanderbilt University, Master in Data Science
                
         
