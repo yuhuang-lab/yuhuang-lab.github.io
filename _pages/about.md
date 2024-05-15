@@ -63,7 +63,7 @@ News
 ======
 * **May 2024** 
 Congratulations to our undegraduate researchers, Anda Liang, Eric Li,
-Haona Hou and Ellie Li, graduating from Vanderbilt! 
+Haonan Hou and Ellie Li, graduating from Vanderbilt! 
 
 * **May 2024** 
 Congratulations to Zach passing his prelim! 
