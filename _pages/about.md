@@ -16,8 +16,8 @@ My first name "Yu" can be confused as "You" sometimes. So people
 around me may also call me "HuangYu" together :)
 
 I am an assistant professor of Computer Science at Vanderbilt
-University. I am also affliated with the Institute for Software
-Integrated Systems, the Frist Austism Center, and the LIVE Initiative at Vanderbilt.
+University. I am also affiliated with the [Institute for Software
+Integrated Systems](https://www.isis.vanderbilt.edu/), [the Frist Austism Center](https://www.vanderbilt.edu/autismandinnovation/),[the Vanderbilt Lab for Immersive AI Translation (VALIANT)](https://www.vanderbilt.edu/valiant/) and [the Learning Incubtor: a Vanderbilt Endeavor (LIVE) Center](https://lab.vanderbilt.edu/live-lab/) at Vanderbilt.
 
 I am leading the research of the **MIND Lab** -- the **M**ixed **IN**telligence
 **D**evelopment for programming lab (ask us how long it took us to find a
@@ -61,6 +61,17 @@ If you are interested in joining my lab, please check the information on
 
 News
 ======
+* **May 2024** 
+Congratulations to our undegraduate researchers, Anda Liang, Eric Li,
+Haona Hou and Ellie Li, graduating from Vanderbilt! 
+
+* **May 2024** 
+Congratulations to Zach passing his prelim! 
+
+* **May 2024** 
+Congratulations to Eric receiving the Dean's Award of the Banner Bearer
+of the Class of 2024! 
+
 * **May 2024** 
 Congratulations to Zihan receiving the C. F. Chen Best Paper award in
 Department of Computer Science! 
