@@ -17,7 +17,7 @@ around me may also call me "HuangYu" together :)
 
 I am an assistant professor of Computer Science at Vanderbilt
 University. I am also affiliated with the [Institute for Software
-Integrated Systems](https://www.isis.vanderbilt.edu/), [the Frist Austism Center](https://www.vanderbilt.edu/autismandinnovation/),[the Vanderbilt Lab for Immersive AI Translation (VALIANT)](https://www.vanderbilt.edu/valiant/) and [the Learning Incubtor: a Vanderbilt Endeavor (LIVE) Center](https://lab.vanderbilt.edu/live-lab/) at Vanderbilt.
+Integrated Systems](https://www.isis.vanderbilt.edu/), [the Frist Austism Center](https://www.vanderbilt.edu/autismandinnovation/), [the Vanderbilt Lab for Immersive AI Translation (VALIANT)](https://www.vanderbilt.edu/valiant/) and [the Learning Incubator: a Vanderbilt Endeavor (LIVE) Center](https://lab.vanderbilt.edu/live-lab/) at Vanderbilt.
 
 I am leading the research of the **MIND Lab** -- the **M**ixed **IN**telligence
 **D**evelopment for programming lab (ask us how long it took us to find a
