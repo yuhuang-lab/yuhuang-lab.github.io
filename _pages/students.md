@@ -13,7 +13,7 @@ Current Students
         <div style="text-align: center">
             <img src="/images/students/yifan.png" class="student-profile-pic">
         </div>
-        <b><a href="http://www.linkedin.com/in/coderdoge/" target="_blank">Yifan Zhang</a></b> (Summer 2022 - Present) <br>
+        <b><a href="https://coderdoge.com" target="_blank">Yifan Zhang</a></b> (Summer 2022 - Present) <br>
         Ph.D. Student at Vanderbilt, co-advised with Prof. Leach 
     </td>
     <td>
@@ -87,27 +87,11 @@ Current Students
 <tr>
     <td>
         <div style="text-align: center">
-            <img src="/images/students/ellie.jpg" class="student-profile-pic">
-        </div>
-        <b>Ellie Li</b> (Summer 23 - Present) <br>
-        Undergraduate Researcher at Vanderbilt
-    </td>
-    <td>
-        <div style="text-align: center">
             <img src="/images/students/amanda.jpg" class="student-profile-pic">
         </div>
         <b>Amanda Zhou</b> (Summer 23 - Present) <br>
         Undergraduate Researcher at Vanderbilt
     </td>
-    <td>
-        <div style="text-align: center">
-            <img src="/images/students/weizhe.png" class="student-profile-pic">
-        </div>
-        <b>Weizhe Jiao</b> (Fall 23 - Present) <br>
-        Undergraduate Researcher at Vanderbilt
-    </td>
-</tr>
-<tr>
  
 
     <td>
@@ -124,7 +108,8 @@ Current Students
         <b>Janice Chung</b> (Spring 24 - Present) <br>
         Undergraduate Researcher at Vanderbilt 
     </td>
- 
+</tr>
+<tr>
     <td>
         <div style="text-align: center">
             <img src="/images/students/manish.jpeg" class="student-profile-pic">
@@ -133,8 +118,6 @@ Current Students
         Undergraduate Researcher at Vanderbilt 
     </td>
 
-</tr>
-<tr>
  
     <td>
         <div style="text-align: center">
@@ -155,15 +138,21 @@ Emeritus Members
 =====
  <!-- <p> <img src="index_files/people/danielle.png" height="60"/>
             Danielle Page </p>-->
-<b>Haonan Hou</b>: Undergraduate researcher, moved on to UC Berkeley 
 
-<b>Eamon (Yimeng) Ma</b>: Undergraduate researcher, moved on to Duke University 
+<b>Ellie Li</b>: Summer 2023 - Spring 2024. Undergraduate researcher,
+moved on to Northwestern University 
 
-<b>Danielle Page</b>: Undergraduate researcher 
+<b>Haonan Hou</b>: Summer 2022 - Fall 2023. Undergraduate researcher, moved on to UC Berkeley 
 
-<b>Garrett (Yuankai) Xue</b>: Undergraduate researcher, moved on to Vanderbilt University, Master in Data Science
+<b>Weizhe Jiao</b>: Fall 2023 - Spring 2024. Undergraduate researcher 
 
-<b>Hanlin Chen</b>: Graduate researcher, moved on to Vanderbilt University, Master in Data Science
+<b>Eamon (Yimeng) Ma</b>: Summer 2022 - Summer 2023. Undergraduate researcher, moved on to Duke University 
+
+<b>Danielle Page</b>: Fall 2022 - Fall 2023. Undergraduate researcher 
+
+<b>Garrett (Yuankai) Xue</b>: Summer 2023 - Fall 2023. Undergraduate researcher, moved on to Vanderbilt University, Master in Data Science
+
+<b>Hanlin Chen</b>: Summer 2023 - Fall 2023. Graduate researcher, moved on to Vanderbilt University, Master in Data Science
                
         
 
