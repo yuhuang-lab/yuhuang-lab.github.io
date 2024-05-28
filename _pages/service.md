@@ -7,7 +7,7 @@ author_profile: true
 
 <!-- ## Major Peer-reviewed Conference and Journal Papers-->
 ## 2025
-**Program Committee:** ICSE
+**Program Committee:** ICSE, ISSTA
 
 ## 2024
 
