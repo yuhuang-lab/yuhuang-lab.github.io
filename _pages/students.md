@@ -36,7 +36,7 @@ Current Students
         <div style="text-align: center">
             <img src="/images/students/yueke.jpg" class="student-profile-pic">
         </div>
-        <b>Yueke Zhang</b> (Fall 2023 - Present) <br>
+        <b><a href="https://zyueek.github.io" target="_blank">Yueke Zhang</a></b> (Fall 2023 - Present) <br>
         Ph.D. Student at Vanderbilt 
     </td>
     <td>
