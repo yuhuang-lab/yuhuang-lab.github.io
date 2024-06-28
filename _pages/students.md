@@ -43,7 +43,7 @@ Current Students
         <div style="text-align: center">
             <img src="/images/students/Jiahao.jpg" class="student-profile-pic">
         </div>
-        <b>Jiahao Zhang</b> (Starting Fall 2024) <br>
+        <b><a href="https://michael-jiahao-zhang.github.io" target="_blank"> Jiahao Zhang </a></b> (Starting Fall 2024) <br>
         Ph.D. Student at Vanderbilt 
     </td>
     <td>
