@@ -13,7 +13,7 @@ redirect_from:
 About me
 =====
 My first name "Yu" can be confused as "You" sometimes. So people 
-around me may also call me "HuangYu" together :)
+around me also call me "HuangYu" together :)
 
 I am an assistant professor of Computer Science at Vanderbilt
 University. I am also affiliated with the [Institute for Software
@@ -44,7 +44,7 @@ Our work spans software,
 hardware, AI, medical imaging (fMRI and fNIRS), eye tracking, and mobile sensing, collaborating with researchers from Security, Education, Psychology and Neuroscience.
 We also work on social aspects in the software engineering community.
 	
-All (not limited to) the following questions are of interest in my group and I look
+All (but not limited to) the following questions are of interest in my group and I look
 forward to hearing crazy ideas from students!
 
 - How do programming experts become experts?
@@ -61,6 +61,13 @@ If you are interested in joining my lab, please check the information on
 
 News
 ======
+* **June 2024** 
+Congratulations to Zihan Fang for her paper being accepted to CSCW 2024! 
+
+
+* **May 2024** 
+Congratulations to Zach Karas for his paper being accepted to TOSEM! 
+
 * **May 2024** 
 Congratulations to our undegraduate researchers, Anda Liang, Eric Li,
 Haonan Hou and Ellie Li, graduating from Vanderbilt! 
