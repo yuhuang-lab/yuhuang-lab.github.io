@@ -15,7 +15,7 @@ I am also working on a Dataset page - we
 always support data sharing in our community.
 <!-- ## Major Peer-reviewed Conference and Journal Papers-->
 ## 2024
-- "Math is a pain!": Understanding challenges and needs of the Machine Learning community on Stack Overflow <br>
+- "Math Is a Pain!": Understanding Challenges and Needs of the Machine Learning Community on Stack Overflow <br>
   Zihan Fang, **Yu Huang** <br>
  *CSCW 2024*: The 27th ACM Conference on Computer-Supported Cooperative Work and Social Computing <br>
 
