@@ -118,7 +118,8 @@ Yueke Zhang, Kevin Leach,  <strong> Yu Huang</strong> <br>
   Prediction](/paper/ASE-NIER2023.pdf)<br>
 Aakash Bansal, Chia-Yi Su, Zachary Karas, Yifan Zhang, <strong> Yu
 Huang</strong>, Toby Jia-Jun Li, Collin McMillan <br>
-<em>ASE-NIER 2023</em><br>
+<em>ASE-NIER 2023</em><br> The 38th IEEE/ACM International Conference on
+Automated Software Engineering, The New Ideas and Emerging Results Track. 
 [[Paper PDF]](/paper/ASE-NIER2023.pdf)
 
 
@@ -135,8 +136,8 @@ Interfaces Abstracts and Workshops (VRW 2023).<br>
 
 - [CirFix: Automated Hardware Repair and Its Real-World Applications](/paper/cirfix-tse23.pdf)<br>
 Priscila Santiesteban, <strong> Yu Huang</strong>, Westley Weimer, Hammad Ahmad <br>
-[[Paper PDF]](/paper/cirfix-tse23.pdf)
 *TSE 2023*: Transactions of Software Engineering
+[[Paper PDF]](/paper/cirfix-tse23.pdf)
 
 
 
@@ -146,7 +147,7 @@ Yifan Zhang, Junwen Yang, Haoyu Dong, Qingchen Wang, Huajie Shao,
 Kevin Leach  <strong> Yu Huang</strong> <br>
 *InteNSE 2023*: The 1st Workshop on Interpretability and Robustness in
 Neural Software Engineering (co-located with ICSE 2023).<br>
-[[Paper PDF]](/paper/astro-intense23.pdf") 
+[[Paper PDF]](/paper/astro-intense23.pdf) 
 
 ## 2022
 
@@ -211,7 +212,7 @@ Zohreh Sharafi,  <strong> Yu Huang </strong>, Kevin Leach, Westley Weimer <br>
 Ian Bertram, Jack Hong,  <strong> Yu Huang </strong>, Westley Weimer, Zohreh Sharafi <br>
 *ESEM-ERV 2020*: In Empirical Software Engineering and Measurement 2020
             Emerging Results and Vision track.<br>
-[[Paper PDF]](/paper/huang-esem2020.pdf") 
+[[Paper PDF]](/paper/huang-esem2020.pdf) 
 
 
 - [Biases and Differences in Code Reviews using Medical Imaging and Eye-Tracking: 
@@ -223,8 +224,7 @@ Genders, Humans, and Machines](/paper/huang-fse2020-bias.pdf)<br>
     
     
 
-- [A Human Study of Comprehension and Code
-   Summarization](/paper/huaang-icpc2020.pdf)<br>
+- [A Human Study of Comprehension and Code Summarization](/paper/huang-icpc2020.pdf)<br>
 Sean Stapleton, Yashmeet Gambhir, Alexander LeClair, Zachary Eberhart, Westley Weimer, Kevin Leach, <strong> Yu Huang </strong><br>
 *ICPC 2020*: In Proceedings of the 28th IEEE/ACM International Conference on Program Comprehension. 
      Seoul, South Korea, 2020.<br>

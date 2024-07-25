@@ -13,7 +13,7 @@ redirect_from:
 About me
 =====
 My first name "Yu" can be confused as "You" sometimes. So people 
-around me also call me "HuangYu" together :)
+around me also call me "Huang Yu" together :)
 
 I am an assistant professor of Computer Science at Vanderbilt
 University. I am also affiliated with the [Institute for Software
@@ -22,11 +22,17 @@ Integrated Systems](https://www.isis.vanderbilt.edu/), [the Frist Austism Center
 I am leading the research of the **MIND Lab** -- the **M**ixed **IN**telligence
 **D**evelopment for programming lab (ask us how long it took us to find a
 name for our lab finally!). 
-Our research focuses on understanding and combining developer and
+Our research focuses on understanding and combining human and
 machine
 intelligence to improve the effectiveness and efficiency in
 the software development process. 
 Occasionaly I also work on other fun projects with my students.
+
+Our research has been supported by NSF, GitHub and Vanderbilt Immersion. 
+Our work has been published in top venues in Software Engineering (e.g.,
+ICSE, FSE, TSE, TOSEM) as well as Systems, HCI and psychology (e.g., ASPLOS, CSCW,JMIR),
+with three ACM SIGSOFT Distinguished Paper
+Awards (ICSE 2019, FSE 2023, ICSE 2024). 
 
 I received my PhD in Computer Science at the University of Michigan
 in 2021. My advisor was [Prof. Westley Weimer](http://web.eecs.umich.edu/~weimerw). I received my MS in Computer Engineering at University of Virginia in
@@ -37,7 +43,7 @@ Technology in China in 2011.
 Research 
 ======
 My group focuses on **human factors and human-centered AI for software engineering**, including
-user cognition, sustainability for open source software, AI for software engineering, and computer
+human cognition, AI for software engineering, sustainability for open source software, and computer
 science education. 
 Our work aims to bridge the divide between human cognition and automated models for programming.
 Our work spans software,
@@ -61,6 +67,11 @@ If you are interested in joining my lab, please check the information on
 
 News
 ======
+* **July 2024** 
+Congratulations to Anda Liang for his paper being accepted to TSE! 
+
+
+
 * **June 2024** 
 Congratulations to Zihan Fang for her paper being accepted to CSCW 2024! 
 
