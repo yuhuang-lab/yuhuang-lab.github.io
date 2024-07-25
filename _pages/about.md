@@ -22,7 +22,7 @@ Integrated Systems](https://www.isis.vanderbilt.edu/), [the Frist Austism Center
 I am leading the research of the **MIND Lab** -- the **M**ixed **IN**telligence
 **D**evelopment for programming lab (ask us how long it took us to find a
 name for our lab finally!). 
-Our research focuses on understanding and combining human and
+Our research focuses on understanding and combining human cognition and
 machine
 intelligence to improve the effectiveness and efficiency in
 the software development process. 
@@ -30,7 +30,7 @@ Occasionaly I also work on other fun projects with my students.
 
 Our research has been supported by NSF, GitHub and Vanderbilt Immersion. 
 Our work has been published in top venues in Software Engineering (e.g.,
-ICSE, FSE, TSE, TOSEM) as well as Systems, HCI and psychology (e.g., ASPLOS, CSCW,JMIR),
+ICSE, FSE, TSE, TOSEM) as well as Systems, HCI and Psychology (e.g., ASPLOS, CSCW, JMIR),
 with three ACM SIGSOFT Distinguished Paper
 Awards (ICSE 2019, FSE 2023, ICSE 2024). 
 
