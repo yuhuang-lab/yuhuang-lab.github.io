@@ -29,9 +29,9 @@ the software development process.
 Occasionaly I also work on other fun projects with my students.
 
 Our research has been supported by NSF, GitHub and Vanderbilt Immersion. 
-Our work has been published in top venues in Software Engineering (e.g.,
-ICSE, FSE, TSE, TOSEM) as well as Systems, HCI and Psychology (e.g., ASPLOS, CSCW, JMIR),
-with three ACM SIGSOFT Distinguished Paper
+Our work has been mainly published in top venues in Software Engineering (e.g.,
+ICSE, FSE, TSE, TOSEM), sometimes in Systems, HCI and Psychology (e.g., ASPLOS, CSCW, JMIR). 
+We have received three ACM SIGSOFT Distinguished Paper
 Awards (ICSE 2019, FSE 2023, ICSE 2024). 
 
 I received my PhD in Computer Science at the University of Michigan
