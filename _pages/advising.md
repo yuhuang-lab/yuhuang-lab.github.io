@@ -147,29 +147,56 @@ probably find an answer really fast):</p>
  href="https://engineering.vanderbilt.edu/academics/undergraduate/study-abroad/">Study
  Abroad</a>. </p>
 
+ <li><strong> I am an international student and I need summer CPT for my
+ internship. How should I start the process?</strong> </li>
+ <p> Getting CPT approval requires a series of steps completed by the
+ student applicant: <a target="_blank"
+ href="https://engineering.vanderbilt.edu/academics/undergraduate/professional-development/curricular-practical-training/">CPT
+ for International Students</a>.It also includes the registration for ES
+ 3884 with me (you need to email OAS to enroll in this course, it is advisable to CC me in the email). For your offer letter, please make sure it follows the dates
+specified in the CPT instructions each academic year (the dates are very
+important and non-negotiable). Upon the completion of your internship,
+you need to submit a report for 3884 before the deadline (the deadline
+is usually after your internship end date but before the summer course
+grading deadline. We can discuss the deadline for the report per case.)</p>
 
 
 
 
-    <li><strong>Where can I find the form to (1) apply for a
-    major/minor (2) audit a class (3) waive prerequisite and 
-    (4) basically anything about undergrad education?</strong> </li>
-    <p>All the forms are listed here: <a target="_blank"
+
+
+<li><strong>Where can I find the form to (1) apply for a
+major/minor (2) audit a class (3) waive prerequisite and 
+(4) basically anything about undergrad education?</strong> </li>
+<p>All the forms are listed here: <a target="_blank"
     href="https://engineering.vanderbilt.edu/academic-services/AcademicAdvising/Forms.php">
     Forms for Students</a>.</p>
 
-     <li><strong> Can you help me change XYZ in YES? </strong> </li>
-    <p>Sadly I don't have any permission to edit anything in YES
-    associated with your audit. For such requests, you will need
-    to contact the Engineeging OAS via email: engineering-oas at vanderbilt.edu.</p>
+<li><strong> How can I enroll in CS2860/3860/3861/3862 in YES (after having a plan with the professor I intend to work with)? </strong> </li>
+<p> Please refer to "HowTo's" in this Forms link: <a target="_blank" href="https://engineering.vanderbilt.edu/academics/undergraduate/academic-services/forms/">Engineering Forms</a>.</p>
 
-     <li><strong> I really need to enroll in course CS XXXX but
-     it is full. Can you add me to the course?</strong> </li>
-    <p>Sadly I don't have any permission to add a studnet to a
-    full class. If you really need this course (e.g., "I really
-    need to take this course this semester, otherwise I won't be
-    able to graduate on time."), please email the instructor and
-    me about your situation.</p>
+
+
+
+<li><strong> How can I view/calculate my major CS GPA in YES? </strong> </li>
+<p> Open your Degree Audit, then "Bachelor of Science: Computer
+Science" > "Computer Science Veirfy 2.0 GPA in CS Courses". Details
+might be slightly different based on your home school.</p>
+
+
+
+ <li><strong> Can you help me change XYZ in YES? </strong> </li>
+<p>Sadly I don't have any permission to edit anything in YES
+associated with your audit. For such requests, you will need
+to contact the Engineeging OAS via email: engineering-oas at vanderbilt.edu.</p>
+
+ <li><strong> I really need to enroll in course CS XXXX but
+ it is full. Can you add me to the course?</strong> </li>
+<p>Sadly I don't have any permission to add a studnet to a
+full class. If you really need this course (e.g., "I really
+need to take this course this semester, otherwise I won't be
+able to graduate on time."), please email the instructor and
+me about your situation.</p>
 
 
 
