@@ -107,7 +107,7 @@ plans. If you cannot make that OH or have other questions
 during the semester, please feel free to email me and/or schedule a meeting
 as needed.</p>  
 
-<p>I collected common FAQs for my undergrad advisees  as below. Please read
+<p>I have been collecting and updating common FAQs for my undergrad advisees  as below. Please read
 them first when you have a question (because you can
 probably find an answer really fast):</p>
 
