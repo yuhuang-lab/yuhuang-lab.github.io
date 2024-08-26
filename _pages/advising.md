@@ -123,7 +123,19 @@ probably find an answer really fast):</p>
     <p>Detailed descriptions for the CS graduation requirements
     can be found here: <a target="_blank"
  href="https://www.vanderbilt.edu/catalogs/kuali/undergraduate-23-24.php#/content/64766d03b47341001cb4f0a6">Curriculum 
- Requirements.</a> </p>
+ Requirements.</a> And please remember the Degree Audit is
+ the most useful tool for you to check if you are on track for
+ graduation.</p>
+
+ <li><strong> How do I know what courses I still need to graduate? Can
+ Course X be used to staisfy the requirement of Y for my
+ graduation/major/minor?</strong> </li>
+ <p>Based on our experience, the best way to check your own graduation
+ plan (regarding courses) is to check the Degree Audit in YES. You are
+ highly recommended to use the What If feature in Degree Audit to test
+ if a course would be counted for a requirement.</p>
+
+
 
 
   <li><strong> Where can I find the undergraduate academic
@@ -153,7 +165,7 @@ probably find an answer really fast):</p>
  student applicant: <a target="_blank"
  href="https://engineering.vanderbilt.edu/academics/undergraduate/professional-development/curricular-practical-training/">CPT
  for International Students</a>.It also includes the registration for ES
- 3884 with me (you need to email OAS to enroll in this course, it is advisable to CC me in the email). For your offer letter, please make sure it follows the dates
+ 3884 with me as your academic advisor (you need to email OAS to enroll in this course, it is advisable to CC me in the email). For your offer letter, please make sure it follows the dates
 specified in the CPT instructions each academic year (the dates are very
 important and non-negotiable). Upon the completion of your internship,
 you need to submit a report for 3884 before the deadline (the deadline
@@ -182,6 +194,10 @@ major/minor (2) audit a class (3) waive prerequisite and
 <p> Open your Degree Audit, then "Bachelor of Science: Computer
 Science" > "Computer Science Veirfy 2.0 GPA in CS Courses". Details
 might be slightly different based on your home school.</p>
+
+<li><strong> What are the requirements for getting a CS minor? </strong> </li>
+<p> The information is listed in the end of the CS catalog (see "where
+can I find the undergraduate academic catalog for CS?" above).</p>
 
 
 
