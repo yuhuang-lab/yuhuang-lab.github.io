@@ -187,7 +187,15 @@ major/minor (2) audit a class (3) waive prerequisite and
 <li><strong> How can I enroll in CS2860/3860/3861/3862 in YES (after having a plan with the professor I intend to work with)? </strong> </li>
 <p> Please refer to "HowTo's" in this Forms link: <a target="_blank" href="https://engineering.vanderbilt.edu/academics/undergraduate/academic-services/forms/">Engineering Forms</a>.</p>
 
-
+<li><strong>As an undergrad student, can I take a grad course and how?</strong> </li>
+<p>Yes. Here you can find the information about whether you are
+eligilble, how to enroll in a graduate course, and the policy (under "UNDERGRADUATE ENROLLMENT IN GRADUATE COURSES"): <a target="_blank"
+    href="https://www.vanderbilt.edu/catalogs/kuali/undergraduate-23-24.php#/content/64766d03b47341001cb4f09f">
+    School of Engineering Academic Regulations</a>. You can also use a
+    graduate course as CS depth. However, if you do so, you cannot ALSO apply the
+    credit to a Vanderbilt Accelerated masters, Vanderbilt graduate
+    degree, nor can you transfer the course to another university
+    graduate program (i.e., this credit is already "consumed").</p>
 
 
 <li><strong> How can I view/calculate my major CS GPA in YES? </strong> </li>
