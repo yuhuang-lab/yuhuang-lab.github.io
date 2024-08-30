@@ -15,10 +15,23 @@ I am also working on a Dataset page - we
 always support data sharing in our community.
 <!-- ## Major Peer-reviewed Conference and Journal Papers-->
 ## 2024
+
+- A Study on Developer Behaviors for Validating and Repairing LLM-Generated Code Using Eye Tracking and IDE Actions<br>
+  Ningzhi Tang, Meng Chen, Zheng Ning, Aakash Bansal, **Yu Huang**,
+  Collin McMillan, Toby Jia-Jun Li <br>
+ *VL/HCC 2024*: 40th IEEE Symposium on Visual Languages and Human-Centric Computing <br>
+
+
+
 - "Math Is a Pain!": Understanding Challenges and Needs of the Machine Learning Community on Stack Overflow <br>
   Zihan Fang, **Yu Huang** <br>
  *CSCW 2024*: The 27th ACM Conference on Computer-Supported Cooperative Work and Social Computing <br>
 
+
+- [A Controlled Experiment in Age and Gender Bias When Reading Technical Articles in Software Engineering](/paper/TSE-Bias.pdf) <br>
+  Anda Liang, Emerson Murphy-Hill, Westley Weimer, **Yu Huang** <br>
+ *TSE 2024*: ACM Transactions on Software Engineering<br>
+[[Paper PDF]](/paper/TSE-Bias.pdf)
 
 
 
@@ -40,7 +53,8 @@ always support data sharing in our community.
 Summarization](/paper/FSE24_EyeTrans.pdf)<br>
 Yifan Zhang, Eric Jiliang Li, Zachary Karas, Aakash Bansal, Toby
 Jia-Jun Li, Collin McMillan, Kevin Leach, **Yu Huang** <br>
-*FSE 2024* <br>
+*FSE 2024*: The ACM International Conference on the Foundations
+of Software Engineering  <br>
 [[Paper PDF]](/paper/FSE24_EyeTrans.pdf)
 
 
@@ -48,7 +62,7 @@ Jia-Jun Li, Collin McMillan, Kevin Leach, **Yu Huang** <br>
 Explainability of LLMs in Code Summarization](/paper/ICPC24_RENE.pdf)<br>
 Eric Jiliang Li, Yifan Zhang, Zachary Karas, Collin McMillan, Kevin
 Leach , <strong> Yu Huang</strong> <br>
-<em>ICPC RENE Track 2024.</em> <br>
+*ICPC RENE Track 2024*: The 32nd IEEE/ACM International Conference on Program Comprehension, Replication and Negative Results Track  <br>
 [[Paper PDF]](/paper/ICPC24_RENE.pdf)
 
 
@@ -58,7 +72,7 @@ Leach , <strong> Yu Huang</strong> <br>
 Activities](/paper/icse24.pdf)<br>				
 Yimeng Ma, <strong> Yu Huang</strong>, Kevin Leach <br>
 <strong><FONT COLOR=red> ACM SIGSOFT Distinguished Paper Award</FONT> </strong> <br>
-<em> ICSE 2024.</em> <br>
+*ICSE 2024*: The 46th IEEE/ACM International Conference on Software Engineering <br>
 [[Paper PDF]](/paper/icse24.pdf)
 
 
@@ -75,7 +89,9 @@ Huang</strong>, Collin McMillan, Toby Jia-jun Li  <br>
 Students Using ChatGPT in CS1](/paper/ICSE-SEET2024.pdf)  <br>
 Garrett Xue, Hanlin Chen, Robert Tairas, Gina Bai, <strong> Yu
 Huang</strong><br>
-<em> ICSE-SEET 2024.</em> <br>
+*ICSE-SEET 2024*: the IEEE/ACM International Conference on
+Software Engineering, Software Engineering Education and Training
+Companion <br>
 [[Paper PDF]](/paper/ICSE-SEET2024.pdf)
 
 - [Genetic Improvement for DNN Security](/paper/GI2024.pdf)<br>

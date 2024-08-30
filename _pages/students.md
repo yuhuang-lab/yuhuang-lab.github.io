@@ -60,21 +60,6 @@ Current Students
 ## Undergradudate Students
 <table style="border-collapse: collapse; table-layout: fixed; vertical-align: top;">
  <tr>
-    <td>
-        <div style="text-align: center">
-            <img src="/images/students/anda.jpg" class="student-profile-pic">
-        </div>
-        <b>Anda Liang</b> (Spring 22 - Present) <br>
-        Undergraduate Researcher at Vanderbilt
-    </td>
-    <td>
-        <div style="text-align: center">
-            <img src="/images/students/eric.jpg" class="student-profile-pic">
-        </div>
-        <b>Eric Li</b> (Summer 22 - Present) <br>
-        Undergraduate Researcher at Vanderbilt
-    </td>
-
 
     <td>
         <div style="text-align: center">
@@ -83,8 +68,6 @@ Current Students
         <b>Yuwei Yang</b> (Summer 23 - Present) <br>
         Undergraduate Researcher at Vanderbilt
     </td>
-</tr>
-<tr>
     <td>
         <div style="text-align: center">
             <img src="/images/students/amanda.jpg" class="student-profile-pic">
@@ -101,6 +84,9 @@ Current Students
         <b>Suad Hassan Mohamed</b> (Spring 24 - Present) <br>
         Undergraduate Researcher at Belmont University
     </td>
+
+</tr>
+<tr>
     <td>
         <div style="text-align: center">
             <img src="/images/students/janice.jpg" class="student-profile-pic">
@@ -108,8 +94,6 @@ Current Students
         <b>Janice Chung</b> (Spring 24 - Present) <br>
         Undergraduate Researcher at Vanderbilt 
     </td>
-</tr>
-<tr>
     <td>
         <div style="text-align: center">
             <img src="/images/students/manish.jpeg" class="student-profile-pic">
@@ -118,14 +102,6 @@ Current Students
         Undergraduate Researcher at Vanderbilt 
     </td>
 
- 
-    <td>
-        <div style="text-align: center">
-            <img src="/images/students/yehan.png" class="student-profile-pic">
-        </div>
-        <b>Yehan Subasinghe</b> (Summer 2024) <br>
-        Undergraduate Researcher at Vanderbilt 
-    </td>
  
 
  </tr>
@@ -139,6 +115,16 @@ Emeritus Members
  <!-- <p> <img src="index_files/people/danielle.png" height="60"/>
             Danielle Page </p>-->
 
+
+
+<b>Yehan Subasinghe</b>: Summer 2024. Undergraduate researcher 
+
+
+<b>Anda Liang</b>: Spring 2022 - Summer 2024. Undergraduate researcher 
+
+<b>Eric Jiliang Li</b>: Summer 2022 - Summer 2024. Undergraduate researcher,
+moved on to Stanford University 
+
 <b>Ellie Li</b>: Summer 2023 - Spring 2024. Undergraduate researcher,
 moved on to Northwestern University 
 
@@ -148,7 +134,8 @@ moved on to Northwestern University
 
 <b>Eamon (Yimeng) Ma</b>: Summer 2022 - Summer 2023. Undergraduate researcher, moved on to Duke University 
 
-<b>Danielle Page</b>: Fall 2022 - Fall 2023. Undergraduate researcher 
+<b>Danielle Page</b>: Fall 2022 - Fall 2023. Undergraduate researcher,
+moved on to ZeroWheel 
 
 <b>Garrett (Yuankai) Xue</b>: Summer 2023 - Fall 2023. Undergraduate researcher, moved on to Vanderbilt University, Master in Data Science
 
