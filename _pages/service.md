@@ -7,7 +7,8 @@ author_profile: true
 
 <!-- ## Major Peer-reviewed Conference and Journal Papers-->
 ## 2025
-**Program Committee:** ICSE, ISSTA
+**Program Committee:** ICSE, ISSTA, GI
+**Organizing Committee**: ICPC, ICPC-RENE track co-chair
 
 ## 2024
 

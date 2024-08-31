@@ -19,7 +19,7 @@ I am an assistant professor of Computer Science at Vanderbilt
 University. I am also affiliated with the [Institute for Software
 Integrated Systems](https://www.isis.vanderbilt.edu/), [the Frist Austism Center](https://www.vanderbilt.edu/autismandinnovation/), [the Vanderbilt Lab for Immersive AI Translation (VALIANT)](https://www.vanderbilt.edu/valiant/) and [the LIVE Learning Innovation Incubator](https://lab.vanderbilt.edu/live-lab/) at Vanderbilt.
 
-I am leading the research of the **MIND Lab** -- the **M**ixed **IN**telligence
+I lead the research of the **MIND Lab** -- the **M**ixed **IN**telligence
 **D**evelopment for programming lab (ask us how long it took us to find a
 name for our lab finally!). 
 Our research focuses on understanding and combining human cognition and
@@ -56,7 +56,6 @@ forward to hearing crazy ideas from students!
 - How do programming experts become experts?
 - How do programmers comprehend and write code? How do they really think in programming tasks?
 - How and why do programmers make mistakes in programming?
-- How can we help novice programmers become better?
 - How can we learn from programmers and improve automated models in
   programming?
 <!-- - How can we defend our system in the existence of cognitive biases? -->

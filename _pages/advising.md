@@ -46,7 +46,8 @@ week, please feel free to send another email to remind me.
     fill
     your Immersion requirement.</p>
 
-    <li><strong>Can I directly register for research credits
+    <li><strong>Can I directly register for research credits (e.g.,
+    CS2860/3860/33861)
     with you before talking to you?</strong> </li>
     <p> No. The system will first require my approval anyway. But more
     importantly, I only take undergraduate researchers that are
@@ -72,7 +73,7 @@ week, please feel free to send another email to remind me.
     project can speak for your capabilities. I personally
     don't think undergrad research is more appealing to
     recruiters than
-    getting an industry internship in this context.  </p>
+    having an industry internship in this context.  </p>
 
     
     <li><strong>I am currenly an undergrad student in another
