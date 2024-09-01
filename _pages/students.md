@@ -120,7 +120,8 @@ Emeritus Members
 <b>Yehan Subasinghe</b>: Summer 2024. Undergraduate researcher 
 
 
-<b>Anda Liang</b>: Spring 2022 - Summer 2024. Undergraduate researcher 
+<b>Anda Liang</b>: Spring 2022 - Summer 2024. Undergraduate researcher,
+moved on to NASA JPL
 
 <b>Eric Jiliang Li</b>: Summer 2022 - Summer 2024. Undergraduate researcher,
 moved on to Stanford University 

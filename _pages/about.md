@@ -56,7 +56,7 @@ forward to hearing crazy ideas from students!
 - How do programming experts become experts?
 - How do programmers comprehend and write code? How do they really think in programming tasks?
 - How and why do programmers make mistakes in programming?
-- How can we learn from programmers and improve automated models in
+- How can we learn from human cognition and expertise to improve automated models in
   programming?
 <!-- - How can we defend our system in the existence of cognitive biases? -->
 - How can we improve participation and diversity in programming?
