@@ -44,7 +44,7 @@ author_profile: true
 
 **Program Committee:** GI
 
-**Organizing Committee:** GI, the Rackahm Faculty Allies and Student Ally Diversity Speaker Series,  Eensemnble of Computer Science and Engineering Ladies + (ECSEL+)
+**Organizing Committee:** GI, the Rackahm Faculty Allies and Student Ally Diversity Speaker Series,  Ensemble of Computer Science and Engineering Ladies + (ECSEL+)
 
 **Other**: Opening Session Panelist for FSE, Panelist and Mentor for ICSE-SMeW
 
