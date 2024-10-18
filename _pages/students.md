@@ -68,14 +68,7 @@ Current Students
         <b>Yuwei Yang</b> (Summer 23 - Present) <br>
         Undergraduate Researcher at Vanderbilt
     </td>
-    <td>
-        <div style="text-align: center">
-            <img src="/images/students/amanda.jpg" class="student-profile-pic">
-        </div>
-        <b>Amanda Zhou</b> (Summer 23 - Present) <br>
-        Undergraduate Researcher at Vanderbilt
-    </td>
- 
+
 
     <td>
         <div style="text-align: center">
@@ -85,16 +78,18 @@ Current Students
         Undergraduate Researcher at Belmont University
     </td>
 
-</tr>
-<tr>
-    <td>
+   <td>
         <div style="text-align: center">
             <img src="/images/students/janice.jpg" class="student-profile-pic">
         </div>
         <b>Janice Chung</b> (Spring 24 - Present) <br>
         Undergraduate Researcher at Vanderbilt 
     </td>
-    <td>
+
+</tr>
+<tr>
+ 
+<td>
         <div style="text-align: center">
             <img src="/images/students/manish.jpeg" class="student-profile-pic">
         </div>
@@ -119,7 +114,6 @@ Emeritus Members
 
 <b>Yehan Subasinghe</b>: Summer 2024. Undergraduate researcher 
 
-
 <b>Anda Liang</b>: Spring 2022 - Summer 2024. Undergraduate researcher,
 moved on to NASA JPL
 
@@ -143,6 +137,7 @@ moved on to ZeroWheel
 <b>Hanlin Chen</b>: Summer 2023 - Fall 2023. Graduate researcher, moved on to Vanderbilt University, Master in Data Science
                
         
+
 
 
 <!--
