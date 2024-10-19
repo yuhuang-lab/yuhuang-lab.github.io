@@ -112,7 +112,10 @@ Emeritus Members
 
 
 
-<b>Yehan Subasinghe</b>: Summer 2024. Undergraduate researcher 
+<b>Yehan Subasinghe</b>: Summer 2024. Undergraduate researcher, Clark
+scholar
+
+<b>Amanda Zhou</b>: Fall 2023 - Spring 2024. Undergraduate researcher 
 
 <b>Anda Liang</b>: Spring 2022 - Summer 2024. Undergraduate researcher,
 moved on to NASA JPL
@@ -136,6 +139,7 @@ moved on to ZeroWheel
 
 <b>Hanlin Chen</b>: Summer 2023 - Fall 2023. Graduate researcher, moved on to Vanderbilt University, Master in Data Science
                
+<b>Sawan Ahmed</b>: Summer 2022. Undergraduate researcher, Clark scholar 
         
 
 
