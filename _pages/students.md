@@ -97,6 +97,14 @@ Current Students
         Undergraduate Researcher at Vanderbilt 
     </td>
 
+ <td>
+        <div style="text-align: center">
+            <img src="/images/students/esha.JPEG" class="student-profile-pic">
+        </div>
+        <b>Esha Rashid</b> (Fall 2024 - Present) <br>
+        Undergraduate Researcher at Vanderbilt 
+    </td>
+
  
 
  </tr>
