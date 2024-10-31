@@ -80,7 +80,7 @@ Congratulations to Zach Karas for his paper being accepted to TOSEM!
 
 * **May 2024** 
 Congratulations to our undegraduate researchers, Anda Liang, Eric Li,
-Haonan Hou and Ellie Li, graduating from Vanderbilt! 
+Haonan Hou, Danielle Page and Ellie Li, graduating from Vanderbilt! 
 
 * **May 2024** 
 Congratulations to Zach passing his prelim! 
