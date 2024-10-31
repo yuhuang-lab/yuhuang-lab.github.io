@@ -66,6 +66,11 @@ If you are interested in joining my lab, please check the information on
 
 News
 ======
+* **Oct 2024** 
+Our group got two papers accepted to ICSE 2025! Congratulations to Zach Karas and Yueke Zhang leading their ICSE 25 submissions! 
+
+
+
 * **July 2024** 
 Congratulations to Anda Liang for his paper being accepted to TSE! 
 
