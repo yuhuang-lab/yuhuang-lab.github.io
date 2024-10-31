@@ -14,6 +14,23 @@ email me.
 I am also working on a Dataset page - we
 always support data sharing in our community.
 <!-- ## Major Peer-reviewed Conference and Journal Papers-->
+## 2025
+
+- Who's Pushing the Code: An Exploration of GitHub Impersonation<br>
+  Yueke Zhang, Anda Liang, Xiaohan Wang, Pamela Wisniewski,  Fengwei
+  Zhang, Kevin Leach, **Yu Huang**<br>
+ *ICSE 2025*: 47th International Conference on Software Engineering <br>
+
+
+- Studying Programmers Without Programming: Investigating Expertise Using Resting State fMRI<br>
+  Zachary Karas, Benjamin Gold, Violet Zhou, Noah Reardon, Thad Polk,
+  Catie Chang, **Yu Huang**<br>
+ *ICSE 2025*: 47th International Conference on Software Engineering <br>
+
+
+
+
+
 ## 2024
 
 - A Study on Developer Behaviors for Validating and Repairing LLM-Generated Code Using Eye Tracking and IDE Actions<br>
