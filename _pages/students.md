@@ -105,6 +105,14 @@ Current Students
         Undergraduate Researcher at Vanderbilt 
     </td>
 
+  <td>
+        <div style="text-align: center">
+            <img src="/images/students/helen.jpg" class="student-profile-pic">
+        </div>
+        <b>Helen Wu</b> (Fall 2024 - Present) <br>
+        Undergraduate Researcher at Vanderbilt 
+    </td>
+
  
 
  </tr>
