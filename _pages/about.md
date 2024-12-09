@@ -10,8 +10,9 @@ redirect_from:
 <img src="images/vandy-logo.png" alt="Logo of Vanderbilt" width="200">
 
 <span style="color:red">I am co-organizing the first workshop on
-Human-Centered AI for Software Engineering (co-located with FSE/ISSTA
-2025). Please join us and share your work with us!</span> Workshop Website:[https://humanai4se.github.io/](https://humanai4se.github.io/), paper submission deadline: Feb 15, 2025. 
+Human-Centered AI for Software Engineering (HumanAISE, co-located with FSE/ISSTA
+2025). Please join us and share your work with us!</span> 
+Workshop Website: [https://humanai4se.github.io/](https://humanai4se.github.io/). Paper submission deadline: Feb 15, 2025. 
 
 
 About me
