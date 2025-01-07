@@ -4,13 +4,18 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+- ### [CS4278/5278 Principles of Software Engineering](https://huang.isis.vanderbilt.edu/cs4278)
+
+  - Vanderbilt University, Spring 25, FGH 134
+  - TR, 1:15pm  - 2:30pm
+
 
 
 - ### [CS8395 Advanced Topics in Software Engineering](https://huang.isis.vanderbilt.edu/cs8395)   
   - Vanderbilt University, Fall 2024, ESB 048
   - TR, 1:15pm - 2:30pm
 
-- ### [CS4278/5278 Principles of Software Engineering](https://huang.isis.vanderbilt.edu/cs4278)
+- ### [CS4278/5278 Principles of Software Engineering](https://huang.isis.vanderbilt.edu/cs4278-sp24)
 
   - Vanderbilt University, Spring 24, FGH 134
   - TR, 1:15pm  - 2:30pm
