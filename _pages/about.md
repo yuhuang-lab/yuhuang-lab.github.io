@@ -12,7 +12,7 @@ redirect_from:
 <span style="color:red">I am co-organizing the first workshop on
 Human-Centered AI for Software Engineering (HumanAISE, co-located with FSE/ISSTA
 2025). Please join us and share your work with us!</span> 
-Workshop Website: [https://humanai4se.github.io/](https://humanai4se.github.io/). Paper submission deadline: Feb 15, 2025. 
+Workshop Website: [https://humanai4se.github.io/](https://humanai4se.github.io/). Paper submission deadline: Extended to March 1, 2025. 
 
 
 About me
