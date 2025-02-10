@@ -71,6 +71,18 @@ If you are interested in joining my lab, please check the information on
 
 News
 ======
+* **Jan 2025** 
+Our group got two papers accepted to ICSE 2025 Journal First Track! Congratulations to Zach Karas (for his TOSEM paper) and Anda Liang (for his TSE paper)! 
+
+
+
+* **Jan 2025** 
+Congratulations to our Undergrad Researcher, Yuwei Yang, for receiving the 2024-2025 CRA Outstanding Undergraduate Research Award Honorable Mention! 
+
+* **Jan 2025** 
+Congratulations to our undergrad researcher Manish Acharya and graduate student Yifan Zhang for their paper being accepted to ICPC 2025 ERA track!
+
+
 * **Oct 2024** 
 Our group got two papers accepted to ICSE 2025! Congratulations to Zach Karas and Yueke Zhang leading their ICSE 25 submissions! 
 
