@@ -16,6 +16,11 @@ always support data sharing in our community.
 <!-- ## Major Peer-reviewed Conference and Journal Papers-->
 ## 2025
 
+- Optimizing Code Runtime Performance through Context-Aware
+  Retrieval-Augmented Generation<br>
+  Manish Acharya, Yifan Zhang, Kevin Leach, **Yu Huang** <br>
+  *ICPC 2025 ERA*<br>
+
 - Who's Pushing the Code: An Exploration of GitHub Impersonation<br>
   Yueke Zhang, Anda Liang, Xiaohan Wang, Pamela Wisniewski,  Fengwei
   Zhang, Kevin Leach, **Yu Huang**<br>
@@ -26,6 +31,19 @@ always support data sharing in our community.
   Zachary Karas, Benjamin Gold, Violet Zhou, Noah Reardon, Thad Polk,
   Catie Chang, **Yu Huang**<br>
  *ICSE 2025*: 47th International Conference on Software Engineering <br>
+
+- [A Controlled Experiment in Age and Gender Bias When Reading Technical Articles in Software Engineering](/paper/TSE-Bias.pdf) <br>
+  Anda Liang, Emerson Murphy-Hill, Westley Weimer, **Yu Huang** <br>
+ *ICSE 2025 Journal-First*<br>
+[[Paper PDF]](/paper/TSE-Bias.pdf)
+
+
+
+- [A Tale of Two Comprehensions? Studying Human Attention During Code
+  Summarization](/paper/TOSEM-comprehension.pdf) <br>
+  Zachary Karas, Aakash Bansal, Yifan Zhang, Toby Li, Collin McMillan, **Yu Huang** <br>
+ *ICSE 2025 Journal-First*<br>
+[[Paper PDF]](/paper/TOSEM-comprehension.pdf)
 
 
 
