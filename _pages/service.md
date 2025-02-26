@@ -7,9 +7,12 @@ author_profile: true
 
 <!-- ## Major Peer-reviewed Conference and Journal Papers-->
 ## 2025
-**Program Committee:** ICSE, ISSTA, GI
+**Program Committee:** ICSE, ISSTA, GI, HotSoS, ETRA-EMIP, FSE-SRC
 
-**Organizing Committee**: ICPC, ICPC-RENE track co-chair
+**Organizing Committee**: ICPC, ICPC-RENE track co-chair, co-founder for
+HumanAISE
+
+**Journal Reviewer:** EMSE
 
 ## 2024
 
