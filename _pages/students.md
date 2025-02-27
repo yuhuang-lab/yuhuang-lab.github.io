@@ -117,6 +117,19 @@ Current Students
 
  </tr>
 
+<tr>
+    <td>
+        <div style="text-align: center">
+            <img src="/images/students/sam.png" class="student-profile-pic">
+        </div>
+        <b>Samantha McLoughlin</b> (Fall 2024 - Present) <br>
+        Undergraduate Researcher at Vanderbilt 
+    </td>
+
+ 
+
+ </tr>
+
 
 
 </table> 
