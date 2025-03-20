@@ -27,7 +27,8 @@ always support data sharing in our community.
   Manish Acharya, Yifan Zhang, Kevin Leach, **Yu Huang** <br>
   *ICPC 2025 ERA*<br>
 
-- Who's Pushing the Code: An Exploration of GitHub Impersonation<br>
+- [Who's Pushing the Code: An Exploration of GitHub
+  Impersonation](/paper/ICSE25_Github_camera.pdf)<br>
   Yueke Zhang, Anda Liang, Xiaohan Wang, Pamela Wisniewski,  Fengwei
   Zhang, Kevin Leach, **Yu Huang**<br>
  *ICSE 2025*: 47th International Conference on Software Engineering <br>
