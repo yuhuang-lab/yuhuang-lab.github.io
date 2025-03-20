@@ -34,7 +34,7 @@ always support data sharing in our community.
  *ICSE 2025*: 47th International Conference on Software Engineering <br>
 
 
-- Studying Programmers Without Programming: Investigating Expertise Using Resting State fMRI<br>
+- [Studying Programmers Without Programming: Investigating Expertise Using Resting State fMRI](/paper/ICSE2025_Resting_State.pdf)<br>
   Zachary Karas, Benjamin Gold, Violet Zhou, Noah Reardon, Thad Polk,
   Catie Chang, **Yu Huang**<br>
  *ICSE 2025*: 47th International Conference on Software Engineering <br>
