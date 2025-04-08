@@ -15,6 +15,19 @@ I am also working on a Dataset page - we
 always support data sharing in our community.
 <!-- ## Major Peer-reviewed Conference and Journal Papers-->
 ## 2025
+- A Comparative Study on ChatGPT and Checklist as Support Tools for Unit
+  Testing Education<br>
+  Zihan Fang, Eric Jiliang Li, Anda Liang, Gina Bai,  **Yu Huang** <br>
+  *FSE-SEET 2025*<br>
+
+- Enhancing Code LLM Training with Programmer Attention<br>
+  Yifan Zhang, Chen Huang, Zach Karas, Thuy Dung Nguyen, Kevin Leach,  **Yu Huang** <br>
+  *FSE-IVR 2025*<br>
+
+
+
+
+
 - Programmer Visual Attention During Context-Aware Code Summarization <br>
   Robert Wallace, Aakash Bansal, Zach Karas, Ningzhi Tang, **Yu Huang**, Toby Li, Collin McMillan <br>
   *TSE 2025*
