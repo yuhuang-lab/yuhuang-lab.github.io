@@ -15,8 +15,28 @@ I am also working on a Dataset page - we
 always support data sharing in our community.
 <!-- ## Major Peer-reviewed Conference and Journal Papers-->
 ## 2025
+- Programmer Visual Attention During Context-Aware Code Summarization <br>
+  Robert Wallace, Aakash Bansal, Zach Karas, Ningzhi Tang, **Yu Huang**, Toby Li, Collin McMillan <br>
+  *TSE 2025*
+
+
+
+- MALMIXER: Few-Shot Malware Classification with Retrival-Augmented
+  Semi-Supervised Learning <br>
+  Eric Jiliang Li, Yifan Zhang, **Yu Huang**, Kevin
+  Leach <br>
+  *EuroS&P 2025*
+
+
+
 - A Human Study of Cognitive Biases in CTF Challenges <br>
   Yuwei Yang, Skyler Grandel, Daniel Balasubramanian, **Yu Huang**, Kevin
+  Leach <br>
+  *HotSoS 2025*
+
+- K-ASTRO: Structure-Aware Adaptations of LLMs for Code Vulnerability
+  Detection <br>
+  Yifan Zhang, Michael Sandborn, Stefan Larson, **Yu Huang**, Kevin
   Leach <br>
   *HotSoS 2025*
 
