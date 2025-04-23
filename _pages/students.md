@@ -46,13 +46,6 @@ Current Students
         <b><a href="https://michael-jiahao-zhang.github.io" target="_blank"> Jiahao Zhang </a></b> (Starting Fall 2024) <br>
         Ph.D. Student at Vanderbilt 
     </td>
-    <td>
-        <div style="text-align: center">
-            <img src="/images/students/jieyu.jpg" class="student-profile-pic">
-        </div>
-        <b>Jieyu Li</b> (Fall 2023 - Present) <br>
-        Master Student at Vanderbilt (ECE) 
-    </td>
  </tr>
 </table>
 
@@ -97,13 +90,6 @@ Current Students
         Undergraduate Researcher at Vanderbilt 
     </td>
 
- <td>
-        <div style="text-align: center">
-            <img src="/images/students/esha.JPEG" class="student-profile-pic">
-        </div>
-        <b>Esha Rashid</b> (Fall 2024 - Present) <br>
-        Undergraduate Researcher at Vanderbilt 
-    </td>
 
   <td>
         <div style="text-align: center">
@@ -113,12 +99,7 @@ Current Students
         Undergraduate Researcher at Vanderbilt 
     </td>
 
- 
-
- </tr>
-
-<tr>
-    <td>
+     <td>
         <div style="text-align: center">
             <img src="/images/students/sam.png" class="student-profile-pic">
         </div>
@@ -126,9 +107,10 @@ Current Students
         Undergraduate Researcher at Vanderbilt 
     </td>
 
- 
+
 
  </tr>
+
 
 
 
@@ -138,8 +120,15 @@ Emeritus Members
 =====
  <!-- <p> <img src="index_files/people/danielle.png" height="60"/>
             Danielle Page </p>-->
+<b>Jieyu Li</b>: Fall 2023 - Spring 2025. Master student researcher,
+moved on to PhD at Waterloo University. 
 
 
+
+<b>Weizhe Jiao</b>: Fall 2023 - Spring 2024. Undergraduate researcher,
+moved on to Harvard University. 
+
+<b>Esha Rashid</b>: Fall 2024 - Spring 2025. Undergraduate researcher
 
 <b>Yehan Subasinghe</b>: Summer 2024. Undergraduate researcher, Clark
 scholar
@@ -156,8 +145,6 @@ moved on to Stanford University
 moved on to Northwestern University 
 
 <b>Haonan Hou</b>: Summer 2022 - Fall 2023. Undergraduate researcher, moved on to UC Berkeley 
-
-<b>Weizhe Jiao</b>: Fall 2023 - Spring 2024. Undergraduate researcher 
 
 <b>Eamon (Yimeng) Ma</b>: Summer 2022 - Summer 2023. Undergraduate researcher, moved on to Duke University 
 
