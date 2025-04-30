@@ -71,6 +71,12 @@ If you are interested in joining my lab, please check the information on
 
 News
 ======
+
+* **April 2025** 
+Thank you, ICPC, for the Vaclav Rajlich Early Career Achivement Award!
+
+
+
 * **Jan 2025** 
 Our group got two papers accepted to ICSE 2025 Journal First Track! Congratulations to Zach Karas (for his TOSEM paper) and Anda Liang (for his TSE paper)! 
 
@@ -129,7 +135,13 @@ Our work is featured on [Vanderbilt School of Engineering news](https://engineer
 * **Feb 2024** 
 Congratulations to our undergrad researcher, Yimeng, for her paper receiving the ACM
          SIGSOFT Distinguished Paper Award at ICSE 24!
-      
+
+
+
+<details><summary>MORE...</summary>
+<div markdown="1">
+
+     
 * **Dec 2023** 
 Congratulations to Yifan for his paper accepted to
          FSE 2024!
@@ -157,9 +169,6 @@ Congratulations to Zihan for her paper receiving the SIGSOFT
 
 
 
-
-<details><summary>MORE...</summary>
-<div markdown="1">
 
 * **Nov 2023** 
 Congratulations to Zach for receiving an internship offer
