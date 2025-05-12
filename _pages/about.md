@@ -19,8 +19,10 @@ About me
 =====
 
 I am an assistant professor of Computer Science at Vanderbilt
-University. I am also affiliated with the [Institute for Software
-Integrated Systems](https://www.isis.vanderbilt.edu/), [the Frist Austism Center](https://www.vanderbilt.edu/autismandinnovation/), [the Vanderbilt Lab for Immersive AI Translation (VALIANT)](https://www.vanderbilt.edu/valiant/) and [the LIVE Learning Innovation Incubator](https://lab.vanderbilt.edu/live/) at Vanderbilt. I am a secondary assistant professor in the Department of Teaching and Learning at Peabody School of Education, Vanderbilt.
+University, and have a secondary appointment of assistant professor in
+the Department of Teaching and Learning at the Peabody School of
+Education. I am also affiliated with the [Institute for Software
+Integrated Systems](https://www.isis.vanderbilt.edu/), [the Frist Austism Center](https://www.vanderbilt.edu/autismandinnovation/), [the Vanderbilt Lab for Immersive AI Translation (VALIANT)](https://www.vanderbilt.edu/valiant/) and [the LIVE Learning Innovation Incubator](https://lab.vanderbilt.edu/live/) at Vanderbilt.
 
 I lead the research of the **MIND Lab** -- the **M**ixed **IN**telligence
 **D**evelopment for programming lab (ask us how long it took us to find a
