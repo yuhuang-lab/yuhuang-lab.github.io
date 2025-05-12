@@ -17,7 +17,7 @@ always support data sharing in our community.
 ## 2025
 - ComCat: Expertise-Guided Context Generation to Enhance Code Comprehension <br>
   Skyler Grandel, Scott Anderson,  **Yu Huang**, Kevin Leach <br>
-  *TSE 2025*
+  *TOSEM 2025*
 
 
 
