@@ -17,12 +17,10 @@ Workshop Website: [https://humanai4se.github.io/](https://humanai4se.github.io/)
 
 About me
 =====
-My first name "Yu" can be confused as "You" sometimes. So people 
-around me also call me "Huang Yu" together :)
 
 I am an assistant professor of Computer Science at Vanderbilt
 University. I am also affiliated with the [Institute for Software
-Integrated Systems](https://www.isis.vanderbilt.edu/), [the Frist Austism Center](https://www.vanderbilt.edu/autismandinnovation/), [the Vanderbilt Lab for Immersive AI Translation (VALIANT)](https://www.vanderbilt.edu/valiant/) and [the LIVE Learning Innovation Incubator](https://lab.vanderbilt.edu/live-lab/) at Vanderbilt.
+Integrated Systems](https://www.isis.vanderbilt.edu/), [the Frist Austism Center](https://www.vanderbilt.edu/autismandinnovation/), [the Vanderbilt Lab for Immersive AI Translation (VALIANT)](https://www.vanderbilt.edu/valiant/) and [the LIVE Learning Innovation Incubator](https://lab.vanderbilt.edu/live/) at Vanderbilt. I am a secondary assistant professor in the Department of Teaching and Learning at Peabody School of Education, Vanderbilt.
 
 I lead the research of the **MIND Lab** -- the **M**ixed **IN**telligence
 **D**evelopment for programming lab (ask us how long it took us to find a
@@ -37,7 +35,8 @@ Our research has been supported by NSF, GitHub and Vanderbilt Immersion.
 Our work has been mainly published in top venues in Software Engineering (e.g.,
 ICSE, FSE, TSE, TOSEM), also in Systems, HCI and Psychology (e.g., UbiComp, ASPLOS, CSCW, JMIR). 
 We have received three ACM SIGSOFT Distinguished Paper
-Awards (ICSE 2019, FSE 2023, ICSE 2024). 
+Awards (ICSE 2019, FSE 2023, ICSE 2024). I am honored to receive the
+2025 ICPC Vaclav Rajlich Early Career Achievement Award.  
 
 I received my PhD in Computer Science at the University of Michigan
 in 2021. My advisor was [Prof. Westley Weimer](http://web.eecs.umich.edu/~weimerw). I received my MS in Computer Engineering at University of Virginia in
@@ -73,7 +72,7 @@ News
 ======
 
 * **April 2025** 
-Thank you, ICPC, for the Vaclav Rajlich Early Career Achivement Award!
+Thank you, ICPC, for the Vaclav Rajlich Early Career Achievement Award!
 
 
 
