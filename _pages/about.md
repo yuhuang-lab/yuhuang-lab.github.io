@@ -40,7 +40,7 @@ We have received three ACM SIGSOFT Distinguished Paper
 Awards (ICSE 2019, FSE 2023, ICSE 2024). I am honored to receive the
 2025 ICPC Vaclav Rajlich Early Career Achievement Award.  
 
-I received my PhD in Computer Science at the University of Michigan
+I received my PhD in Computer Science and Engineering at the University of Michigan
 in 2021. My advisor was [Prof. Westley Weimer](http://web.eecs.umich.edu/~weimerw). I received my MS in Computer Engineering at University of Virginia in
 2015 and my BS in Aerospace Engineering from Harbin Institute of
 Technology in China in 2011.
