@@ -7,20 +7,44 @@ author_profile: true
 
 
 {% include base_path %}
-I will try adding pdf for all the papers asap :) Alternatively,  you can find almost all
-pdfs from my Google Scholar. If you cannot find any, please feel free to
-email me.
+I will try adding pdf for all the papers asap :) I probably have forgot
+to include some of our papers on this page, but you can find a full list from my Google Scholar. If you cannot find the pdfs for any
+of our papers, please feel free to contact me.
 
 I am also working on a Dataset page - we
 always support data sharing in our community.
 <!-- ## Major Peer-reviewed Conference and Journal Papers-->
 ## 2025
+- CodeACT-R: A Cognitive Simulation Framework for Human Attention in
+  Code Reading<br>
+  Yueke Zhang, Zihan Fang, Greg Trafton, Daniel Levin, Kevin Leach, **Yu Huang** <br>
+ *ASE-NIER 2025*<br>
+
+
+
+- Programmers’ Visual Attention on Function Call Graphs During
+  Code Summarization<br>
+  Samantha McLoughlin, Zachary Karas, Robert Wallace, Aakash Bansal, Collin McMillan, **Yu Huang** <br>
+ *ASE 2025*<br>
+
+
+
+- Exploring Direct Instruction and Summary-Mediated Prompting in LLM-Assisted Code Modification <br>
+  Ningzhi Tang, Emory Smith, **Yu Huang**,
+  Collin McMillan, Toby Jia-Jun Li <br>
+ *VL/HCC 2025*: 41th IEEE Symposium on Visual Languages and Human-Centric Computing <br>
+
+
+
+
+- Context-aware Code Summary Generation <br>
+  Chia-Yi Su, Aakash Bansal,  **Yu Huang**, Toby Jia-Jun Li, Collin
+  McMillan <br>
+  *JSS 2025*
+
 - ComCat: Expertise-Guided Context Generation to Enhance Code Comprehension <br>
   Skyler Grandel, Scott Anderson,  **Yu Huang**, Kevin Leach <br>
   *TOSEM 2025*
-
-
-
 
 - A Comparative Study on ChatGPT and Checklist as Support Tools for Unit
   Testing Education<br>
