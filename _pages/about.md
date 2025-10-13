@@ -9,10 +9,14 @@ redirect_from:
 ---
 <img src="images/vandy-logo.png" alt="Logo of Vanderbilt" width="200">
 
+
+<!--
 <span style="color:red">I am co-organizing the first workshop on
 Human-Centered AI for Software Engineering (HumanAISE, co-located with FSE/ISSTA
 2025). Please join us and share your work with us!</span> 
 Workshop Website: [https://humanai4se.github.io/](https://humanai4se.github.io/). Paper submission deadline: Extended to March 1, 2025. 
+-->
+
 
 
 About me
@@ -72,6 +76,10 @@ If you are interested in joining my lab, please check the information on
 
 News
 ======
+* **Aug 2025** 
+Congratulations to our undergrad researcher, Samantha McLoughlin, and PhD student, Zach Karas, for their paper  
+being accepted to ASE 2025!
+
 
 * **April 2025** 
 Thank you, ICPC, for the Vaclav Rajlich Early Career Achievement Award!
