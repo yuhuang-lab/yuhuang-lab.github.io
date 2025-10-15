@@ -56,15 +56,6 @@ Current Students
 
     <td>
         <div style="text-align: center">
-            <img src="/images/students/yuwei.jpeg" class="student-profile-pic">
-        </div>
-        <b>Yuwei Yang</b> (Summer 23 - Present) <br>
-        Undergraduate Researcher at Vanderbilt
-    </td>
-
-
-    <td>
-        <div style="text-align: center">
             <img src="/images/students/suad.jpeg" class="student-profile-pic">
         </div>
         <b>Suad Hassan Mohamed</b> (Spring 24 - Present) <br>
@@ -78,12 +69,9 @@ Current Students
         <b>Janice Chung</b> (Spring 24 - Present) <br>
         Undergraduate Researcher at Vanderbilt 
     </td>
-
-</tr>
-<tr>
  
-<td>
-        <div style="text-align: center">
+    <td>
+    <div style="text-align: center">
             <img src="/images/students/manish.jpeg" class="student-profile-pic">
         </div>
         <b>Manish Acharya</b> (Summer 2024 - Present) <br>
@@ -91,7 +79,12 @@ Current Students
     </td>
 
 
-  <td>
+</tr>
+<tr>
+ 
+
+    
+    <td>
         <div style="text-align: center">
             <img src="/images/students/helen.jpg" class="student-profile-pic">
         </div>
@@ -101,15 +94,42 @@ Current Students
 
      <td>
         <div style="text-align: center">
-            <img src="/images/students/sam.png" class="student-profile-pic">
+            <img src="/images/students/elham.png" class="student-profile-pic">
         </div>
-        <b>Samantha McLoughlin</b> (Fall 2024 - Present) <br>
+        <b>Hassana Elham Isa</b> (Spring 2025 - Present) <br>
+        Undergraduate Researcher at Vanderbilt 
+    </td>
+
+    <td>
+        <div style="text-align: center">
+            <img src="/images/students/Zichen.jpg" class="student-profile-pic">
+        </div>
+        <b>Zichen Zhu</b> (Spring 2025 - Present) <br>
         Undergraduate Researcher at Vanderbilt 
     </td>
 
 
 
  </tr>
+
+<tr>
+ 
+
+    
+    <td>
+        <div style="text-align: center">
+            <img src="/images/students/ashley.jpg" class="student-profile-pic">
+        </div>
+        <b>Ashley Lai</b> (Fall 2025 - Present) <br>
+        Undergraduate Researcher at Vanderbilt 
+    </td>
+
+
+
+
+ </tr>
+
+
 
 
 
@@ -120,6 +140,14 @@ Emeritus Members
 =====
  <!-- <p> <img src="index_files/people/danielle.png" height="60"/>
             Danielle Page </p>-->
+<b>Samantha McLoughlin</b>: Fall 2024 - Summer 2025. Undergraduate researcher 
+
+
+<b>Yuwei Yang</b>: Summer 2023 - Spring 2025. Undergraduate researcher,
+moved on to PhD at Purdue University. 
+
+
+
 <b>Jieyu Li</b>: Fall 2023 - Spring 2025. Master student researcher,
 moved on to PhD at Waterloo University. 
 
