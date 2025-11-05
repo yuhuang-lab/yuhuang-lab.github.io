@@ -20,10 +20,10 @@ always support data sharing in our community.
   Yueke Zhang, Zihan Fang, Greg Trafton, Daniel Levin, Kevin Leach, **Yu Huang** <br>
  *ASE-NIER 2025*<br>
 
+ 
 
-
-- Programmers’ Visual Attention on Function Call Graphs During
-  Code Summarization<br>
+- [Programmers’ Visual Attention on Function Call Graphs During
+  Code Summarization](/paper/huang-ase25.pdf)<br>
   Samantha McLoughlin, Zachary Karas, Robert Wallace, Aakash Bansal, Collin McMillan, **Yu Huang** <br>
 <strong><FONT COLOR=red> ACM SIGSOFT Distinguished Paper Award</FONT> </strong> <br>
  *ASE 2025*<br>
