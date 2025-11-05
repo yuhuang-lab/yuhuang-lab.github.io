@@ -91,6 +91,10 @@ reading!
 Congratulations to our undergrad researcher, Samantha McLoughlin, and PhD student, Zach Karas, for their paper  
 being accepted to ASE 2025!
 
+* **May 2025** 
+Congratulations to Yifan receiving the C. F. Chen Best Paper award in
+Department of Computer Science! 
+
 
 
 
