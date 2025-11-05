@@ -24,13 +24,12 @@ About me
 
 I am an assistant professor of Computer Science at Vanderbilt
 University, and have a secondary appointment of assistant professor in
-the Department of Teaching and Learning at the Peabody School of
+the Department of Teaching and Learning at the Peabody College of
 Education. I am also affiliated with the [Institute for Software
 Integrated Systems](https://www.isis.vanderbilt.edu/), [the Frist Austism Center](https://www.vanderbilt.edu/autismandinnovation/), [the Vanderbilt Lab for Immersive AI Translation (VALIANT)](https://www.vanderbilt.edu/valiant/) and [the LIVE Learning Innovation Incubator](https://lab.vanderbilt.edu/live/) at Vanderbilt.
 
 I lead the research of the **MIND Lab** -- the **M**ixed **IN**telligence
-**D**evelopment for programming lab (ask us how long it took us to find a
-name for our lab finally!). 
+**D**evelopment for programming lab. 
 Our research focuses on understanding and combining human cognition and
 machine
 intelligence to improve the effectiveness and efficiency in
@@ -40,8 +39,8 @@ Occasionaly I also work on other fun projects with my students.
 Our research has been supported by NSF, GitHub and Vanderbilt Immersion. 
 Our work has been mainly published in top venues in Software Engineering (e.g.,
 ICSE, FSE, TSE, TOSEM), also in Systems, HCI and Psychology (e.g., UbiComp, ASPLOS, CSCW, JMIR). 
-We have received three ACM SIGSOFT Distinguished Paper
-Awards (ICSE 2019, FSE 2023, ICSE 2024). I am honored to receive the
+We have received four ACM SIGSOFT Distinguished Paper
+Awards (ICSE 2019, FSE 2023, ICSE 2024, ASE 2025). I am honored to receive the
 2025 ICPC Vaclav Rajlich Early Career Achievement Award.  
 
 I received my PhD in Computer Science and Engineering at the University of Michigan
@@ -76,9 +75,23 @@ If you are interested in joining my lab, please check the information on
 
 News
 ======
+* **Nov 2025** 
+Congratulations to our undergrad researcher, Samantha McLoughlin, and
+PhD student, Zach Karas, for their ASE paper receiving the ACM SIGSOFT
+Distinguished Paper award!
+
+* **Aug 2025** 
+Congratulations to Yueke, for his paper  
+being accepted to ASE 2025 NIER! Cool idea of using ACT-R for code
+reading!
+
+
+
 * **Aug 2025** 
 Congratulations to our undergrad researcher, Samantha McLoughlin, and PhD student, Zach Karas, for their paper  
 being accepted to ASE 2025!
+
+
 
 
 * **April 2025** 

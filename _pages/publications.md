@@ -25,6 +25,7 @@ always support data sharing in our community.
 - Programmers’ Visual Attention on Function Call Graphs During
   Code Summarization<br>
   Samantha McLoughlin, Zachary Karas, Robert Wallace, Aakash Bansal, Collin McMillan, **Yu Huang** <br>
+<strong><FONT COLOR=red> ACM SIGSOFT Distinguished Paper Award</FONT> </strong> <br>
  *ASE 2025*<br>
 
 
