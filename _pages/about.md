@@ -38,7 +38,7 @@ Occasionaly I also work on other fun projects with my students.
 
 Our research has been supported by NSF, GitHub, ARPA-H, and Vanderbilt Immersion. 
 Our work has been mainly published in top venues in Software Engineering (e.g.,
-ICSE, FSE, TSE, TOSEM), also in Systems, HCI and Psychology (e.g., UbiComp, ASPLOS, CSCW, JMIR). 
+ICSE, FSE, ASE, TSE, TOSEM), also in Systems, HCI and Psychology (e.g., UbiComp, ASPLOS, CSCW, JMIR). 
 We have received four ACM SIGSOFT Distinguished Paper
 Awards (ICSE 2019, FSE 2023, ICSE 2024, ASE 2025). I am honored to receive the
 2025 ICPC Vaclav Rajlich Early Career Achievement Award.  
