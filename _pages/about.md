@@ -36,7 +36,7 @@ intelligence to improve the effectiveness and efficiency in
 the software development process. 
 Occasionaly I also work on other fun projects with my students.
 
-Our research has been supported by NSF, GitHub and Vanderbilt Immersion. 
+Our research has been supported by NSF, GitHub, ARPA-H, and Vanderbilt Immersion. 
 Our work has been mainly published in top venues in Software Engineering (e.g.,
 ICSE, FSE, TSE, TOSEM), also in Systems, HCI and Psychology (e.g., UbiComp, ASPLOS, CSCW, JMIR). 
 We have received four ACM SIGSOFT Distinguished Paper
