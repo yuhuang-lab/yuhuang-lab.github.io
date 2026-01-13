@@ -119,7 +119,9 @@ Emeritus Members
             Danielle Page </p>-->
 
 <b>Janice Chung</b>: Spring 2024 - Summer 2025. Undergraduate researcher 
+
 <b>Ashley Lai</b>: Fall 2025. Undergraduate researcher 
+
 <b>Samantha McLoughlin</b>: Fall 2024 - Summer 2025. Undergraduate researcher 
 
 
