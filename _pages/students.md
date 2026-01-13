@@ -62,13 +62,7 @@ Current Students
         Undergraduate Researcher at Belmont University
     </td>
 
-   <td>
-        <div style="text-align: center">
-            <img src="/images/students/janice.jpg" class="student-profile-pic">
-        </div>
-        <b>Janice Chung</b> (Spring 24 - Present) <br>
-        Undergraduate Researcher at Vanderbilt 
-    </td>
+
  
     <td>
     <div style="text-align: center">
@@ -79,8 +73,6 @@ Current Students
     </td>
 
 
-</tr>
-<tr>
  
 
     
@@ -91,7 +83,8 @@ Current Students
         <b>Helen Wu</b> (Fall 2024 - Present) <br>
         Undergraduate Researcher at Vanderbilt 
     </td>
-
+</tr>
+<tr>
      <td>
         <div style="text-align: center">
             <img src="/images/students/elham.png" class="student-profile-pic">
@@ -125,6 +118,7 @@ Emeritus Members
  <!-- <p> <img src="index_files/people/danielle.png" height="60"/>
             Danielle Page </p>-->
 
+<b>Janice Chung</b>: Spring 2024 - Summer 2025. Undergraduate researcher 
 <b>Ashley Lai</b>: Fall 2025. Undergraduate researcher 
 <b>Samantha McLoughlin</b>: Fall 2024 - Summer 2025. Undergraduate researcher 
 
