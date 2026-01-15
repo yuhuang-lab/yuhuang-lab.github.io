@@ -25,7 +25,7 @@ About me
 I am an assistant professor of Computer Science at Vanderbilt
 University, and have a secondary appointment of assistant professor in
 the Department of Teaching and Learning at the Peabody College of
-Education. I am also affiliated with the [Institute for Software
+Education and Human Development. I am also affiliated with the [Institute for Software
 Integrated Systems](https://www.isis.vanderbilt.edu/), [the Frist Austism Center](https://www.vanderbilt.edu/autismandinnovation/), [the Vanderbilt Lab for Immersive AI Translation (VALIANT)](https://www.vanderbilt.edu/valiant/) and [the LIVE Learning Innovation Incubator](https://lab.vanderbilt.edu/live/) at Vanderbilt.
 
 I lead the research of the **MIND Lab** -- the **M**ixed **IN**telligence
@@ -75,6 +75,32 @@ If you are interested in joining my lab, please check the information on
 
 News
 ======
+* **Jan 2026** 
+Congratulations to Zihan and Yueke, for their paper  
+being accepted to CSCW 2026! Their paper presents a comparative study on the large scale OSS and OSS4SG repositories on GitHub for contributor's life time trajectories and explored how to use OSS4SG as a motivating factor to improve and sustain the participation in OSS in general. 
+
+* **Jan 2026** 
+Congratulations to Zihan, for her paper  
+being accepted to TSE:Investigating the Feasibility of Conducting
+Webcam-Based Eye-Tracking Studies in Code Comprehension! We presented
+two studies to fully explore a practical guide and feasibility study on
+using webcams to conduct eye tracking studies for programming!
+
+
+
+
+* **Jan 2026** 
+Congratulations to Jiahao and Yifan, for their paper  
+being accepted to ICPC 2026! First ever applying human attention to
+guide LLMs for program comprehension using Multimodal Gaussian Mixture!
+
+
+
+* **Jan 2026** 
+Congratulations to our Undergrad Researcher, Manish Acharya, for receiving the 2025-2026 CRA Outstanding Undergraduate Research Award Honorable Mention! 
+
+
+
 * **Nov 2025** 
 Congratulations to our undergrad researcher, Samantha McLoughlin, and
 PhD student, Zach Karas, for their ASE paper receiving the ACM SIGSOFT
