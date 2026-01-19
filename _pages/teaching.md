@@ -4,6 +4,13 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+- ### [CS/ECE 4278/5278 Principles of Software Engineering](https://huang.isis.vanderbilt.edu/cs4278-sp26)
+
+  - Vanderbilt University, Spring 26, FGH 136
+  - TR, 11:00am  - 12:15pm
+
+
+
 - ### [CS4278/5278 Principles of Software Engineering](https://huang.isis.vanderbilt.edu/cs4278)
 
   - Vanderbilt University, Spring 25, FGH 134
