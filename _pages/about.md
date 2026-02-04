@@ -10,12 +10,14 @@ redirect_from:
 <img src="images/vandy-logo.png" alt="Logo of Vanderbilt" width="200">
 
 
-<!--
-<span style="color:red">I am co-organizing the first workshop on
-Human-Centered AI for Software Engineering (HumanAISE, co-located with FSE/ISSTA
-2025). Please join us and share your work with us!</span> 
-Workshop Website: [https://humanai4se.github.io/](https://humanai4se.github.io/). Paper submission deadline: Extended to March 1, 2025. 
--->
+
+<span style="color:red">I am co-organizing the second workshop on
+Human-Centered AI for Software Engineering (HumanAISE, co-located with
+FSE 2026). Please join us and share your work with us!</span> 
+Workshop Website: [https://humanai4se.github.io/](https://humanai4se.github.io/). Paper submission deadline: Feb 12, 2026. 
+
+
+<span style="color:red">Undergraduate researcher recruitment for summer REU 2026: I have several fully-funded REU openings in summer 2026 for undergraduate researchers. Please check the eligibility: [https://www.nsf.gov/funding/initiatives/reu/students](https://www.nsf.gov/funding/initiatives/reu/students). If you are interested and eligible to apply, please email me with the subject title <em>2026 Summer REU</em>.  
 
 
 

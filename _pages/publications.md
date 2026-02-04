@@ -14,6 +14,20 @@ of our papers, please feel free to contact me.
 I am also working on a Dataset page - we
 always support data sharing in our community.
 <!-- ## Major Peer-reviewed Conference and Journal Papers-->
+## 2026
+- Investigating the Feasibility of Conducting Webcam-Based Eye-Tracking Studies in Code Comprehension<br>
+  Zihan Fang, Robert Wallace, Zachary Karas, Toby Li, Collin McMillan, **Yu Huang** <br>
+ *TSE 2026*<br>
+
+- EyeLayer: Integrating Human Attention Patterns into LLM-Based
+Code Summarization<br>
+  Jiahao Zhang, Yifan Zhang, Kevin Leach,  **Yu Huang** <br>
+ *ICPC 2026*<br>
+
+
+
+
+
 ## 2025
 - CodeACT-R: A Cognitive Simulation Framework for Human Attention in
   Code Reading<br>
