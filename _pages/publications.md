@@ -15,6 +15,11 @@ I am also working on a Dataset page - we
 always support data sharing in our community.
 <!-- ## Major Peer-reviewed Conference and Journal Papers-->
 ## 2026
+- Contribution Patterns in Open Source Software for Social Good: Dynamics, Individuals, and Impact <br>
+  Zihan Fang, Yueke Zhang, Thomas Zimmermann, Denae Ford,  **Yu Huang** <br>
+ *CSCW 2026*<br>
+
+
 - Investigating the Feasibility of Conducting Webcam-Based Eye-Tracking Studies in Code Comprehension<br>
   Zihan Fang, Robert Wallace, Zachary Karas, Toby Li, Collin McMillan, **Yu Huang** <br>
  *TSE 2026*<br>
