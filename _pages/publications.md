@@ -15,6 +15,19 @@ I am also working on a Dataset page - we
 always support data sharing in our community.
 <!-- ## Major Peer-reviewed Conference and Journal Papers-->
 ## 2026
+- EyeMulator: Improving Code Language Models by Mimicking Human Visual Attention <br>
+  Yifan Zhang,Chen Huang, Yueke Zhang,Jiahao Zhang, Toby Li, Collin McMillan, Kevin Leach, **Yu Huang** <br>
+ *ACL 2026*<br>
+
+ - SynthFix: Adaptive Neuro-Symbolic Code Vulnerability Repair <br>
+  Yifan Zhang, Jieyu Li, Kexin Pei,  **Yu Huang**, Kevin Leach <br>
+ *ACL 2026 Findings*<br>
+
+- ScanCoder: Leveraging Human Attention Patterns to Enhance LLMs for Code <br>
+  Yueke Zhang, Yifan Zhang,Zihan Fang, Greg Trafton, Daniel Levin, Kevin Leach, **Yu Huang** <br>
+ *FSE 2026*<br>
+
+
 - Contribution Patterns in Open Source Software for Social Good: Dynamics, Individuals, and Impact <br>
   Zihan Fang, Yueke Zhang, Thomas Zimmermann, Denae Ford,  **Yu Huang** <br>
  *CSCW 2026*<br>
