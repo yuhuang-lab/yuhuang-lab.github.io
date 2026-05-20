@@ -43,7 +43,8 @@ Our work has been mainly published in top venues in Software Engineering (e.g.,
 ICSE, FSE, ASE, TSE, TOSEM), also in Systems, HCI and Psychology (e.g., CHI, UbiComp, CSCW, ASPLOS, JMIR). 
 We have received four ACM SIGSOFT Distinguished Paper
 Awards (ICSE 2019, FSE 2023, ICSE 2024, ASE 2025). I am honored to receive the
-2025 ICPC Vaclav Rajlich Early Career Achievement Award.  
+2025 ICPC Vaclav Rajlich Early Career Achievement Award and the NSF
+CAREER award.  
 
 I received my PhD in Computer Science and Engineering at the University of Michigan
 in 2021. My advisor was [Prof. Westley Weimer](http://web.eecs.umich.edu/~weimerw). I received my MS in Computer Engineering at University of Virginia in
@@ -77,6 +78,10 @@ If you are interested in joining my lab, please check the information on
 
 News
 ======
+* **May 2026** 
+I am honored to receive the NSF CAREER award for my research "CAREER:
+Enabling Human-Guided AI for Code"! Thank you, NSF! 
+
 * **Jan 2026** 
 Congratulations to Zihan and Yueke, for their paper  
 being accepted to CSCW 2026! Their paper presents a comparative study on the large scale OSS and OSS4SG repositories on GitHub for contributor's life time trajectories and explored how to use OSS4SG as a motivating factor to improve and sustain the participation in OSS in general. 
