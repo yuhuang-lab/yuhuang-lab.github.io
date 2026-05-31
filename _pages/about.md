@@ -14,11 +14,11 @@ redirect_from:
 <span style="color:red">I am co-organizing the second workshop on
 Human-Centered AI for Software Engineering (HumanAISE, co-located with
 FSE 2026). Please join us and share your work with us!</span> 
-Workshop Website: [https://humanai4se.github.io/](https://humanai4se.github.io/). Paper submission deadline: Feb 12, 2026. 
+Workshop Website: [https://humanai4se.github.io/](https://humanai4se.github.io/).  
 
-
+<!--
 <span style="color:red">Undergraduate researcher recruitment for summer REU 2026: I have several fully-funded REU openings in summer 2026 for undergraduate researchers. Please check the eligibility: [https://www.nsf.gov/funding/initiatives/reu/students](https://www.nsf.gov/funding/initiatives/reu/students). If you are interested and eligible to apply, please email me with the subject title <em>2026 Summer REU</em>.  
-
+-->
 
 
 About me
@@ -78,6 +78,13 @@ If you are interested in joining my lab, please check the information on
 
 News
 ======
+* **May 2026** 
+Big congratulations to Yifan graduating with his PhD!! Congratulations,
+Dr. Yifan Zhang!!
+
+
+
+
 * **May 2026** 
 I am honored to receive the NSF CAREER award for my research "CAREER:
 Enabling Human-Guided AI for Code"! Thank you, NSF! 
