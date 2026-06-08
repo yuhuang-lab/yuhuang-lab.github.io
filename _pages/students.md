@@ -71,15 +71,17 @@ Current Students
     <b>Helen Wu</b> (Fall 2024 - Present) <br>
     Undergraduate Researcher at Vanderbilt 
 </td>
-</tr>
-<tr>
-     <td>
+    <td>
         <div style="text-align: center">
             <img src="/images/students/elham.png" class="student-profile-pic">
         </div>
         <b>Hassana Elham Isa</b> (Spring 2025 - Present) <br>
         Undergraduate Researcher at Vanderbilt 
     </td>
+</tr>
+<tr>
+ 
+
 <td>
     <div style="text-align: center">
         <img src="/images/students/Zichen.jpg" class="student-profile-pic">
@@ -87,9 +89,7 @@ Current Students
     <b>Zichen Zhu</b> (Spring 2025 - Present) <br>
     Undergraduate Researcher at Vanderbilt 
 </td>
- </tr>
-<tr>
-    <td>
+   <td>
         <div style="text-align: center">
             <img src="/images/students/daniel.jpg" class="student-profile-pic">
         </div>
@@ -98,12 +98,14 @@ Current Students
     </td>
 <td>
     <div style="text-align: center">
-        <img src="/images/students/landri.jpg" class="student-profile-pic">
+        <img src="/images/students/landri.png" class="student-profile-pic">
     </div>
     <b>Landri Domingue</b> (Summer 2026 - Present) <br>
     Undergraduate Researcher at Vanderbilt 
 </td>
-
+</tr>
+<tr>
+  
 <td>
     <div style="text-align: center">
         <img src="/images/students/grace.jpg" class="student-profile-pic">
