@@ -11,13 +11,6 @@ Current Students
  <tr>
     <td>
         <div style="text-align: center">
-            <img src="/images/students/yifan.png" class="student-profile-pic">
-        </div>
-        <b><a href="https://coderdoge.com" target="_blank">Yifan Zhang</a></b> (Summer 2022 - Present) <br>
-        Ph.D. Student at Vanderbilt, co-advised with Prof. Leach 
-    </td>
-    <td>
-        <div style="text-align: center">
             <img src="/images/students/zach.PNG" class="student-profile-pic">
         </div>
         <b><a href="https://zachkaras.com" target="_blank">Zach Karas</a></b> (Fall 2022 - Present) <br>
@@ -30,15 +23,15 @@ Current Students
         <b><a href="https://littlehousezh.github.io" target="_blank">Zihan Fang</a></b> (Fall 2023 - Present) <br>
         Ph.D. Student at Vanderbilt 
     </td>
- </tr>
- <tr>
-   <td>
+    <td>
         <div style="text-align: center">
             <img src="/images/students/yueke.jpg" class="student-profile-pic">
         </div>
         <b><a href="https://zyueek.github.io" target="_blank">Yueke Zhang</a></b> (Fall 2023 - Present) <br>
         Ph.D. Student at Vanderbilt 
     </td>
+ </tr>
+ <tr>
     <td>
         <div style="text-align: center">
             <img src="/images/students/Jiahao.jpg" class="student-profile-pic">
@@ -46,43 +39,38 @@ Current Students
         <b><a href="https://michael-jiahao-zhang.github.io" target="_blank"> Jiahao Zhang </a></b> (Starting Fall 2024) <br>
         Ph.D. Student at Vanderbilt 
     </td>
+    <td>
+        <div style="text-align: center">
+            <img src="/images/students/suad.jpeg" class="student-profile-pic">
+        </div>
+        <b>Suad Hassan Mohamed</b> (Starting in Fall 2026) <br>
+        Ph.D. Student at Vanderbilt 
+    </td>
  </tr>
 </table>
+
+
 
 
 ## Undergradudate Students
 <table style="border-collapse: collapse; table-layout: fixed; vertical-align: top;">
  <tr>
+<td>
+<div style="text-align: center">
+        <img src="/images/students/manish.jpeg" class="student-profile-pic">
+    </div>
+    <b>Manish Acharya</b> (Summer 2024 - Present) <br>
+    Undergraduate Researcher at Vanderbilt 
+</td>
 
-    <td>
-        <div style="text-align: center">
-            <img src="/images/students/suad.jpeg" class="student-profile-pic">
-        </div>
-        <b>Suad Hassan Mohamed</b> (Spring 24 - Present) <br>
-        Undergraduate Researcher at Belmont University
-    </td>
 
-
- 
-    <td>
+<td>
     <div style="text-align: center">
-            <img src="/images/students/manish.jpeg" class="student-profile-pic">
-        </div>
-        <b>Manish Acharya</b> (Summer 2024 - Present) <br>
-        Undergraduate Researcher at Vanderbilt 
-    </td>
-
-
- 
-
-    
-    <td>
-        <div style="text-align: center">
-            <img src="/images/students/helen.jpg" class="student-profile-pic">
-        </div>
-        <b>Helen Wu</b> (Fall 2024 - Present) <br>
-        Undergraduate Researcher at Vanderbilt 
-    </td>
+        <img src="/images/students/helen.jpg" class="student-profile-pic">
+    </div>
+    <b>Helen Wu</b> (Fall 2024 - Present) <br>
+    Undergraduate Researcher at Vanderbilt 
+</td>
 </tr>
 <tr>
      <td>
@@ -92,22 +80,40 @@ Current Students
         <b>Hassana Elham Isa</b> (Spring 2025 - Present) <br>
         Undergraduate Researcher at Vanderbilt 
     </td>
-
+<td>
+    <div style="text-align: center">
+        <img src="/images/students/Zichen.jpg" class="student-profile-pic">
+    </div>
+    <b>Zichen Zhu</b> (Spring 2025 - Present) <br>
+    Undergraduate Researcher at Vanderbilt 
+</td>
+ </tr>
+<tr>
     <td>
         <div style="text-align: center">
-            <img src="/images/students/Zichen.jpg" class="student-profile-pic">
+            <img src="/images/students/daniel.jpg" class="student-profile-pic">
         </div>
-        <b>Zichen Zhu</b> (Spring 2025 - Present) <br>
+        <b>Daniel Park</b> (Summer 2026 - Present) <br>
         Undergraduate Researcher at Vanderbilt 
     </td>
+<td>
+    <div style="text-align: center">
+        <img src="/images/students/landri.jpg" class="student-profile-pic">
+    </div>
+    <b>Landri Domingue</b> (Summer 2026 - Present) <br>
+    Undergraduate Researcher at Vanderbilt 
+</td>
 
-
-
+<td>
+    <div style="text-align: center">
+        <img src="/images/students/grace.jpg" class="student-profile-pic">
+    </div>
+    <b>Grace Grandel</b> (Summer 2026 - Present) <br>
+    Undergraduate Researcher from Yale 
+</td>
  </tr>
+</table>
 
-
-
-</table> 
 
 
 Emeritus Members - PhD Students
