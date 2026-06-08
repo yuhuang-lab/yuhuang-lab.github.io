@@ -123,7 +123,8 @@ Emeritus Members - PhD Students
 <table style="border-collapse: collapse; table-layout: fixed; vertical-align: top; width: 100%;">
  <tr>
     <td style="width: 80px; text-align: center;">
-        <img src="/images/students/yifan.png" class="student-profile-pic" style="width: 70px;">
+        <img src="/images/students/yifan.png" style="width: 60px; height: 60px; object-fit: cover; border-radius: 50%;">
+        <!-- <img src="/images/students/yifan.png" class="student-profile-pic" style="width: 70px;"> -->
     </td>
     <td style="vertical-align: middle;">
         <b><a href="https://coderdoge.com" target="_blank">Yifan Zhang</a></b> (Summer 2022 - Spring 2026), co-advised with Prof. Leach. Next stop: Salesforce AI Research
