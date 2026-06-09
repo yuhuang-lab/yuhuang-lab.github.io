@@ -182,10 +182,8 @@ Code Summarization<br>
 
 - [EyeTrans: Merging Human and Machine Attention for Neural Code
 Summarization](/paper/FSE24_EyeTrans.pdf)<br>
-Yifan Zhang, Eric Jiliang Li, Zachary Karas, Aakash Bansal, Toby
-Jia-Jun Li, Collin McMillan, Kevin Leach, **Yu Huang** <br>
-*FSE 2024*: The ACM International Conference on the Foundations
-of Software Engineering  <br>
+  Yifan Zhang, Eric Jiliang Li, Zachary Karas, Aakash Bansal, Toby Jia-Jun Li, Collin McMillan, Kevin Leach, **Yu Huang** <br>
+  *FSE 2024*: The ACM International Conference on the Foundations of Software Engineering  <br>
 [[Paper PDF]](/paper/FSE24_EyeTrans.pdf)
 
 
