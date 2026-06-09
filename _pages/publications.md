@@ -15,10 +15,6 @@ I am also working on a Dataset page - we
 always support data sharing in our community.
 <!-- ## Major Peer-reviewed Conference and Journal Papers-->
 
-hmmm, this page is currently experiencing a very weird rendering problem
-that all my papers after 2024 cannot be rendered. I am working on it
-now. At the meantime, please go to Google Scholar for the full list of
-my publications. 
 
 ## 2026
 - EyeMulator: Improving Code Language Models by Mimicking Human Visual Attention <br>
