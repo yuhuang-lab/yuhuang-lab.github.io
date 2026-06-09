@@ -19,7 +19,7 @@ always support data sharing in our community.
   Yifan Zhang,Chen Huang, Yueke Zhang,Jiahao Zhang, Toby Li, Collin McMillan, Kevin Leach, **Yu Huang** <br>
  *ACL 2026*<br>
 
- - SynthFix: Adaptive Neuro-Symbolic Code Vulnerability Repair <br>
+- SynthFix: Adaptive Neuro-Symbolic Code Vulnerability Repair <br>
   Yifan Zhang, Jieyu Li, Kexin Pei,  **Yu Huang**, Kevin Leach <br>
  *ACL 2026 Findings*<br>
 
