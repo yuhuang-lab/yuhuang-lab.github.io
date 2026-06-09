@@ -95,21 +95,18 @@ Code Summarization<br>
 
 - MALMIXER: Few-Shot Malware Classification with Retrival-Augmented
   Semi-Supervised Learning <br>
-  Eric Jiliang Li, Yifan Zhang, **Yu Huang**, Kevin
-  Leach <br>
+  Eric Jiliang Li, Yifan Zhang, **Yu Huang**, Kevin Leach <br>
   *EuroS&P 2025*
 
 
 
 - A Human Study of Cognitive Biases in CTF Challenges <br>
-  Yuwei Yang, Skyler Grandel, Daniel Balasubramanian, **Yu Huang**, Kevin
-  Leach <br>
+  Yuwei Yang, Skyler Grandel, Daniel Balasubramanian, **Yu Huang**, Kevin Leach <br>
   *HotSoS 2025*
 
 - K-ASTRO: Structure-Aware Adaptations of LLMs for Code Vulnerability
   Detection <br>
-  Yifan Zhang, Michael Sandborn, Stefan Larson, **Yu Huang**, Kevin
-  Leach <br>
+  Yifan Zhang, Michael Sandborn, Stefan Larson, **Yu Huang**, Kevin Leach <br>
   *HotSoS 2025*
 
 
