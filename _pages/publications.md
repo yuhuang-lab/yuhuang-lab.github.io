@@ -68,8 +68,6 @@ Code Summarization<br>
  *VL/HCC 2025*: 41th IEEE Symposium on Visual Languages and Human-Centric Computing <br>
 
 
-
-
 - Context-aware Code Summary Generation <br>
   Chia-Yi Su, Aakash Bansal,  **Yu Huang**, Toby Jia-Jun Li, Collin
   McMillan <br>
@@ -87,9 +85,6 @@ Code Summarization<br>
 - Enhancing Code LLM Training with Programmer Attention<br>
   Yifan Zhang, Chen Huang, Zach Karas, Thuy Dung Nguyen, Kevin Leach,  **Yu Huang** <br>
   *FSE-IVR 2025*<br>
-
-
-
 
 
 - Programmer Visual Attention During Context-Aware Code Summarization <br>
