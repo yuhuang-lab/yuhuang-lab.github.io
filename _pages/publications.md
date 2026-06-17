@@ -17,6 +17,20 @@ always support data sharing in our community.
 
 
 ## 2026
+- Novices Comprehending Functional vs. Imperative Programs: An
+  Eye-Tracking Study <br>
+  Zihan Fang, Weizhe Jiao, Robert Tairas, **Yu Huang** <br>
+  *TOSEM 2026*
+
+
+- How Well Can 3D Accessibility Guidelines Support XR Development? An
+  Interview Study with XR Practitioners in Industry <br>
+  Daniel Killough, Tiger F. Ji, Kexin Zhang, Yaxin Hu, **Yu Huang**, Ruofei Du, Yuhang
+  Zhao <br>
+ *CHI 2026*<br>
+
+
+
 - EyeMulator: Improving Code Language Models by Mimicking Human Visual Attention <br>
   Yifan Zhang,Chen Huang, Yueke Zhang,Jiahao Zhang, Toby Li, Collin McMillan, Kevin Leach, **Yu Huang** <br>
  *ACL 2026*<br>
@@ -43,6 +57,11 @@ always support data sharing in our community.
 Code Summarization<br>
   Jiahao Zhang, Yifan Zhang, Kevin Leach,  **Yu Huang** <br>
  *ICPC 2026*<br>
+
+- ComCat: Expertise-Guided Context Generation to Enhance Code Comprehension <br>
+  Skyler Grandel, Scott Anderson,  **Yu Huang**, Kevin Leach <br>
+  *TOSEM 2026*
+
 
 
 
@@ -74,10 +93,6 @@ Code Summarization<br>
   Chia-Yi Su, Aakash Bansal,  **Yu Huang**, Toby Jia-Jun Li, Collin
   McMillan <br>
   *JSS 2025*
-
-- ComCat: Expertise-Guided Context Generation to Enhance Code Comprehension <br>
-  Skyler Grandel, Scott Anderson,  **Yu Huang**, Kevin Leach <br>
-  *TOSEM 2025*
 
 - A Comparative Study on ChatGPT and Checklist as Support Tools for Unit
   Testing Education<br>
