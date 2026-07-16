@@ -70,8 +70,8 @@ forward to hearing crazy ideas from students!
 - How and why do programmers make mistakes in programming?
 - How can we learn from human cognition and expertise to improve automated models in
   programming?
-<!-- - How can we defend our system in the existence of cognitive biases? -->
-- How can we improve participation and diversity in programming?
+- How do human collaborate with AI for SE tasks?
+- How can we improve participation in programming?
 
 If you are interested in joining my lab, please check the information on
 [*Advising & Research Opportunities*](/advising).
