@@ -17,6 +17,26 @@ always support data sharing in our community.
 
 
 ## 2026
+- Understanding and Detecting GitHub Impersonation through Automated Authorship Attribution <br>
+  Yueke Zhang, Yifan Zhang, Fengwei Zhang, Pamela Wisniewski, Kevin Leach, **Yu Huang** <br>
+ *TOSEM 2026*<br>
+
+- Programming by Chat: A Large-Scale Behavioral Analysis of 11,579 Real-World AI-Assisted IDE Sessions <br>
+  Ningzhi Tang, Chaoran Chen, Zihan Fang, Gelei Xu, Maria Dhakal, Yiyu Shi, Collin McMillan, **Yu Huang**, Toby Jia-Jun Li <br>
+ *ASE 2026*<br>
+
+- Toward Inclusive Programming Support for Novice Programmers with Dyslexia: Insights from a Comparative Study <br>
+  Zihan Fang, Janice Chung, Ruijia Chen, Marcia Barnes, Yuhang Zhao, **Yu Huang** <br>
+ *ASE 2026*<br>
+
+- Human Attention During Localization of Memory Bugs in C Programs <br>
+  Emory Smith, Robert Wallace, Matthew Robison, **Yu Huang**, Collin McMillan <br>
+ *TOSEM 2026*<br>
+
+- A Grounded Theory Study to Guide AI-Driven Code Comment Improvement <br>
+  Maria Dhakal, Chia-Yi Su, Robert Wallace, Chris Fakhimi, Aakash Bansal, Toby Li, **Yu Huang**, Collin McMillan <br>
+ *JSEP 2026*<br>
+
 - Novices Comprehending Functional vs. Imperative Programs: An
   Eye-Tracking Study <br>
   Zihan Fang, Weizhe Jiao, Robert Tairas, **Yu Huang** <br>
