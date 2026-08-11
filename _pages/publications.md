@@ -17,6 +17,11 @@ always support data sharing in our community.
 
 
 ## 2026
+- NaturalEdit: Code Modification through Direct Interaction with Adaptive Natural Language Representation <br>
+  Ningzhi Tang, David Meininger, Gelei Xu, Yiyu Shi, **Yu Huang**, Collin McMillan, Toby Jia-Jun Li <br>
+ *UIST 2026*<br>
+
+
 - Understanding and Detecting GitHub Impersonation through Automated Authorship Attribution <br>
   Yueke Zhang, Yifan Zhang, Fengwei Zhang, Pamela Wisniewski, Kevin Leach, **Yu Huang** <br>
  *TOSEM 2026*<br>
