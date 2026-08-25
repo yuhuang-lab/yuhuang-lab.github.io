@@ -4,6 +4,15 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+- ### [CS 3892/3892, MTED 3050 Designing Computing for Learning](https://huang.isis.vanderbilt.edu/cs3892)
+
+  - Vanderbilt University, Fall 26, FGH 132
+  - W, 4:00pm - 7:00pm
+
+
+
+
+
 - ### [CS/ECE 4278/5278 Principles of Software Engineering](https://huang.isis.vanderbilt.edu/cs4278-sp26)
 
   - Vanderbilt University, Spring 26, FGH 136
