@@ -40,7 +40,7 @@ Occasionaly I also work on other fun projects with my students.
 
 Our research has been supported by NSF, GitHub, ARPA-H, and Vanderbilt Immersion. 
 Our work has been mainly published in top venues in Software Engineering (e.g.,
-ICSE, FSE, ASE, TSE, TOSEM), also in Systems, HCI and Psychology (e.g., CHI, UbiComp, CSCW, ASPLOS, JMIR). 
+ICSE, FSE, ASE, TSE, TOSEM), also in Systems, HCI and AI (e.g., CHI, UIST, EMNLP, UbiComp, CSCW, ASPLOS, JMIR). 
 We have received four ACM SIGSOFT Distinguished Paper
 Awards (ICSE 2019, FSE 2023, ICSE 2024, ASE 2025). I am honored to receive the
 2025 ICPC Vaclav Rajlich Early Career Achievement Award and the NSF
@@ -54,13 +54,51 @@ Technology in China in 2011.
 
 Research 
 ======
-My group focuses on **human factors and human-centered AI for software engineering**, including
+<!--
+my group focuses on **human-centered AI for software engineering**, including
 human cognition, AI for software engineering, sustainability for open source software, and computer
-science education. 
+ecience education. 
 Our work aims to bridge the divide between human cognition and automated models for programming.
 Our work spans software,
-hardware, AI, medical imaging (fMRI and fNIRS), eye tracking, and mobile sensing, collaborating with researchers from Security, Education, Psychology and Neuroscience.
-We also work on social aspects in the software engineering community.
+hardware, AI, medical imaging (fMRI, fNIRS, EEG), eye tracking, and mobile sensing, collaborating with researchers from Security, Education, Psychology and Neuroscience.
+We also work on social aspects in the software engineering community.-->
+
+
+
+
+Our research bridges human cognition and machine intelligence to advance the
+effectiveness and efficiency of software engineering, as well as
+CS and AI education. I pursue a human-centered and -inspired vision of SE
+through a closed-loop framework that (1) leverages techniques from
+diverse
+disciplines, including medical imaging (fMRI, fNIRS, EEG), eye tracking, and
+cognitive science, to systematically uncover how developers comprehend,
+test,
+debug, and create software; (2) extracts, models, and simulates the
+cognitive
+patterns and expertise underlying human programming behavior; and
+(3) integrates these insights, with appropriate abstractions and
+representations, into the design of intelligent, automated systems for
+software
+engineering (AI4SE), evaluating their impact on developers.
+
+By revealing the cognitive underpinnings of how humans engage in
+software
+development, my work deepens the scientific understanding of human
+problem
+solving in SE and drives the creation of
+next-generation
+cognitive AI tools that align with and augment human capabilities.
+Extending
+this vision, we investigate broader dimensions of human-centered
+automation,
+including developer productivity, cognitive bias in programming,
+CS education, and open-source collaboration, to build a more equitable and cognitively informed
+foundation for
+the future of SE. Our group has been collaborating with researchers from Security, Education, Psychology and Neuroscience.
+
+
+
 	
 All (but not limited to) the following questions are of interest in my group and I look
 forward to hearing crazy ideas from students!
@@ -68,8 +106,8 @@ forward to hearing crazy ideas from students!
 - How do programming experts become experts?
 - How do programmers comprehend and write code? How do they really think in programming tasks?
 - How and why do programmers make mistakes in programming?
-- How can we learn from human cognition and expertise to improve automated models in
-  programming?
+- How can we learn from human cognition and expertise to improve AI and
+  automated models for code?
 - How do human collaborate with AI for SE tasks?
 - How can we improve participation in programming?
 
