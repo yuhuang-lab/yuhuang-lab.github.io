@@ -65,7 +65,7 @@ We also work on social aspects in the software engineering community.-->
 
 
 
-
+My group focuses on **human-centered AI for software engineering**.
 Our research bridges human cognition and machine intelligence to advance the
 effectiveness and efficiency of software engineering, as well as
 CS and AI education. I pursue a human-centered and -inspired vision of SE
