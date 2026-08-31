@@ -36,14 +36,14 @@ Current Students
         <div style="text-align: center">
             <img src="/images/students/Jiahao.jpg" class="student-profile-pic">
         </div>
-        <b><a href="https://michael-jiahao-zhang.github.io" target="_blank"> Jiahao Zhang </a></b> (Starting Fall 2024) <br>
+        <b><a href="https://michael-jiahao-zhang.github.io" target="_blank"> Jiahao Zhang </a></b> (Fall 2024 - Present) <br>
         Ph.D. Student at Vanderbilt 
     </td>
     <td>
         <div style="text-align: center">
-            <img src="/images/students/suad.jpeg" class="student-profile-pic">
+            <img src="/images/students/suad.jpg" class="student-profile-pic">
         </div>
-        <b><a href="https://sussanmo.github.io" target="_blank"> Suad Hassan Mohamed </a></b> (Starting Fall 2026) <br>
+        <b><a href="https://sussanmo.github.io" target="_blank"> Suad Hassan Mohamed </a></b> (Fall 2026 - Present) <br>
         Ph.D. Student at Vanderbilt 
     </td>
  </tr>
