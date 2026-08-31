@@ -17,6 +17,15 @@ always support data sharing in our community.
 
 
 ## 2026
+
+
+- How Coding Agents Fail Their Users: A Large-Scale Analysis of
+  Developer-Agent Misalignment in 20,574 Real-World Sessions <br>
+  Ningzhi Tang, Chaoran Chen, Gelei Xu, Yiyu Shi, **Yu Huang**, Collin McMillan, Tao Dong, Toby Jia-Jun Li <br>
+ *EMNLP 2026*<br>
+
+
+
 - NaturalEdit: Code Modification through Direct Interaction with Adaptive Natural Language Representation <br>
   Ningzhi Tang, David Meininger, Gelei Xu, Yiyu Shi, **Yu Huang**, Collin McMillan, Toby Jia-Jun Li <br>
  *UIST 2026*<br>

@@ -43,7 +43,7 @@ Current Students
         <div style="text-align: center">
             <img src="/images/students/suad.jpeg" class="student-profile-pic">
         </div>
-        <b>Suad Hassan Mohamed</b> (Starting in Fall 2026) <br>
+        <b><a href="https://sussanmo.github.io" target="_blank"> Suad Hassan Mohamed </a></b> (Starting Fall 2026) <br>
         Ph.D. Student at Vanderbilt 
     </td>
  </tr>
@@ -80,15 +80,14 @@ Current Students
     </td>
 </tr>
 <tr>
- 
-
-<td>
+ <td>
     <div style="text-align: center">
-        <img src="/images/students/Zichen.jpg" class="student-profile-pic">
+        <img src="/images/students/grace.jpg" class="student-profile-pic">
     </div>
-    <b>Zichen Zhu</b> (Spring 2025 - Present) <br>
-    Undergraduate Researcher at Vanderbilt 
+    <b>Grace Grandel</b> (Summer 2026 - Present) <br>
+    Undergraduate Researcher from Yale 
 </td>
+ 
    <td>
         <div style="text-align: center">
             <img src="/images/students/daniel.jpg" class="student-profile-pic">
@@ -104,6 +103,8 @@ Current Students
     Undergraduate Researcher at Vanderbilt 
 </td>
 </tr>
+
+<!--
 <tr>
   
 <td>
@@ -113,7 +114,7 @@ Current Students
     <b>Grace Grandel</b> (Summer 2026 - Present) <br>
     Undergraduate Researcher from Yale 
 </td>
- </tr>
+ </tr>  -->
 </table>
 
 
@@ -139,6 +140,7 @@ Emeritus Members
  <!-- <p> <img src="index_files/people/danielle.png" height="60"/>
             Danielle Page </p>-->
 
+<b>Zichen Zhu</b>: Spring 2025 - Spring 2026. Undergraduate researcher 
 <b>Janice Chung</b>: Spring 2024 - Summer 2025. Undergraduate researcher 
 
 <b>Ashley Lai</b>: Fall 2025. Undergraduate researcher 
