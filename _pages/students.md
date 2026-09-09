@@ -141,6 +141,7 @@ Emeritus Members
             Danielle Page </p>-->
 
 <b>Zichen Zhu</b>: Spring 2025 - Spring 2026. Undergraduate researcher 
+
 <b>Janice Chung</b>: Spring 2024 - Summer 2025. Undergraduate researcher 
 
 <b>Ashley Lai</b>: Fall 2025. Undergraduate researcher 

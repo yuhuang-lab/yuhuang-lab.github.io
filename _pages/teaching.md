@@ -7,7 +7,7 @@ author_profile: true
 - ### [CS 3892/5892, MTED 3050 Designing Computing for Learning](https://huang.isis.vanderbilt.edu/cs3892)
 
   - Vanderbilt University, Fall 26, FGH 132
-  - W, 4:00pm - 7:00pm
+  - W, 4:10pm - 7:00pm
 
 
 
