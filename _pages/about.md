@@ -134,6 +134,12 @@ News
 Congratulations to Zihan for her paper being accepted to ASE 2026!
 
 * **May 2026** 
+I am honored to receive the Pathbreaking Research Award from the College
+of Connected Computing! Thank you, CCC! 
+
+
+
+* **May 2026** 
 Big congratulations to Yifan graduating with his PhD!! Congratulations,
 Dr. Yifan Zhang!!
 
