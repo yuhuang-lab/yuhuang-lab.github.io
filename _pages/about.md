@@ -32,7 +32,7 @@ Integrated Systems](https://www.isis.vanderbilt.edu/), [the Frist Austism Center
 
 I lead the research of the **MIND Lab** -- the **M**ixed **IN**telligence
 **D**evelopment for programming lab. 
-Our research focuses on understanding and combining human cognition and
+Our research focuses on understanding and combining human intelligence and
 machine
 intelligence to improve the effectiveness and efficiency in
 the software development process. 
@@ -64,7 +64,7 @@ hardware, AI, medical imaging (fMRI, fNIRS, EEG), eye tracking, and mobile sensi
 We also work on social aspects in the software engineering community.-->
 
 
-
+<!--
 My group focuses on **human-centered AI for software engineering**.
 Our research bridges human cognition and machine intelligence to advance the
 effectiveness and efficiency of software engineering, as well as
@@ -96,8 +96,22 @@ including developer productivity, cognitive bias in programming,
 CS education, and open-source collaboration, to build a more equitable and cognitively informed
 foundation for
 the future of SE. Our group has been collaborating with researchers from Security, Education, Psychology and Neuroscience.
+-->
+My group studies **human-centered AI for software engineering**, with a
+particular interest in how human cognition and machine intelligence can
+learn from one another. We study how people understand, create, and
+debug software, how AI approaches the same problems, and whether
+insights from human problem solving can help us build more capable,
+trustworthy, and human-aligned AI systems for programming.
 
-
+Our work brings together software engineering, AI, cognitive science,
+and neuroscience. We use a range of methods to study human cognition and
+behavior (e.g., fMRI, fNIRS, EEG, eye tracking, etc.),
+model and simulate human problem-solving processes, and translate what
+we learn into new AI systems. We also study the broader human side of
+computing, including developer productivity, CS and AI education,
+ and open-source communities. We collaborate closely with researchers in AI,
+security, education, psychology, and neuroscience.
 
 	
 All (but not limited to) the following questions are of interest in my group and I look
@@ -116,12 +130,12 @@ If you are interested in joining my lab, please check the information on
 
 News
 ======
+* **Aug 2026** 
+Congratulations to Zihan for her paper being accepted to ASE 2026!
+
 * **May 2026** 
 Big congratulations to Yifan graduating with his PhD!! Congratulations,
 Dr. Yifan Zhang!!
-
-
-
 
 * **May 2026** 
 I am honored to receive the NSF CAREER award for my research "CAREER:
