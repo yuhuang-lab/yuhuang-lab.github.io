@@ -216,6 +216,9 @@ Department of Computer Science!
 * **April 2025** 
 Thank you, ICPC, for the Vaclav Rajlich Early Career Achievement Award!
 
+<details><summary>MORE...</summary>
+<div markdown="1">
+
 
 
 * **Jan 2025** 
@@ -278,9 +281,6 @@ Congratulations to our undergrad researcher, Yimeng, for her paper receiving the
          SIGSOFT Distinguished Paper Award at ICSE 24!
 
 
-
-<details><summary>MORE...</summary>
-<div markdown="1">
 
      
 * **Dec 2023** 
